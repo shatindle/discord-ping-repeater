@@ -1,0 +1,11 @@
+{
+    "repeater": [
+        {
+            "purpose": "Match Search",
+            "listenForRoleId": "USER PINGABLE ROLE",
+            "pingsRoleId": "BOT ONLY PINGABLE ROLE",
+            "rateLimit": 1800000
+        }
+    ],
+    "token": "DISCORD BOT TOKEN"
+}
