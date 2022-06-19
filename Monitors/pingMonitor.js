@@ -54,7 +54,7 @@ const expireTimer = setInterval(expire, 60 * 1000);
                                 if (!responded) {
                                     responded = true;
     
-                                    const minutes = Math.trunc((messageLogs[ping.purpose][message.member.user.id] - now) / 60000);
+                                    const minutes = Math.trunc((ping.rateLimit - (now - messageLogs[ping.purpose][message.member.user.id])) / 60000);
                        
                                     const timeLeft = minutes > 1 ? "" + minutes + " minutes" : "about a minute";
     
