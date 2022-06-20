@@ -77,7 +77,7 @@ const expireTimer = setInterval(expire, 60 * 1000);
     
                             // alert the media!
                             await message.channel.send(
-                                `**<@${userId}> is looking for <@&${ping.pingsRoleId}>**  They said:\n\n${message.content.substring(0, 1500)}`);
+                                `**<@${userId}> is <@&${ping.pingsRoleId}>**.  They said:\n\n${message.content.substring(0, 1500)}`);
                         }
                     }
                 }
