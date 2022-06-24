@@ -1,4 +1,5 @@
 const DiscordApi = require('discord.js');
+const { stripUrlFromMessage } = require("../data/urlParser");
 const { repeater } = require("../settings.json");
 
 const messageLogs = {};
@@ -74,10 +75,12 @@ const expireTimer = setInterval(expire, 60 * 1000);
     
                         if (!responded) {
                             responded = true;
+
+                            const cleanMessage = stripUrlFromMessage(message.content);
     
                             // alert the media!
                             await message.channel.send(
-                                `**<@${userId}> is <@&${ping.pingsRoleId}>**.  They said:\n\n${message.content.substring(0, 1500)}`);
+                                `**<@${userId}> is <@&${ping.pingsRoleId}>**.  They said:\n\n${cleanMessage.substring(0, 1500)}`);
                         }
                     }
                 }
