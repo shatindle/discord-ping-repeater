@@ -1,6 +1,7 @@
 const DiscordApi = require('discord.js');
 const { stripUrlFromMessage } = require("../data/urlParser");
 const { repeater } = require("../settings.json");
+const { searchGear } = require("../data/gearRepo");
 
 const messageLogs = {};
 
@@ -76,11 +77,28 @@ const expireTimer = setInterval(expire, 60 * 1000);
                         if (!responded) {
                             responded = true;
 
-                            const cleanMessage = stripUrlFromMessage(message.content);
+                            const messageContent = stripUrlFromMessage(message.content);
+
+                            const sendableMessage = {
+                                content: `**<@${userId}> is <@&${ping.pingsRoleId}>**.  They said:\n\n${messageContent.substring(0, 1500)}`
+                            };
+
+                            let imageToSend;
+
+                            if (ping.imageRepo && (!message.attachments || message.attachments.size === 0)) {
+
+                                if (ping.imageRepo === "gear") {
+                                    imageToSend = await searchGear(messageContent);
     
+                                    if (imageToSend)
+                                        sendableMessage.files = [{
+                                            attachment: imageToSend
+                                        }];
+                                }
+                            }
+
                             // alert the media!
-                            await message.channel.send(
-                                `**<@${userId}> is <@&${ping.pingsRoleId}>**.  They said:\n\n${cleanMessage.substring(0, 1500)}`);
+                            await message.channel.send(sendableMessage);
                         }
                     }
                 }
