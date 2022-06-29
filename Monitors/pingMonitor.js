@@ -20,8 +20,20 @@ function expire() {
     }
 }
 
-const expireTimer = setInterval(expire, 60 * 1000);
+setInterval(expire, 60 * 1000);
 
+const snarkyReply = [
+    "Meow! (oops, w‌‌rong s‌‌ub)",
+    "Meow! (I'm trying my hardest, ok)",
+    "Meow! (are you talkin' to me?)",
+    "Meow! (I'm pretty sure that's actually what you wanted though)",
+    "Meow! (shut)",
+    "Meow! (I meant to do that)",
+    "Meow! (banana phone)",
+    "Meow! (I have displeased the great zapfish)",
+    "Meow! (oops, I did it again)",
+    "Meow! (I'm not a mind reader, you know)"
+];
 /**
  * @description Looks for nitro/steam scams and removes them
  * @param {DiscordApi.Client} discord The discord client
@@ -102,6 +114,8 @@ const expireTimer = setInterval(expire, 60 * 1000);
                         }
                     }
                 }
+            } else if (message.mentions.repliedUser && message.mentions.repliedUser.id === discord.user.id) {
+                await message.reply({ content: snarkyReply[Math.floor(Math.random() * snarkyReply.length)] });
             }
         } catch (err) {
             console.log(`Error when responding: ${err.toString()}`);
