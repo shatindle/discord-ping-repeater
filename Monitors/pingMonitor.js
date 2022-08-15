@@ -2,6 +2,7 @@ const DiscordApi = require('discord.js');
 const { stripUrlFromMessage } = require("../data/urlParser");
 const { repeater } = require("../settings.json");
 const { searchGear } = require("../data/gearRepo");
+const logActivity = require("../data/logActivity");
 
 const messageLogs = {};
 
@@ -54,64 +55,109 @@ const snarkyReply = [
         const userId = message.member.id;
         const now = new Date().valueOf();
 
-        let responded = false;
-
         try {
             if (message.mentions.roles.size > 0) {
                 for (let ping of repeater) {
                     // check if this message contains a ping
                     if (message.mentions.roles.has(ping.listenForRoleId)) {
+                        // check if this role has a proxy
+                        if (!ping.pingsRoleId) {
+                            if (ping.errors.noping) {
+                                const response = await message.reply({ content: ping.errors.noping });
+
+                                setTimeout(async () => {
+                                    try {
+                                        if (response.deletable) await response.delete();
+                                    } catch { /* don't care */ }
+                                }, 5000);
+    
+                                await logActivity(discord, "Bad Ping Role", `**Username:** ${message.member.user.username}#${message.member.user.discriminator}\n**ID:** ${message.member.id}\nPinged <@&${ping.listenForRoleId}> in <#${message.channelId}>`);
+                            }
+
+                            return;
+                        }
+                        
+                        // check if the channel they asked in is appropriate
+                        if (ping.channels && ping.channels.length > 0 && ping.channels.indexOf(message.channelId) === -1) {
+                            // they asked in the wrong channel
+                            let channelList = "";
+
+                            if (ping.channels.length === 1) channelList = `<#${ping.channels[0]}>`;
+                            else if (ping.channels.length === 2) channelList = `<#${ping.channels[0]}> or <#${ping.channels[1]}>`;
+                            else {
+                                ping.channels.forEach((c, i) => {
+                                    if (i === ping.channels.length - 1) channelList += `, or <#${c}>`;
+                                    else if (i === 0) channelList += `<#${c}>`;
+                                    else channelList += `, <#${c}>`;
+                                });
+                            }
+                            let channelMessage = ping.errors.channels.replace("{channels}", channelList);
+
+                            const response = await message.reply({ content: channelMessage });
+
+                            setTimeout(async () => {
+                                try {
+                                    if (response.deletable) await response.delete();
+                                } catch { /* don't care */ }
+                            }, 5000);
+
+                            await logActivity(discord, "Wrong Channel", `**Username:** ${message.member.user.username}#${message.member.user.discriminator}\n**ID:** ${message.member.id}\nPinged <@&${ping.listenForRoleId}> in <#${message.channelId}>`);
+
+                            return;
+                        }
+
                         if (!message.member.permissions.has(DiscordApi.Permissions.FLAGS.MANAGE_MESSAGES)) {
                             // member is not a mod, they may be ratelimited
                             // check if the user is ratelimited
                             if (messageLogs[ping.purpose][message.member.user.id]) {
-                                if (!responded) {
-                                    responded = true;
-    
-                                    const minutes = Math.trunc((ping.rateLimit - (now - messageLogs[ping.purpose][message.member.user.id])) / 60000);
+                                const ms = (ping.rateLimit - (now - messageLogs[ping.purpose][message.member.user.id]));
+
+                                if (ms > 0) {
+                                    const minutes = Math.trunc(ms / 60000);
                        
                                     const timeLeft = minutes > 1 ? "" + minutes + " minutes" : "about a minute";
     
                                     const response = await message.reply({ content: `Please wait ${timeLeft} before pinging this role again` });
                                     
                                     setTimeout(async () => {
-                                        if (response.deletable)
-                                            await response.delete();
+                                        try {
+                                            if (response.deletable) await response.delete();
+                                        } catch { /* don't care */ }
                                     }, 5000);
+                                    
+                                    await logActivity(discord, "Rate Limited", `**Username:** ${message.member.user.username}#${message.member.user.discriminator}\n**ID:** ${message.member.id}\n**Time Remaining:** ${ms}ms\nPinged <@&${ping.listenForRoleId}> in <#${message.channelId}>`);
+        
+                                    return;
                                 }
-    
-                                continue;
                             }
     
                             messageLogs[ping.purpose][message.member.user.id] = now;
                         }
     
-                        if (!responded) {
-                            responded = true;
+                        const messageContent = stripUrlFromMessage(message.content);
 
-                            const messageContent = stripUrlFromMessage(message.content);
+                        const sendableMessage = {
+                            content: `**<@${userId}> is <@&${ping.pingsRoleId}>**.  They said:\n\n${messageContent.substring(0, 1500)}`
+                        };
 
-                            const sendableMessage = {
-                                content: `**<@${userId}> is <@&${ping.pingsRoleId}>**.  They said:\n\n${messageContent.substring(0, 1500)}`
-                            };
+                        let imageToSend;
 
-                            let imageToSend;
+                        if (ping.imageRepo && (!message.attachments || message.attachments.size === 0)) {
 
-                            if (ping.imageRepo && (!message.attachments || message.attachments.size === 0)) {
+                            if (ping.imageRepo === "gear") {
+                                imageToSend = await searchGear(messageContent);
 
-                                if (ping.imageRepo === "gear") {
-                                    imageToSend = await searchGear(messageContent);
-    
-                                    if (imageToSend)
-                                        sendableMessage.files = [{
-                                            attachment: imageToSend
-                                        }];
-                                }
+                                if (imageToSend)
+                                    sendableMessage.files = [{
+                                        attachment: imageToSend
+                                    }];
                             }
-
-                            // alert the media!
-                            await message.channel.send(sendableMessage);
                         }
+
+                        // alert the media!
+                        await message.channel.send(sendableMessage);
+
+                        return;
                     }
                 }
             } else if (message.mentions.repliedUser && message.mentions.repliedUser.id === discord.user.id) {
