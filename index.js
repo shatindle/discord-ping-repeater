@@ -1,5 +1,7 @@
 const { Client, Intents } = require('discord.js');
 const { token } = require('./settings.json');
+const { messageCreate:messageCreatePing } = require("./Monitors/pingMonitor");
+const { messageCreate:messageCreateInvite, messageUpdate:messageUpdateInvite } = require("./Monitors/inviteMonitor");
 
 const client = new Client({ 
     intents: [
@@ -9,8 +11,16 @@ const client = new Client({
     partials: ['MESSAGE', 'CHANNEL', 'REACTION'] 
 });
 
+client.on('messageCreate', async (message) => {
+    if (await messageCreateInvite(client, message)) return;
+    if (await messageCreatePing(client, message)) return;
+});
+
+client.on('messageUpdate', async (oldMessage, newMessage) => {
+    if (await messageUpdateInvite(client, oldMessage, newMessage)) return;
+})
+
 client.once('ready', async () => {
-    require("./Monitors/pingMonitor")(client);
     await require("./Monitors/status")(client);
 });
 

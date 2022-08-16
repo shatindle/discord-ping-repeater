@@ -46,10 +46,6 @@ async function refreshGear() {
         ...(await shoes(2))
     ];
 
-    items.index.splatoon2 = {};
-
-    items.splatoon2.forEach(t => items.index.splatoon2[t.name.split(" ")[0]] = true);
-
     const y = items.splatoon2.map(t => t.name.split(" ").length).sort();
 
     items.words.splatoon2 = y[y.length - 1];
@@ -79,11 +75,15 @@ async function refreshGear() {
                 tempIndex[combination] = true;
             }
         });
-    })
+    });
+
+    items.index.splatoon2 = {};
+
+    items.splatoon2.forEach(t => items.index.splatoon2[t.name.split(" ")[0]] = true);
 
     searchApi = new Fuse(items.splatoon2, {
         keys: ["name"],
-        threshold: 0.1
+        threshold: 0.02
     });
 }
 
@@ -107,20 +107,37 @@ async function searchGear(searchText) {
 
     searchText = searchText.split("").filter(t => items.validCharacters.splatoon2.indexOf(t) > -1 || t === " ").join("");
 
-    const candidates = Object.keys(items.index.splatoon2).map(t => searchText.indexOf(t)).filter(t => t > -1);
+    const candidates = Object.keys(items.index.splatoon2).map(t => {
+        if (t === "" || t === " ") return -1;
+
+        const index = searchText.indexOf(t);
+
+        if (index === 0 || searchText[index - 1] === " ") 
+            return index;
+
+        return -1;
+    }).filter(t => t > -1).sort();
 
     if (candidates.length === 0) return "";
 
     const allCandidates = [];
 
+    let endOfLastFinding = -1;
+
     for (let candidate of candidates) {
+        if (candidate < endOfLastFinding) continue;
+
         // these are the indexes of potential candidates
         const startOfWords = searchText.substring(candidate);
         const words = startOfWords.split(" ");
 
         for (let i = items.words.splatoon2; i > 0; i--) {
-            let result = attemptResult(words, i);
-            if (result.length > 0) allCandidates.push(result[0].item.image);
+            let finding = attemptResult(words, i);
+            if (finding.results.length > 0) {
+                endOfLastFinding = candidate + finding.sentence.length;
+                allCandidates.push(finding.results[0].item.image);
+                break;
+            }
         }
     }
 
@@ -140,7 +157,10 @@ function attemptResult(words, length) {
 
     ourSentence = ourSentence.trim();
 
-    return searchApi.search(ourSentence);
+    return {
+        sentence: ourSentence,
+        results: searchApi.search(ourSentence)
+    }
 }
 
 refreshGear();

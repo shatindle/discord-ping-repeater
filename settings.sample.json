@@ -4,8 +4,22 @@
             "purpose": "Match Search",
             "listenForRoleId": "USER PINGABLE ROLE",
             "pingsRoleId": "BOT ONLY PINGABLE ROLE",
-            "rateLimit": 1800000
+            "rateLimit": 1800000,
+            "imageRepo": "gear",
+            "channels": [
+                "991901043854549544"
+            ],
+            "errors": {
+                "channels": "When looking for gear, please ping <@&98822553262231562> in {channels}.",
+                "noping": "That is a mod role.  If you're looking for games, please ping <@&988222625253431562> instead."
+            }
         }
     ],
+    "spamChannel": "CHANNEL TO SEND LOGS TO",
+    "invites": {
+        "allowed": [
+            "991901043854545344"
+        ]
+    },
     "token": "DISCORD BOT TOKEN"
 }
