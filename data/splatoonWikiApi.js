@@ -85,16 +85,16 @@ function processGearTable(table) {
                         gear.image = item.indexOf("http") === 0 ? item : `https:${item}`;
                         break;
                     case 1: // this is the name of the gear
-                        gear.name = col.innerText.replace("\n", "").replace(/&#?[a-z0-9]+;/ig, "").toLowerCase();
+                        gear.name = col.innerText.replace("\n", "").replace("'", "").replace(/&#?[a-z0-9]+;/ig, "").toLowerCase();
                         break;
                     case 2: // this is the brand
-                        gear.brand = col.innerText.replace("\n", "").replace(/&#?[a-z0-9]+;/ig, "").toLowerCase();
+                        gear.brand = col.innerText.replace("\n", "").replace("'", "").replace(/&#?[a-z0-9]+;/ig, "").toLowerCase();
                         break;
                     case 3: // this is the cost
-                        gear.cost = col.innerText.replace("\n", "").replace(/&#?[a-z0-9]+;/ig, "").toLowerCase();
+                        gear.cost = col.innerText.replace("\n", "").replace("'", "").replace(/&#?[a-z0-9]+;/ig, "").toLowerCase();
                         break;
                     case 4: // this is the primary ability
-                        gear.ability = col.innerText.replace("\n", "").replace(/&#?[a-z0-9]+;/ig, "").toLowerCase();
+                        gear.ability = col.innerText.replace("\n", "").replace("'", "").replace(/&#?[a-z0-9]+;/ig, "").toLowerCase();
                         break;
                     case 5: // this is the rarity
                         gear.rarity = col.querySelectorAll("img[alt='Star-empty.png']").length.toString().toLowerCase();

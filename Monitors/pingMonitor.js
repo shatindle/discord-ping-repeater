@@ -147,10 +147,12 @@ const snarkyReply = [
                             if (ping.imageRepo === "gear") {
                                 imageToSend = await searchGear(messageContent);
 
-                                if (imageToSend)
-                                    sendableMessage.files = [{
-                                        attachment: imageToSend
-                                    }];
+                                if (imageToSend && imageToSend.length)
+                                    sendableMessage.files = imageToSend.map(t => {
+                                        return {
+                                            attachment: t
+                                        }
+                                    });
                             }
                         }
 
