@@ -12,7 +12,7 @@ const client = new Client({
 });
 
 client.on('messageCreate', async (message) => {
-    if (await messageCreateInvite(client, message)) return;
+    // if (await messageCreateInvite(client, message)) return;
     if (await messageCreatePing(client, message)) return;
 });
 

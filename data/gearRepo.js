@@ -133,7 +133,7 @@ async function searchGear(searchText) {
 
         for (let i = items.words.splatoon2; i > 0; i--) {
             let finding = attemptResult(words, i);
-            if (finding.results.length > 0) {
+            if (finding.results.length > 0 && finding.results.length < 3) {
                 endOfLastFinding = candidate + finding.sentence.length;
                 allCandidates.push(finding.results[0].item.image);
                 break;
