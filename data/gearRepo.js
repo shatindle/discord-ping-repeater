@@ -131,12 +131,14 @@ function attemptResult(words, length) {
     let ourSentence = "";
 
     for (let i = 0; i < words.length; i++) {
-        if (i > length) break;
+        if (i >= length) break;
 
         let word = words[i];
 
         ourSentence += `${word} `;
     }
+
+    ourSentence = ourSentence.trim();
 
     return searchApi.search(ourSentence);
 }
