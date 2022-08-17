@@ -104,6 +104,8 @@ function discordUrl(url, stripDomain = false) {
 
 async function getServerIdFromInvite(url) {
     try {
+        if (!discordInvitePattern.test(url)) return null;
+
         let code = discordUrl(url, true);
         if (!code) return null;
         if (code.indexOf("friend-invite/") === 0) code = code.substring("friend-invite/".length);
