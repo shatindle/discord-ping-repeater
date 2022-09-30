@@ -41,6 +41,10 @@ function permutator(inputArr) {
 
 async function refreshGear() {
     items.splatoon2 = [
+        ...(await headgear(3)),
+        ...(await clothing(3)),
+        ...(await shoes(3)),
+        
         ...(await headgear(2)),
         ...(await clothing(2)),
         ...(await shoes(2))
