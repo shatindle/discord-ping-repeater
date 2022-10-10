@@ -1,4 +1,4 @@
-const { Client, User, Message, Permissions, PermissionsBitField } = require('discord.js');
+const { Client, User, Message, PermissionsBitField } = require('discord.js');
 const { extractUrlsFromContent, getServerIdFromInvite } = require("../data/urlParser");
 const { invites } = require("../settings.json");
 const logActivity = require("../data/logActivity");

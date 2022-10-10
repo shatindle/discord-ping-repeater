@@ -1,4 +1,4 @@
-const { Client, Message, Permissions} = require('discord.js');
+const { Client, Message, PermissionsBitField} = require('discord.js');
 const { stripUrlFromMessage } = require("../data/urlParser");
 const { repeater } = require("../settings.json");
 const { searchGear } = require("../data/gearRepo");
@@ -101,7 +101,7 @@ for (let ping of repeater) messageLogs[ping.purpose] = {};
                         return true;
                     }
 
-                    if (!message.member.permissions.has(Permissions.FLAGS.MANAGE_MESSAGES)) {
+                    if (!message.member.permissions.has(PermissionsBitField.Flags.ManageMessages)) {
                         // member is not a mod, they may be ratelimited
                         // check if the user is ratelimited
                         if (messageLogs[ping.purpose][message.member.user.id]) {
