@@ -6,7 +6,8 @@ const { messageCreate:messageCreateInvite, messageUpdate:messageUpdateInvite } =
 const client = new Client({ 
     intents: [
         GatewayIntentBits.Guilds,
-        GatewayIntentBits.GuildMessages
+        GatewayIntentBits.GuildMessages,
+        GatewayIntentBits.MessageContent
     ], 
     partials: [
         Partials.Message,
