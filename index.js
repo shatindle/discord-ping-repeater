@@ -1,14 +1,18 @@
-const { Client, Intents } = require('discord.js');
+const { Client, GatewayIntentBits, Partials } = require('discord.js');
 const { token } = require('./settings.json');
 const { messageCreate:messageCreatePing } = require("./Monitors/pingMonitor");
 const { messageCreate:messageCreateInvite, messageUpdate:messageUpdateInvite } = require("./Monitors/inviteMonitor");
 
 const client = new Client({ 
     intents: [
-        Intents.FLAGS.GUILDS,
-        Intents.FLAGS.GUILD_MESSAGES
+        GatewayIntentBits.Guilds,
+        GatewayIntentBits.GuildMessages
     ], 
-    partials: ['MESSAGE', 'CHANNEL', 'REACTION'] 
+    partials: [
+        Partials.Message,
+        Partials.Channel,
+        Partials.Reaction
+    ] 
 });
 
 client.on('messageCreate', async (message) => {

@@ -1,4 +1,4 @@
-const { MessageEmbed } = require("discord.js");
+const { EmbedBuilder } = require("discord.js");
 const { spamChannel } = require("../settings.json");
 
 async function logActivity(client, action, activity) {
@@ -8,7 +8,7 @@ async function logActivity(client, action, activity) {
         if (!channel || !channel.send)
             channel = client.channels.fetch(spamChannel);
 
-        const message = new MessageEmbed()
+        const message = new EmbedBuilder()
             .setColor("#d3c3df")
             .setTitle(action)
             .setDescription(activity)

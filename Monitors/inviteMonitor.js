@@ -1,4 +1,4 @@
-const { Client, Message, Permissions } = require('discord.js');
+const { Client, User, Message, Permissions, PermissionsBitField } = require('discord.js');
 const { extractUrlsFromContent, getServerIdFromInvite } = require("../data/urlParser");
 const { invites } = require("../settings.json");
 const logActivity = require("../data/logActivity");
@@ -24,6 +24,15 @@ async function allowedLinks(content, thisGuildId) {
     return true;
 }
 
+/**
+ * 
+ * @param {Client} discord 
+ * @param {Message} message 
+ * @param {User} user 
+ * @param {String} userId 
+ * @param {String} channelId 
+ * @param {String} content 
+ */
 async function removeMessage(discord, message, user, userId, channelId, content) {
     await logActivity(discord, "Forbidden Invite", `**Username:** ${user}\n**ID:** ${userId}\n**Channel:** <#${channelId}>\n**__Message__**\n\n${content}`);
 
@@ -43,11 +52,12 @@ async function removeMessage(discord, message, user, userId, channelId, content)
 /**
  * @description Looks discord invites and removes them if they aren't in the whitelist
  * @param {Client} discord The discord client
+ * @param {Message} message
  */
 async function messageCreate(discord, message) {
     // ignore messages from mods and bots
     if (message.author.bot) return;
-    if (message.member.permissions.has(Permissions.FLAGS.MANAGE_MESSAGES)) return;
+    if (message.member.permissions.has(PermissionsBitField.Flags.ManageMessages)) return;
 
     const user = `${message.member.user.username}#${message.member.user.discriminator}`;
     const userId = message.member.id;
@@ -65,12 +75,19 @@ async function messageCreate(discord, message) {
     }
 }
 
+/**
+ * 
+ * @param {Client} discord 
+ * @param {Message} oldMessage 
+ * @param {Message} newMessage 
+ * @returns 
+ */
 async function messageUpdate(discord, oldMessage, newMessage) {
     const message = newMessage;
 
     // ignore messages from mods and bots
     if (message.author.bot) return;
-    if (message.member.permissions.has(Permissions.FLAGS.MANAGE_MESSAGES)) return;
+    if (message.member.permissions.has(PermissionsBitField.Flags.ManageMessages)) return;
 
     const user = `${message.member.user.username}#${message.member.user.discriminator}`;
     const userId = message.member.id;
