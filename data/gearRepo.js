@@ -1,5 +1,6 @@
 const { headgear, clothing, shoes } = require("./splatoonWikiApi");
 const Fuse = require("fuse.js");
+const settings = require("../settings.json");
 
 let items = {
     splatoon2: [],
@@ -40,6 +41,8 @@ function permutator(inputArr) {
 }
 
 async function refreshGear() {
+    if (!settings.gearSites) return;
+
     items.splatoon2 = [
         ...(await headgear(3)),
         ...(await clothing(3)),
@@ -100,6 +103,7 @@ function onlyUnique(value, index, self) {
 }
 
 async function searchGear(searchText) {
+    if (!settings.gearSites) return;
     if (!searchText) return;
 
     searchText = searchText

@@ -23,9 +23,9 @@
   },
   "homepage": "https://github.com/shatindle/discord-gif-cop#readme",
   "dependencies": {
-    "discord.js": "^14.5.0",
+    "discord.js": "^14.7.1",
     "fuse.js": "^6.6.2",
-    "node-fetch": "^2.6.7",
-    "node-html-parser": "^5.3.3"
+    "node-fetch": "^2.6.9",
+    "node-html-parser": "^6.1.4"
   }
 }
