@@ -12,7 +12,9 @@
             "errors": {
                 "channels": "When looking for gear, please ping <@&98822553262231562> in {channels}.",
                 "noping": "That is a mod role.  If you're looking for games, please ping <@&988222625253431562> instead."
-            }
+            },
+            "global": true,
+            "verify": []
         }
     ],
     "spamChannel": "CHANNEL TO SEND LOGS TO",
