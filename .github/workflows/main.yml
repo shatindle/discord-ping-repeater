@@ -30,8 +30,8 @@ jobs:
           npm install
           npm audit fix || true
           pm2 stop judd-echo-ping
-          pm2 stop kobe-judd-bot
+          #pm2 stop kobe-judd-bot
           cp -r $GITHUB_WORKSPACE/* /home/sha_tindle/repos/discord-ping-repeater
-          cp -r $GITHUB_WORKSPACE/* /home/sha_tindle/repos/kobe-judd-bot
+          #cp -r $GITHUB_WORKSPACE/* /home/sha_tindle/repos/kobe-judd-bot
           pm2 start judd-echo-ping
-          pm2 start kobe-judd-bot
+          #pm2 start kobe-judd-bot
