@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+  discord-ping-repeater-bot:
+    build: 
+      context: .
+      dockerfile: Dockerfile
+    restart: unless-stopped
+    networks:
+      - discord-ping-repeater-bot-network
+    volumes:
+      - ./settings.json:/home/node/app/settings.json:ro
+
+networks:
+  discord-ping-repeater-bot-network:
