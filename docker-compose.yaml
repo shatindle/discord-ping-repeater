@@ -5,6 +5,7 @@ services:
     build: 
       context: .
       dockerfile: Dockerfile
+    container_name: discord-ping-repeater
     restart: unless-stopped
     networks:
       - discord-ping-repeater-bot-network
