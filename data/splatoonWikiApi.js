@@ -1,3 +1,5 @@
+// this is no longer needed, kept in case we need to pull from this format again in the future.  By hand, you need the processGearTable script with the table passed into it.  Cloudflare is now in front of the site and preventing further updates without significant work.  See ./dataFiles
+
 const fetch = require('node-fetch');
 const { parse } = require("node-html-parser");
 const { gearSites } = require("../settings.json");

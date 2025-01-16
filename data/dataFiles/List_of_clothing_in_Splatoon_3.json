@@ -1,0 +1,2850 @@
+[
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/55/S3_Gear_Clothing_Aloha_Shirt.png/120px-S3_Gear_Clothing_Aloha_Shirt.png",
+        "name": "aloha shirt",
+        "brand": " forge",
+        "cost": " 700",
+        "ability": " ink recovery up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/5d/S3_Gear_Clothing_Anchor_Life_Vest.png/120px-S3_Gear_Clothing_Anchor_Life_Vest.png",
+        "name": "anchor life vest",
+        "brand": " grizzco",
+        "cost": " 5",
+        "ability": " quick respawn",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/43/S3_Gear_Clothing_Anchor_Sweat.png/120px-S3_Gear_Clothing_Anchor_Sweat.png",
+        "name": "anchor sweat",
+        "brand": " squidforce",
+        "cost": " 2,800",
+        "ability": " intensify action",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/6d/S3_Gear_Clothing_Annaki_Anchored_Coat.png/120px-S3_Gear_Clothing_Annaki_Anchored_Coat.png",
+        "name": "annaki anchored coat",
+        "brand": " annaki",
+        "cost": " 12,000",
+        "ability": " special saver",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/e4/S3_Gear_Clothing_Annaki_Blue_Cuff.png/120px-S3_Gear_Clothing_Annaki_Blue_Cuff.png",
+        "name": "annaki blue cuff",
+        "brand": " annaki",
+        "cost": " 4,800",
+        "ability": " special saver",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/a1/S3_Gear_Clothing_Annaki_Bracelet_Tee.png/120px-S3_Gear_Clothing_Annaki_Bracelet_Tee.png",
+        "name": "annaki bracelet tee",
+        "brand": " annaki",
+        "cost": " 8,000",
+        "ability": " haunt",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/b/bd/S3_Gear_Clothing_Annaki_Choker_Tee.png/120px-S3_Gear_Clothing_Annaki_Choker_Tee.png",
+        "name": "annaki choker tee",
+        "brand": " annaki",
+        "cost": " 4,000",
+        "ability": " special power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/9/9f/S3_Gear_Clothing_Annaki_Drive_Tee.png/120px-S3_Gear_Clothing_Annaki_Drive_Tee.png",
+        "name": "annaki drive tee",
+        "brand": " annaki",
+        "cost": " 5,500",
+        "ability": " thermal ink",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/6b/S3_Gear_Clothing_Annaki_Evolution_Tee.png/120px-S3_Gear_Clothing_Annaki_Evolution_Tee.png",
+        "name": "annaki evolution tee",
+        "brand": " annaki",
+        "cost": " 8,800",
+        "ability": " respawn punisher",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/1/1c/S3_Gear_Clothing_Annaki_Flannel_Hoodie.png/120px-S3_Gear_Clothing_Annaki_Flannel_Hoodie.png",
+        "name": "annaki flannel hoodie",
+        "brand": " annaki",
+        "cost": " 9,999",
+        "ability": " sub resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/b/b8/S3_Gear_Clothing_Annaki_Polpo-Pic_Tank.png/120px-S3_Gear_Clothing_Annaki_Polpo-Pic_Tank.png",
+        "name": "annaki polpo-pic tank",
+        "brand": " annaki",
+        "cost": " 6,660",
+        "ability": " run speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/46/S3_Gear_Clothing_Annaki_Red_Cuff.png/120px-S3_Gear_Clothing_Annaki_Red_Cuff.png",
+        "name": "annaki red cuff",
+        "brand": " annaki",
+        "cost": " 4,800",
+        "ability": " haunt",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/1/1e/S3_Gear_Clothing_Annaki_Tuff_Duffel.png/120px-S3_Gear_Clothing_Annaki_Tuff_Duffel.png",
+        "name": "annaki tuff duffel",
+        "brand": " annaki",
+        "cost": " 8,800",
+        "ability": " ink recovery up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/24/S3_Gear_Clothing_Annaki_Yellow_Cuff.png/120px-S3_Gear_Clothing_Annaki_Yellow_Cuff.png",
+        "name": "annaki yellow cuff",
+        "brand": " annaki",
+        "cost": " 4,800",
+        "ability": " quick respawn",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/8e/S3_Gear_Clothing_Apex_Sweater.png/120px-S3_Gear_Clothing_Apex_Sweater.png",
+        "name": "apex sweater",
+        "brand": " krak-on",
+        "cost": " 9,600",
+        "ability": " thermal ink",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/37/S3_Gear_Clothing_Apple_Ringer.png/120px-S3_Gear_Clothing_Apple_Ringer.png",
+        "name": "apple ringer",
+        "brand": " zink",
+        "cost": " 1,000",
+        "ability": " sub power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/f3/S3_Gear_Clothing_Arctic_Monster_Parka.png/120px-S3_Gear_Clothing_Arctic_Monster_Parka.png",
+        "name": "arctic monster parka",
+        "brand": " barazushi",
+        "cost": " 12,000",
+        "ability": " sub power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/a7/S3_Gear_Clothing_Armor_Jacket_Replica.png/120px-S3_Gear_Clothing_Armor_Jacket_Replica.png",
+        "name": "armor jacket replica",
+        "brand": " cuttlegear",
+        "cost": "  marie",
+        "ability": " special charge up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/b/b0/S3_Gear_Clothing_Astro_Wear.png/120px-S3_Gear_Clothing_Astro_Wear.png",
+        "name": "astro wear",
+        "brand": " grizzco",
+        "cost": " salmon run next wave",
+        "ability": "",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/f8/S3_Gear_Clothing_B-ball_Jersey_%28Away%29.png/120px-S3_Gear_Clothing_B-ball_Jersey_%28Away%29.png",
+        "name": "b-ball jersey (away)",
+        "brand": " zink",
+        "cost": " 800",
+        "ability": " ink saver (sub)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/0c/S3_Gear_Clothing_B-ball_Jersey_%28Home%29.png/120px-S3_Gear_Clothing_B-ball_Jersey_%28Home%29.png",
+        "name": "b-ball jersey (home)",
+        "brand": " zink",
+        "cost": " 2,300",
+        "ability": " special saver",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/33/S3_Gear_Clothing_Baby-Jelly_Shirt.png/120px-S3_Gear_Clothing_Baby-Jelly_Shirt.png",
+        "name": "baby-jelly shirt",
+        "brand": " splash mob",
+        "cost": " 1,350",
+        "ability": " sub resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/6f/S3_Gear_Clothing_Baby-Jelly_Shirt_%26_Tie.png/120px-S3_Gear_Clothing_Baby-Jelly_Shirt_%26_Tie.png",
+        "name": "baby-jelly shirt & tie",
+        "brand": " splash mob",
+        "cost": " 3,800",
+        "ability": " intensify action",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/7/7d/S3_Gear_Clothing_Barazushi_Anorak.png/120px-S3_Gear_Clothing_Barazushi_Anorak.png",
+        "name": "barazushi anorak",
+        "brand": " barazushi",
+        "cost": " 5,200",
+        "ability": " special power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/1/10/S3_Gear_Clothing_Barazushi_Black_Tee.png/120px-S3_Gear_Clothing_Barazushi_Black_Tee.png",
+        "name": "barazushi black tee",
+        "brand": " barazushi",
+        "cost": " 720",
+        "ability": " ink resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/61/S3_Gear_Clothing_Barazushi_Liner_Shell.png/120px-S3_Gear_Clothing_Barazushi_Liner_Shell.png",
+        "name": "barazushi liner shell",
+        "brand": " barazushi",
+        "cost": " 9,500",
+        "ability": " sub resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/64/S3_Gear_Clothing_Barazushi_Peacoat.png/120px-S3_Gear_Clothing_Barazushi_Peacoat.png",
+        "name": "barazushi peacoat",
+        "brand": " barazushi",
+        "cost": " 9,900",
+        "ability": " ninja squid",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/64/S3_Gear_Clothing_Barazushi_Rice_Tee.png/120px-S3_Gear_Clothing_Barazushi_Rice_Tee.png",
+        "name": "barazushi rice tee",
+        "brand": " barazushi",
+        "cost": " 720",
+        "ability": " haunt",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/03/S3_Gear_Clothing_Barazushi_Sakura_Tee.png/120px-S3_Gear_Clothing_Barazushi_Sakura_Tee.png",
+        "name": "barazushi sakura tee",
+        "brand": " barazushi",
+        "cost": " 1,200",
+        "ability": " sub resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/df/S3_Gear_Clothing_Barazushi_Tuff_Duffel.png/120px-S3_Gear_Clothing_Barazushi_Tuff_Duffel.png",
+        "name": "barazushi tuff duffel",
+        "brand": " barazushi",
+        "cost": " 12,000",
+        "ability": " ink resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/80/S3_Gear_Clothing_Barazushi_Wrap.png/120px-S3_Gear_Clothing_Barazushi_Wrap.png",
+        "name": "barazushi wrap",
+        "brand": " barazushi",
+        "cost": " 7,200",
+        "ability": " ink saver (main)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/52/S3_Gear_Clothing_Barrelfish_Baseball_Uni.png/120px-S3_Gear_Clothing_Barrelfish_Baseball_Uni.png",
+        "name": "barrelfish baseball uni",
+        "brand": " takoroka",
+        "cost": " 10,000",
+        "ability": " ink saver (sub)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/c9/S3_Gear_Clothing_Base_White_Button_Up.png/120px-S3_Gear_Clothing_Base_White_Button_Up.png",
+        "name": "base white button up",
+        "brand": " splash mob",
+        "cost": " 9,999",
+        "ability": " thermal ink",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/c3/S3_Gear_Clothing_Baseball_Jersey.png/120px-S3_Gear_Clothing_Baseball_Jersey.png",
+        "name": "baseball jersey",
+        "brand": " firefin",
+        "cost": " 10,000",
+        "ability": " special charge up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/04/S3_Gear_Clothing_Basic_Tee.png/120px-S3_Gear_Clothing_Basic_Tee.png",
+        "name": "basic tee",
+        "brand": " squidforce",
+        "cost": " 300",
+        "ability": " quick respawn",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/3d/S3_Gear_Clothing_Berry_BlobMob_Tee.png/120px-S3_Gear_Clothing_Berry_BlobMob_Tee.png",
+        "name": "berry blobmob tee",
+        "brand": " emberz",
+        "cost": " 1,050",
+        "ability": " run speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/0f/S3_Gear_Clothing_Berry_Ski_Jacket.png/120px-S3_Gear_Clothing_Berry_Ski_Jacket.png",
+        "name": "berry ski jacket",
+        "brand": " inkline",
+        "cost": " 3,900",
+        "ability": " special power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/f5/S3_Gear_Clothing_Big_Slick.png/120px-S3_Gear_Clothing_Big_Slick.png",
+        "name": "big slick",
+        "brand": " amiibo",
+        "cost": "  big man",
+        "ability": " swim speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/7/7c/S3_Gear_Clothing_Birded_Corduroy_Jacket.png/120px-S3_Gear_Clothing_Birded_Corduroy_Jacket.png",
+        "name": "birded corduroy jacket",
+        "brand": " zekko",
+        "cost": " 10,400",
+        "ability": " run speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/7/75/S3_Gear_Clothing_Black_8-Bit_FishFry.png/120px-S3_Gear_Clothing_Black_8-Bit_FishFry.png",
+        "name": "black 8-bit fishfry",
+        "brand": " firefin",
+        "cost": " 600",
+        "ability": " sub resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/9/96/S3_Gear_Clothing_Black_Anchor_Tee.png/120px-S3_Gear_Clothing_Black_Anchor_Tee.png",
+        "name": "black anchor tee",
+        "brand": " squidforce",
+        "cost": " 2,800",
+        "ability": " respawn punisher",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/f3/S3_Gear_Clothing_Black_Baseball_LS.png/120px-S3_Gear_Clothing_Black_Baseball_LS.png",
+        "name": "black baseball ls",
+        "brand": " rockenberg",
+        "cost": " 800",
+        "ability": " swim speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/1/13/S3_Gear_Clothing_Black_Cuttlegear_LS.png/120px-S3_Gear_Clothing_Black_Cuttlegear_LS.png",
+        "name": "black cuttlegear ls",
+        "brand": " cuttlegear",
+        "cost": " 5,800",
+        "ability": " swim speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/f0/S3_Gear_Clothing_Black_Hoodie.png/120px-S3_Gear_Clothing_Black_Hoodie.png",
+        "name": "black hoodie",
+        "brand": " skalop",
+        "cost": " 2,900",
+        "ability": " ink resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/9/9b/S3_Gear_Clothing_Black_Inky_Rider.png/120px-S3_Gear_Clothing_Black_Inky_Rider.png",
+        "name": "black inky rider",
+        "brand": " rockenberg",
+        "cost": " 12,100",
+        "ability": " sub power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/fd/S3_Gear_Clothing_Black_Layered_LS.png/120px-S3_Gear_Clothing_Black_Layered_LS.png",
+        "name": "black layered ls",
+        "brand": " squidforce",
+        "cost": " 500",
+        "ability": " ink saver (main)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/00/S3_Gear_Clothing_Black_LS.png/120px-S3_Gear_Clothing_Black_LS.png",
+        "name": "black ls",
+        "brand": " zekko",
+        "cost": " 3,000",
+        "ability": " quick super jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/89/S3_Gear_Clothing_Black_Polo.png/120px-S3_Gear_Clothing_Black_Polo.png",
+        "name": "black polo",
+        "brand": " zekko",
+        "cost": " 500",
+        "ability": " ninja squid",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/24/S3_Gear_Clothing_Black_Ranger_Vest.png/120px-S3_Gear_Clothing_Black_Ranger_Vest.png",
+        "name": "black ranger vest",
+        "brand": " inkline",
+        "cost": " 6,000",
+        "ability": " special charge up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/39/S3_Gear_Clothing_Black_Squideye.png/120px-S3_Gear_Clothing_Black_Squideye.png",
+        "name": "black squideye",
+        "brand": " tentatek",
+        "cost": " 500",
+        "ability": " run speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/47/S3_Gear_Clothing_Black_Tee.png/120px-S3_Gear_Clothing_Black_Tee.png",
+        "name": "black tee",
+        "brand": " squidforce",
+        "cost": " 400",
+        "ability": " special power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/22/S3_Gear_Clothing_Black_Urchin_Rock_Tee.png/120px-S3_Gear_Clothing_Black_Urchin_Rock_Tee.png",
+        "name": "black urchin rock tee",
+        "brand": " rockenberg",
+        "cost": " 850",
+        "ability": " ink recovery up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/d3/S3_Gear_Clothing_Black_V-Neck_Tee.png/120px-S3_Gear_Clothing_Black_V-Neck_Tee.png",
+        "name": "black v-neck tee",
+        "brand": " squidforce",
+        "cost": " 3,800",
+        "ability": " thermal ink",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/50/S3_Gear_Clothing_Black_Velour_Octoking_Tee.png/120px-S3_Gear_Clothing_Black_Velour_Octoking_Tee.png",
+        "name": "black velour octoking tee",
+        "brand": " enperry",
+        "cost": " 2,950",
+        "ability": " intensify action",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/65/S3_Gear_Clothing_Black-Belt_Gi.png/120px-S3_Gear_Clothing_Black-Belt_Gi.png",
+        "name": "black-belt gi",
+        "brand": " amiibo",
+        "cost": "  octoling (splatoon 3)",
+        "ability": " haunt",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/df/S3_Gear_Clothing_Blue_16-Bit_FishFry.png/120px-S3_Gear_Clothing_Blue_16-Bit_FishFry.png",
+        "name": "blue 16-bit fishfry",
+        "brand": " firefin",
+        "cost": " 3,750",
+        "ability": " special saver",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/20/S3_Gear_Clothing_Blue_Peaks_Tee.png/120px-S3_Gear_Clothing_Blue_Peaks_Tee.png",
+        "name": "blue peaks tee",
+        "brand": " inkline",
+        "cost": " 400",
+        "ability": " ink saver (sub)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/9/93/S3_Gear_Clothing_Blue_Retro_Tee.png/120px-S3_Gear_Clothing_Blue_Retro_Tee.png",
+        "name": "blue retro tee",
+        "brand": " tentatek",
+        "cost": " 2,880",
+        "ability": " special saver",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/82/S3_Gear_Clothing_Blue_Sailor_Suit.png/120px-S3_Gear_Clothing_Blue_Sailor_Suit.png",
+        "name": "blue sailor suit",
+        "brand": " forge",
+        "cost": " 11,000",
+        "ability": " sub power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/df/S3_Gear_Clothing_Blue_Tentatek_Tee.png/120px-S3_Gear_Clothing_Blue_Tentatek_Tee.png",
+        "name": "blue tentatek tee",
+        "brand": " tentatek",
+        "cost": " 3,100",
+        "ability": " quick respawn",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/3c/S3_Gear_Clothing_Brinestone_Jacket.png/120px-S3_Gear_Clothing_Brinestone_Jacket.png",
+        "name": "brinestone jacket",
+        "brand": " grizzco",
+        "cost": " salmon run next wave",
+        "ability": "",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/0c/S3_Gear_Clothing_Business_Animal.png/120px-S3_Gear_Clothing_Business_Animal.png",
+        "name": "business animal",
+        "brand": " emberz",
+        "cost": " 2,500",
+        "ability": " ninja squid",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/b/b9/S3_Gear_Clothing_Button-Clown_Shirt.png/120px-S3_Gear_Clothing_Button-Clown_Shirt.png",
+        "name": "button-clown shirt",
+        "brand": " emberz",
+        "cost": " 6,300",
+        "ability": " special saver",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/d7/S3_Gear_Clothing_Camo_Layered_LS.png/120px-S3_Gear_Clothing_Camo_Layered_LS.png",
+        "name": "camo layered ls",
+        "brand": " squidforce",
+        "cost": " 600",
+        "ability": " special charge up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/1/1d/S3_Gear_Clothing_Camo_Zip_Hoodie.png/120px-S3_Gear_Clothing_Camo_Zip_Hoodie.png",
+        "name": "camo zip hoodie",
+        "brand": " firefin",
+        "cost": " 9,000",
+        "ability": " quick respawn",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/ec/S3_Gear_Clothing_Captain%27s_Poncho_Replica.png/120px-S3_Gear_Clothing_Captain%27s_Poncho_Replica.png",
+        "name": "captains poncho replica",
+        "brand": " cuttlegear",
+        "cost": "  marie (alterna)",
+        "ability": " ninja squid",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/41/S3_Gear_Clothing_Carnivore_Tee.png/120px-S3_Gear_Clothing_Carnivore_Tee.png",
+        "name": "carnivore tee",
+        "brand": " firefin",
+        "cost": " 500",
+        "ability": " sub resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/7/7b/S3_Gear_Clothing_Chaos_Commander_Suit.png/120px-S3_Gear_Clothing_Chaos_Commander_Suit.png",
+        "name": "chaos commander suit",
+        "brand": " amiibo",
+        "cost": "  smallfry",
+        "ability": " ink saver (main)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/b/b8/S3_Gear_Clothing_Chili_Octo_Aloha.png/120px-S3_Gear_Clothing_Chili_Octo_Aloha.png",
+        "name": "chili octo aloha",
+        "brand": " krak-on",
+        "cost": " 4,850",
+        "ability": " sub resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/20/S3_Gear_Clothing_Chili-Pepper_Ski_Jacket.png/120px-S3_Gear_Clothing_Chili-Pepper_Ski_Jacket.png",
+        "name": "chili-pepper ski jacket",
+        "brand": " inkline",
+        "cost": " 7,800",
+        "ability": " ink resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/31/S3_Gear_Clothing_Chilly_Mountain_Coat.png/120px-S3_Gear_Clothing_Chilly_Mountain_Coat.png",
+        "name": "chilly mountain coat",
+        "brand": " inkline",
+        "cost": " 7,900",
+        "ability": " swim speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/56/S3_Gear_Clothing_Chirpy_Chips_Band_Tee.png/120px-S3_Gear_Clothing_Chirpy_Chips_Band_Tee.png",
+        "name": "chirpy chips band tee",
+        "brand": " rockenberg",
+        "cost": " 900",
+        "ability": " intensify action",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/d9/S3_Gear_Clothing_Choco_Layered_LS.png/120px-S3_Gear_Clothing_Choco_Layered_LS.png",
+        "name": "choco layered ls",
+        "brand": " takoroka",
+        "cost": " 1,400",
+        "ability": " ink saver (sub)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/67/S3_Gear_Clothing_Chomp_Top.png/120px-S3_Gear_Clothing_Chomp_Top.png",
+        "name": "chomp top",
+        "brand": " amiibo",
+        "cost": "  shiver",
+        "ability": " ninja squid",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/c4/S3_Gear_Clothing_Chompers_Varsity_Jacket.png/120px-S3_Gear_Clothing_Chompers_Varsity_Jacket.png",
+        "name": "chompers varsity jacket",
+        "brand": " skalop",
+        "cost": " 11,500",
+        "ability": " ink saver (main)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/81/S3_Gear_Clothing_Commander_Tunic.png/120px-S3_Gear_Clothing_Commander_Tunic.png",
+        "name": "commander tunic",
+        "brand": " grizzco",
+        "cost": " salmon run next wave",
+        "ability": "",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/2b/S3_Gear_Clothing_Cooler_Jacket.png/120px-S3_Gear_Clothing_Cooler_Jacket.png",
+        "name": "cooler jacket",
+        "brand": " grizzco",
+        "cost": " salmon run next wave",
+        "ability": "",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/37/S3_Gear_Clothing_Coral_Bloom_Aloha.png/120px-S3_Gear_Clothing_Coral_Bloom_Aloha.png",
+        "name": "coral bloom aloha",
+        "brand": " krak-on",
+        "cost": " 10,000",
+        "ability": " haunt",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/f3/S3_Gear_Clothing_Cream_Tundra_Fleece.png/120px-S3_Gear_Clothing_Cream_Tundra_Fleece.png",
+        "name": "cream tundra fleece",
+        "brand": " inkline",
+        "cost": " 3,500",
+        "ability": " ink saver (main)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/42/S3_Gear_Clothing_Crimson_Parashooter.png/120px-S3_Gear_Clothing_Crimson_Parashooter.png",
+        "name": "crimson parashooter",
+        "brand": " annaki",
+        "cost": " 9,200",
+        "ability": " special charge up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/69/S3_Gear_Clothing_Crispy_Crustume.png/120px-S3_Gear_Clothing_Crispy_Crustume.png",
+        "name": "crispy crustume",
+        "brand": " squidforce",
+        "cost": " wandercrust",
+        "ability": " special charge up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/cc/S3_Gear_Clothing_Crustwear_XXL.png/120px-S3_Gear_Clothing_Crustwear_XXL.png",
+        "name": "crustwear xxl",
+        "brand": " grizzco",
+        "cost": " 100",
+        "ability": " ink saver (sub)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/6e/S3_Gear_Clothing_Custom_Painted_F-3.png/120px-S3_Gear_Clothing_Custom_Painted_F-3.png",
+        "name": "custom painted f-3",
+        "brand": " forge",
+        "cost": " 9,700",
+        "ability": " ink resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/9/92/S3_Gear_Clothing_Cycle_King_Jersey.png/120px-S3_Gear_Clothing_Cycle_King_Jersey.png",
+        "name": "cycle king jersey",
+        "brand": " tentatek",
+        "cost": " 8,900",
+        "ability": " sub resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/5a/S3_Gear_Clothing_Cycling_Shirt.png/120px-S3_Gear_Clothing_Cycling_Shirt.png",
+        "name": "cycling shirt",
+        "brand": " zink",
+        "cost": " 2,900",
+        "ability": " intensify action",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/58/S3_Gear_Clothing_Dakro_Golden_Tee.png/120px-S3_Gear_Clothing_Dakro_Golden_Tee.png",
+        "name": "dakro golden tee",
+        "brand": " zink",
+        "cost": " 1,010",
+        "ability": " thermal ink",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/02/S3_Gear_Clothing_Dakro_Nana_Tee.png/120px-S3_Gear_Clothing_Dakro_Nana_Tee.png",
+        "name": "dakro nana tee",
+        "brand": " zink",
+        "cost": " 1,010",
+        "ability": " quick respawn",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/64/S3_Gear_Clothing_Dark_Bomber_Jacket.png/120px-S3_Gear_Clothing_Dark_Bomber_Jacket.png",
+        "name": "dark bomber jacket",
+        "brand": " toni kensa",
+        "cost": " 12,800",
+        "ability": " special power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/c8/S3_Gear_Clothing_Dark_Distressed_Vest.png/120px-S3_Gear_Clothing_Dark_Distressed_Vest.png",
+        "name": "dark distressed vest",
+        "brand": " toni kensa",
+        "cost": " 11,800",
+        "ability": " special saver",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/c6/S3_Gear_Clothing_Dark_Splash_Shirt.png/120px-S3_Gear_Clothing_Dark_Splash_Shirt.png",
+        "name": "dark splash shirt",
+        "brand": " toni kensa",
+        "cost": " 12,000",
+        "ability": " run speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/e0/S3_Gear_Clothing_Dark_Urban_Vest.png/120px-S3_Gear_Clothing_Dark_Urban_Vest.png",
+        "name": "dark urban vest",
+        "brand": " firefin",
+        "cost": " 10,000",
+        "ability": " intensify action",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/e8/S3_Gear_Clothing_Deep-Octo_Satin_Jacket.png/120px-S3_Gear_Clothing_Deep-Octo_Satin_Jacket.png",
+        "name": "deep-octo satin jacket",
+        "brand": " zekko",
+        "cost": " 12,300",
+        "ability": " intensify action",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/1/1a/S3_Gear_Clothing_Deepsea_Tangle_Top.png/120px-S3_Gear_Clothing_Deepsea_Tangle_Top.png",
+        "name": "deepsea tangle top",
+        "brand": " annaki",
+        "cost": " 5,550",
+        "ability": " quick super jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/1/1e/S3_Gear_Clothing_Dev_Uniform.png/120px-S3_Gear_Clothing_Dev_Uniform.png",
+        "name": "dev uniform",
+        "brand": " grizzco",
+        "cost": " 5",
+        "ability": " ink saver (main)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/d5/S3_Gear_Clothing_Distressed_Vest.png/120px-S3_Gear_Clothing_Distressed_Vest.png",
+        "name": "distressed vest",
+        "brand": " toni kensa",
+        "cost": " 11,800",
+        "ability": " sub resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/7/76/S3_Gear_Clothing_Dots-on-Dots_Shirt.png/120px-S3_Gear_Clothing_Dots-on-Dots_Shirt.png",
+        "name": "dots-on-dots shirt",
+        "brand": " skalop",
+        "cost": " 7,650",
+        "ability": " quick super jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/6f/S3_Gear_Clothing_Duskwave_Tee.png/120px-S3_Gear_Clothing_Duskwave_Tee.png",
+        "name": "duskwave tee",
+        "brand": " skalop",
+        "cost": " 880",
+        "ability": " special power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/33/S3_Gear_Clothing_Dustcloud_Hoodie.png/120px-S3_Gear_Clothing_Dustcloud_Hoodie.png",
+        "name": "dustcloud hoodie",
+        "brand": " z+f",
+        "cost": " 8,920",
+        "ability": " ink saver (main)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/f9/S3_Gear_Clothing_Dusty_Field_Jacket.png/120px-S3_Gear_Clothing_Dusty_Field_Jacket.png",
+        "name": "dusty field jacket",
+        "brand": " inkline",
+        "cost": " 3,400",
+        "ability": " intensify action",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/9/96/S3_Gear_Clothing_Eelneck_Tank.png/120px-S3_Gear_Clothing_Eelneck_Tank.png",
+        "name": "eelneck tank",
+        "brand": " amiibo",
+        "cost": "  frye",
+        "ability": " intensify action",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/48/S3_Gear_Clothing_Eelzebub_Tee.png/120px-S3_Gear_Clothing_Eelzebub_Tee.png",
+        "name": "eelzebub tee",
+        "brand": " skalop",
+        "cost": " 2,100",
+        "ability": " intensify action",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/b/b9/S3_Gear_Clothing_Enchanted_Robe_A.png/120px-S3_Gear_Clothing_Enchanted_Robe_A.png",
+        "name": "enchanted robe a",
+        "brand": " amiibo",
+        "cost": "  octoling girl",
+        "ability": " thermal ink",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/ed/S3_Gear_Clothing_Enchanted_Robe_B.png/120px-S3_Gear_Clothing_Enchanted_Robe_B.png",
+        "name": "enchanted robe b",
+        "brand": " amiibo",
+        "cost": "  octoling girl",
+        "ability": " thermal ink",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/c6/S3_Gear_Clothing_FA-01_Jacket.png/120px-S3_Gear_Clothing_FA-01_Jacket.png",
+        "name": "fa-01 jacket",
+        "brand": " forge",
+        "cost": " 10,100",
+        "ability": " ink recovery up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/b/b6/S3_Gear_Clothing_FA-01_Reversed.png/120px-S3_Gear_Clothing_FA-01_Reversed.png",
+        "name": "fa-01 reversed",
+        "brand": " forge",
+        "cost": " 10,100",
+        "ability": " quick super jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/ca/S3_Gear_Clothing_Fancyfish_Stitch.png/120px-S3_Gear_Clothing_Fancyfish_Stitch.png",
+        "name": "fancyfish stitch",
+        "brand": " krak-on",
+        "cost": " 4,600",
+        "ability": " sub power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/2e/S3_Gear_Clothing_Fashion_Splash_Shirt.png/120px-S3_Gear_Clothing_Fashion_Splash_Shirt.png",
+        "name": "fashion splash shirt",
+        "brand": " toni kensa",
+        "cost": " 9,750",
+        "ability": " quick respawn",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/f3/S3_Gear_Clothing_FC_Albacore.png/120px-S3_Gear_Clothing_FC_Albacore.png",
+        "name": "fc albacore",
+        "brand": " enperry",
+        "cost": " 1,200",
+        "ability": " respawn punisher",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/81/S3_Gear_Clothing_Firefin_Navy_Sweat.png/120px-S3_Gear_Clothing_Firefin_Navy_Sweat.png",
+        "name": "firefin navy sweat",
+        "brand": " firefin",
+        "cost": " 2,500",
+        "ability": " sub power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/f8/S3_Gear_Clothing_Firewave_Tee.png/120px-S3_Gear_Clothing_Firewave_Tee.png",
+        "name": "firewave tee",
+        "brand": " skalop",
+        "cost": " 1,250",
+        "ability": " special charge up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/8c/S3_Gear_Clothing_Fishing_Vest.png/120px-S3_Gear_Clothing_Fishing_Vest.png",
+        "name": "fishing vest",
+        "brand": " inkline",
+        "cost": " 4,200",
+        "ability": " quick respawn",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/a4/S3_Gear_Clothing_Forest_Vest.png/120px-S3_Gear_Clothing_Forest_Vest.png",
+        "name": "forest vest",
+        "brand": " inkline",
+        "cost": " 11,000",
+        "ability": " ink recovery up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/ae/S3_Gear_Clothing_Forge_Inkling_Parka.png/120px-S3_Gear_Clothing_Forge_Inkling_Parka.png",
+        "name": "forge inkling parka",
+        "brand": " forge",
+        "cost": " 2,900",
+        "ability": " run speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/cf/S3_Gear_Clothing_Forge_Octarian_Jacket.png/120px-S3_Gear_Clothing_Forge_Octarian_Jacket.png",
+        "name": "forge octarian jacket",
+        "brand": " forge",
+        "cost": " 2,700",
+        "ability": " haunt",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/81/S3_Gear_Clothing_Fresh_Fish_Gloves.png/120px-S3_Gear_Clothing_Fresh_Fish_Gloves.png",
+        "name": "fresh fish gloves",
+        "brand": " amiibo",
+        "cost": "  octoling octopus",
+        "ability": " quick super jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/84/S3_Gear_Clothing_Fresh_Octo_Tee.png/120px-S3_Gear_Clothing_Fresh_Octo_Tee.png",
+        "name": "fresh octo tee",
+        "brand": " cuttlegear",
+        "cost": " 300",
+        "ability": " ink saver (sub)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/26/S3_Gear_Clothing_Friend_Tee.png/120px-S3_Gear_Clothing_Friend_Tee.png",
+        "name": "friend tee",
+        "brand": " squidforce",
+        "cost": " 1,200",
+        "ability": " thermal ink",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/34/S3_Gear_Clothing_Fringehead_Hoodless.png/120px-S3_Gear_Clothing_Fringehead_Hoodless.png",
+        "name": "fringehead hoodless",
+        "brand": " emberz",
+        "cost": " 3,000",
+        "ability": " ink recovery up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/d5/S3_Gear_Clothing_Frivolous_Paw_Suit.png/120px-S3_Gear_Clothing_Frivolous_Paw_Suit.png",
+        "name": "frivolous paw suit",
+        "brand": " squidforce",
+        "cost": " wandercrust",
+        "ability": " special charge up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/c7/S3_Gear_Clothing_Front-Zip_Vest.png/120px-S3_Gear_Clothing_Front-Zip_Vest.png",
+        "name": "front-zip vest",
+        "brand": " toni kensa",
+        "cost": " 5,500",
+        "ability": " ink resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/b/bd/S3_Gear_Clothing_Fugu_Tee.png/120px-S3_Gear_Clothing_Fugu_Tee.png",
+        "name": "fugu tee",
+        "brand": " firefin",
+        "cost": " 750",
+        "ability": " swim speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/9/98/S3_Gear_Clothing_Fuzzly_Sweater.png/120px-S3_Gear_Clothing_Fuzzly_Sweater.png",
+        "name": "fuzzly sweater",
+        "brand": " emberz",
+        "cost": " 9,600",
+        "ability": " thermal ink",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/9/9e/S3_Gear_Clothing_Garden_Gear.png/120px-S3_Gear_Clothing_Garden_Gear.png",
+        "name": "garden gear",
+        "brand": " grizzco",
+        "cost": " 5",
+        "ability": " ninja squid",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/b/ba/S3_Gear_Clothing_Grape_Hoodie.png/120px-S3_Gear_Clothing_Grape_Hoodie.png",
+        "name": "grape hoodie",
+        "brand": " enperry",
+        "cost": " 1,100",
+        "ability": " quick respawn",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/28/S3_Gear_Clothing_Grape_Tee.png/120px-S3_Gear_Clothing_Grape_Tee.png",
+        "name": "grape tee",
+        "brand": " skalop",
+        "cost": " 400",
+        "ability": " ink recovery up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/49/S3_Gear_Clothing_Gray_8-Bit_FishFry.png/120px-S3_Gear_Clothing_Gray_8-Bit_FishFry.png",
+        "name": "gray 8-bit fishfry",
+        "brand": " firefin",
+        "cost": " 800",
+        "ability": " special charge up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/08/S3_Gear_Clothing_Gray_College_Sweat.png/120px-S3_Gear_Clothing_Gray_College_Sweat.png",
+        "name": "gray college sweat",
+        "brand": " splash mob",
+        "cost": " 800",
+        "ability": " swim speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/c8/S3_Gear_Clothing_Gray_Hoodie.png/120px-S3_Gear_Clothing_Gray_Hoodie.png",
+        "name": "gray hoodie",
+        "brand": " skalop",
+        "cost": " 1,900",
+        "ability": " sub power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/9/96/S3_Gear_Clothing_Gray_Mixed_Shirt.png/120px-S3_Gear_Clothing_Gray_Mixed_Shirt.png",
+        "name": "gray mixed shirt",
+        "brand": " zekko",
+        "cost": " 2,800",
+        "ability": " quick super jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/5d/S3_Gear_Clothing_Gray_Vector_Tee.png/120px-S3_Gear_Clothing_Gray_Vector_Tee.png",
+        "name": "gray vector tee",
+        "brand": " takoroka",
+        "cost": " 500",
+        "ability": " quick super jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/1/10/S3_Gear_Clothing_Green_Cardigan.png/120px-S3_Gear_Clothing_Green_Cardigan.png",
+        "name": "green cardigan",
+        "brand": " splash mob",
+        "cost": " 1,700",
+        "ability": " ink saver (sub)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/5a/S3_Gear_Clothing_Green_Striped_LS.png/120px-S3_Gear_Clothing_Green_Striped_LS.png",
+        "name": "green striped ls",
+        "brand": " inkline",
+        "cost": " 700",
+        "ability": " ninja squid",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/a8/S3_Gear_Clothing_Green_Tee.png/120px-S3_Gear_Clothing_Green_Tee.png",
+        "name": "green tee",
+        "brand": " forge",
+        "cost": " 1,200",
+        "ability": " special saver",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/9/9f/S3_Gear_Clothing_Green_Velour_Octoking_Tee.png/120px-S3_Gear_Clothing_Green_Velour_Octoking_Tee.png",
+        "name": "green velour octoking tee",
+        "brand": " enperry",
+        "cost": " 1,450",
+        "ability": " special saver",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/9/91/S3_Gear_Clothing_Green_Zip_Hoodie.png/120px-S3_Gear_Clothing_Green_Zip_Hoodie.png",
+        "name": "green zip hoodie",
+        "brand": " firefin",
+        "cost": " 2,800",
+        "ability": " special power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/36/S3_Gear_Clothing_Green-Check_Shirt.png/120px-S3_Gear_Clothing_Green-Check_Shirt.png",
+        "name": "green-check shirt",
+        "brand": " zekko",
+        "cost": " 2,000",
+        "ability": " sub power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/f9/S3_Gear_Clothing_Hacker_Jacket.png/120px-S3_Gear_Clothing_Hacker_Jacket.png",
+        "name": "hacker jacket",
+        "brand": " grizzco",
+        "cost": " salmon run next wave",
+        "ability": "",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/f3/S3_Gear_Clothing_Half-Sleeve_Sweater.png/120px-S3_Gear_Clothing_Half-Sleeve_Sweater.png",
+        "name": "half-sleeve sweater",
+        "brand": " toni kensa",
+        "cost": " 4,100",
+        "ability": " ink saver (sub)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/4a/S3_Gear_Clothing_Herbivore_Tee.png/120px-S3_Gear_Clothing_Herbivore_Tee.png",
+        "name": "herbivore tee",
+        "brand": " firefin",
+        "cost": " 500",
+        "ability": " ninja squid",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/a8/S3_Gear_Clothing_Hero_Jacket_Replica.png/120px-S3_Gear_Clothing_Hero_Jacket_Replica.png",
+        "name": "hero jacket replica",
+        "brand": " cuttlegear",
+        "cost": "  callie",
+        "ability": " swim speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/c4/S3_Gear_Clothing_Hero_Suit_Replica.png/120px-S3_Gear_Clothing_Hero_Suit_Replica.png",
+        "name": "hero suit replica",
+        "brand": " cuttlegear",
+        "cost": " return of the mammalians",
+        "ability": " quick respawn",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/9/92/S3_Gear_Clothing_Hightide_Era_Band_Tee.png/120px-S3_Gear_Clothing_Hightide_Era_Band_Tee.png",
+        "name": "hightide era band tee",
+        "brand": " rockenberg",
+        "cost": " 900",
+        "ability": " thermal ink",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/85/S3_Gear_Clothing_Hothouse_Hoodie.png/120px-S3_Gear_Clothing_Hothouse_Hoodie.png",
+        "name": "hothouse hoodie",
+        "brand": " skalop",
+        "cost": " 3,800",
+        "ability": " run speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/55/S3_Gear_Clothing_Hula_Punk_Shirt.png/120px-S3_Gear_Clothing_Hula_Punk_Shirt.png",
+        "name": "hula punk shirt",
+        "brand": " annaki",
+        "cost": " 5,000",
+        "ability": " ink saver (main)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/03/S3_Gear_Clothing_Hype_Stripe_Button_Up.png/120px-S3_Gear_Clothing_Hype_Stripe_Button_Up.png",
+        "name": "hype stripe button up",
+        "brand": " splash mob",
+        "cost": " 9,999",
+        "ability": " special power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/65/S3_Gear_Clothing_Icewave_Tee.png/120px-S3_Gear_Clothing_Icewave_Tee.png",
+        "name": "icewave tee",
+        "brand": " skalop",
+        "cost": " 1,250",
+        "ability": " ninja squid",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/7/7a/S3_Gear_Clothing_Indigo_Boss_Haori.png/120px-S3_Gear_Clothing_Indigo_Boss_Haori.png",
+        "name": "indigo boss haori",
+        "brand": " emberz",
+        "cost": " 10,500",
+        "ability": " quick super jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/2a/S3_Gear_Clothing_Ink-Black_Paddle_Jack.png/120px-S3_Gear_Clothing_Ink-Black_Paddle_Jack.png",
+        "name": "ink-black paddle jack",
+        "brand": " toni kensa",
+        "cost": " 9,900",
+        "ability": " ink saver (sub)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/fd/S3_Gear_Clothing_Ink-Black_Tangle_Top.png/120px-S3_Gear_Clothing_Ink-Black_Tangle_Top.png",
+        "name": "ink-black tangle top",
+        "brand": " annaki",
+        "cost": " 5,550",
+        "ability": " special charge up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/39/S3_Gear_Clothing_Ink-Wash_Shirt.png/120px-S3_Gear_Clothing_Ink-Wash_Shirt.png",
+        "name": "ink-wash shirt",
+        "brand": " toni kensa",
+        "cost": " 4,900",
+        "ability": " ink recovery up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/d7/S3_Gear_Clothing_Inkfall_Shirt.png/120px-S3_Gear_Clothing_Inkfall_Shirt.png",
+        "name": "inkfall shirt",
+        "brand": " toni kensa",
+        "cost": " 4,900",
+        "ability": " special charge up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/37/S3_Gear_Clothing_Inkopolis_Squaps_Jersey.png/120px-S3_Gear_Clothing_Inkopolis_Squaps_Jersey.png",
+        "name": "inkopolis squaps jersey",
+        "brand": " zink",
+        "cost": " 1,250",
+        "ability": " intensify action",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/40/S3_Gear_Clothing_Ivory_Peaks_Tee.png/120px-S3_Gear_Clothing_Ivory_Peaks_Tee.png",
+        "name": "ivory peaks tee",
+        "brand": " inkline",
+        "cost": " 400",
+        "ability": " haunt",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/b/ba/S3_Gear_Clothing_Juice_Parka.png/120px-S3_Gear_Clothing_Juice_Parka.png",
+        "name": "juice parka",
+        "brand": " grizzco",
+        "cost": " 30",
+        "ability": " quick super jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/ed/S3_Gear_Clothing_Kelp_Trooper_Top.png/120px-S3_Gear_Clothing_Kelp_Trooper_Top.png",
+        "name": "kelp trooper top",
+        "brand": " z+f",
+        "cost": " 10,100",
+        "ability": " sub power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/2b/S3_Gear_Clothing_Kensa_Coat.png/120px-S3_Gear_Clothing_Kensa_Coat.png",
+        "name": "kensa coat",
+        "brand": " toni kensa",
+        "cost": " 9,200",
+        "ability": " respawn punisher",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/07/S3_Gear_Clothing_Khaki_16-Bit_FishFry.png/120px-S3_Gear_Clothing_Khaki_16-Bit_FishFry.png",
+        "name": "khaki 16-bit fishfry",
+        "brand": " firefin",
+        "cost": " 3,750",
+        "ability": " ink recovery up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/ce/S3_Gear_Clothing_Khaki_Ranger_Vest.png/120px-S3_Gear_Clothing_Khaki_Ranger_Vest.png",
+        "name": "khaki ranger vest",
+        "brand": " inkline",
+        "cost": " 4,200",
+        "ability": " sub power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/0d/S3_Gear_Clothing_King_Jersey.png/120px-S3_Gear_Clothing_King_Jersey.png",
+        "name": "king jersey",
+        "brand": " enperry",
+        "cost": " 3,100",
+        "ability": " respawn punisher",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/a1/S3_Gear_Clothing_King_Mesh_Tee.png/120px-S3_Gear_Clothing_King_Mesh_Tee.png",
+        "name": "king mesh tee",
+        "brand": " enperry",
+        "cost": " 10,500",
+        "ability": " run speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/ab/S3_Gear_Clothing_Krak-On_528.png/120px-S3_Gear_Clothing_Krak-On_528.png",
+        "name": "krak-on 528",
+        "brand": " krak-on",
+        "cost": " 800",
+        "ability": " run speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/9/99/S3_Gear_Clothing_Kung-Fu_Zip-Up.png/120px-S3_Gear_Clothing_Kung-Fu_Zip-Up.png",
+        "name": "kung-fu zip-up",
+        "brand": " toni kensa",
+        "cost": " 10,280",
+        "ability": " ninja squid",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/b/b2/S3_Gear_Clothing_Layered_Anchor_LS.png/120px-S3_Gear_Clothing_Layered_Anchor_LS.png",
+        "name": "layered anchor ls",
+        "brand": " squidforce",
+        "cost": " 4,000",
+        "ability": " run speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/5a/S3_Gear_Clothing_Layered_Vector_LS.png/120px-S3_Gear_Clothing_Layered_Vector_LS.png",
+        "name": "layered vector ls",
+        "brand": " takoroka",
+        "cost": " 1,200",
+        "ability": " special saver",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/4f/S3_Gear_Clothing_League_Tee.png/120px-S3_Gear_Clothing_League_Tee.png",
+        "name": "league tee",
+        "brand": " squidforce",
+        "cost": " 3,800",
+        "ability": " special power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/59/S3_Gear_Clothing_Lemon_Hoodless.png/120px-S3_Gear_Clothing_Lemon_Hoodless.png",
+        "name": "lemon hoodless",
+        "brand": " z+f",
+        "cost": " 3,456",
+        "ability": " run speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/44/S3_Gear_Clothing_Lemon_Mountain_Coat.png/120px-S3_Gear_Clothing_Lemon_Mountain_Coat.png",
+        "name": "lemon mountain coat",
+        "brand": " inkline",
+        "cost": " 7,600",
+        "ability": " special saver",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/2b/S3_Gear_Clothing_Light_Bomber_Jacket.png/120px-S3_Gear_Clothing_Light_Bomber_Jacket.png",
+        "name": "light bomber jacket",
+        "brand": " toni kensa",
+        "cost": " 12,800",
+        "ability": " quick super jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/84/S3_Gear_Clothing_Light-Bright_Paddle_Jack.png/120px-S3_Gear_Clothing_Light-Bright_Paddle_Jack.png",
+        "name": "light-bright paddle jack",
+        "brand": " toni kensa",
+        "cost": " 9,900",
+        "ability": " ink saver (sub)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/ff/S3_Gear_Clothing_Lime_Battlecrab_Shell.png/120px-S3_Gear_Clothing_Lime_Battlecrab_Shell.png",
+        "name": "lime battlecrab shell",
+        "brand": " enperry",
+        "cost": " 6,400",
+        "ability": " swim speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/ae/S3_Gear_Clothing_Lime_BlobMob_Tee.png/120px-S3_Gear_Clothing_Lime_BlobMob_Tee.png",
+        "name": "lime blobmob tee",
+        "brand": " emberz",
+        "cost": " 1,050",
+        "ability": " sub power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/4d/S3_Gear_Clothing_Lime_Easy-Stripe_Shirt.png/120px-S3_Gear_Clothing_Lime_Easy-Stripe_Shirt.png",
+        "name": "lime easy-stripe shirt",
+        "brand": " splash mob",
+        "cost": " 3,800",
+        "ability": " ink resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/6e/S3_Gear_Clothing_Lime_Hoodless.png/120px-S3_Gear_Clothing_Lime_Hoodless.png",
+        "name": "lime hoodless",
+        "brand": " z+f",
+        "cost": " 3,456",
+        "ability": " thermal ink",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/b/b3/S3_Gear_Clothing_Lime_Ski_Jacket.png/120px-S3_Gear_Clothing_Lime_Ski_Jacket.png",
+        "name": "lime ski jacket",
+        "brand": " inkline",
+        "cost": " 3,370",
+        "ability": " quick super jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/88/S3_Gear_Clothing_Linen_Shirt.png/120px-S3_Gear_Clothing_Linen_Shirt.png",
+        "name": "linen shirt",
+        "brand": " splash mob",
+        "cost": " 700",
+        "ability": " sub power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/4a/S3_Gear_Clothing_Lob-Stars_Jersey.png/120px-S3_Gear_Clothing_Lob-Stars_Jersey.png",
+        "name": "lob-stars jersey",
+        "brand": " tentatek",
+        "cost": " 4,650",
+        "ability": " sub power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/46/S3_Gear_Clothing_Logo_Aloha_Shirt.png/120px-S3_Gear_Clothing_Logo_Aloha_Shirt.png",
+        "name": "logo aloha shirt",
+        "brand": " zekko",
+        "cost": " 2,900",
+        "ability": " ink recovery up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/9/9b/S3_Gear_Clothing_Lumberjack_Shirt.png/120px-S3_Gear_Clothing_Lumberjack_Shirt.png",
+        "name": "lumberjack shirt",
+        "brand": " rockenberg",
+        "cost": " 800",
+        "ability": " ink saver (main)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/04/S3_Gear_Clothing_Lyco-P_Streetstyle_Tee.png/120px-S3_Gear_Clothing_Lyco-P_Streetstyle_Tee.png",
+        "name": "lyco-p streetstyle tee",
+        "brand": " skalop",
+        "cost": " 500",
+        "ability": " ink resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/7/7c/S3_Gear_Clothing_Manatee_Swag_Sweat.png/120px-S3_Gear_Clothing_Manatee_Swag_Sweat.png",
+        "name": "manatee swag sweat",
+        "brand": " krak-on",
+        "cost": " 4,000",
+        "ability": " respawn punisher",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/a0/S3_Gear_Clothing_Marinated_Top.png/120px-S3_Gear_Clothing_Marinated_Top.png",
+        "name": "marinated top",
+        "brand": " amiibo",
+        "cost": "  marina",
+        "ability": " special power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/1/1e/S3_Gear_Clothing_Matcha_Down_Jacket.png/120px-S3_Gear_Clothing_Matcha_Down_Jacket.png",
+        "name": "matcha down jacket",
+        "brand": " inkline",
+        "cost": " 9,100",
+        "ability": " ninja squid",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/d8/S3_Gear_Clothing_Mint_Tee.png/120px-S3_Gear_Clothing_Mint_Tee.png",
+        "name": "mint tee",
+        "brand": " skalop",
+        "cost": " 400",
+        "ability": " sub resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/fa/S3_Gear_Clothing_Missus_Shrug_Tee.png/120px-S3_Gear_Clothing_Missus_Shrug_Tee.png",
+        "name": "missus shrug tee",
+        "brand": " krak-on",
+        "cost": " 9,200",
+        "ability": " ink saver (sub)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/1/17/S3_Gear_Clothing_Mister_Shrug_Tee.png/120px-S3_Gear_Clothing_Mister_Shrug_Tee.png",
+        "name": "mister shrug tee",
+        "brand": " krak-on",
+        "cost": " 9,200",
+        "ability": " ink resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/c8/S3_Gear_Clothing_Moby_Knit.png/120px-S3_Gear_Clothing_Moby_Knit.png",
+        "name": "moby knit",
+        "brand": " krak-on",
+        "cost": " 9,600",
+        "ability": " ink recovery up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/ab/S3_Gear_Clothing_Motley_Hoodless.png/120px-S3_Gear_Clothing_Motley_Hoodless.png",
+        "name": "motley hoodless",
+        "brand": " z+f",
+        "cost": " 4,567",
+        "ability": " intensify action",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/d4/S3_Gear_Clothing_Mountain_Vest.png/120px-S3_Gear_Clothing_Mountain_Vest.png",
+        "name": "mountain vest",
+        "brand": " inkline",
+        "cost": " 11,000",
+        "ability": " swim speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/05/S3_Gear_Clothing_N-Pacer_Sweat.png/120px-S3_Gear_Clothing_N-Pacer_Sweat.png",
+        "name": "n-pacer sweat",
+        "brand": " enperry",
+        "cost": " 7,800",
+        "ability": " thermal ink",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/a4/S3_Gear_Clothing_Navy_College_Sweat.png/120px-S3_Gear_Clothing_Navy_College_Sweat.png",
+        "name": "navy college sweat",
+        "brand": " splash mob",
+        "cost": " 800",
+        "ability": " ink resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/d4/S3_Gear_Clothing_Navy_Deca_Logo_Tee.png/120px-S3_Gear_Clothing_Navy_Deca_Logo_Tee.png",
+        "name": "navy deca logo tee",
+        "brand": " zink",
+        "cost": " 1,200",
+        "ability": " ink saver (main)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/6d/S3_Gear_Clothing_Navy_Eminence_Jacket.png/120px-S3_Gear_Clothing_Navy_Eminence_Jacket.png",
+        "name": "navy eminence jacket",
+        "brand": " enperry",
+        "cost": " 10,500",
+        "ability": " ink saver (main)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/21/S3_Gear_Clothing_Navy_King_Tank.png/120px-S3_Gear_Clothing_Navy_King_Tank.png",
+        "name": "navy king tank",
+        "brand": " enperry",
+        "cost": " 600",
+        "ability": " ink resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/e2/S3_Gear_Clothing_Navy_Striped_LS.png/120px-S3_Gear_Clothing_Navy_Striped_LS.png",
+        "name": "navy striped ls",
+        "brand": " splash mob",
+        "cost": " 1,050",
+        "ability": " ink recovery up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/e2/S3_Gear_Clothing_Navy_Z%2BF_Tee.png/120px-S3_Gear_Clothing_Navy_Z%2BF_Tee.png",
+        "name": "navy z+f tee",
+        "brand": " z+f",
+        "cost": " 850",
+        "ability": " special charge up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/e2/S3_Gear_Clothing_Negative_Longcuff_Sweater.png/120px-S3_Gear_Clothing_Negative_Longcuff_Sweater.png",
+        "name": "negative longcuff sweater",
+        "brand": " toni kensa",
+        "cost": " 11,800",
+        "ability": " haunt",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/31/S3_Gear_Clothing_North-Country_Parka.png/120px-S3_Gear_Clothing_North-Country_Parka.png",
+        "name": "north-country parka",
+        "brand": " grizzco",
+        "cost": " 300",
+        "ability": " sub power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/3a/S3_Gear_Clothing_Octarian_Retro.png/120px-S3_Gear_Clothing_Octarian_Retro.png",
+        "name": "octarian retro",
+        "brand": " cuttlegear",
+        "cost": " 5,000",
+        "ability": " respawn punisher",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/39/S3_Gear_Clothing_Octo_Jumper_Away.png/120px-S3_Gear_Clothing_Octo_Jumper_Away.png",
+        "name": "octo jumper away",
+        "brand": " takoroka",
+        "cost": " 3,000",
+        "ability": " swim speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/7/72/S3_Gear_Clothing_Octo_Jumper_Home.png/120px-S3_Gear_Clothing_Octo_Jumper_Home.png",
+        "name": "octo jumper home",
+        "brand": " takoroka",
+        "cost": " 3,000",
+        "ability": " respawn punisher",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/c3/S3_Gear_Clothing_Octo_Tee.png/120px-S3_Gear_Clothing_Octo_Tee.png",
+        "name": "octo tee",
+        "brand": " cuttlegear",
+        "cost": " 8,888",
+        "ability": " haunt",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/83/S3_Gear_Clothing_Octobowler_Shirt.png/120px-S3_Gear_Clothing_Octobowler_Shirt.png",
+        "name": "octobowler shirt",
+        "brand": " krak-on",
+        "cost": " 2,100",
+        "ability": " ink saver (main)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/a1/S3_Gear_Clothing_Octoking_HK_Jersey.png/120px-S3_Gear_Clothing_Octoking_HK_Jersey.png",
+        "name": "octoking hk jersey",
+        "brand": " enperry",
+        "cost": " 5,800",
+        "ability": " special charge up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/ca/S3_Gear_Clothing_Octoleet_Armor.png/120px-S3_Gear_Clothing_Octoleet_Armor.png",
+        "name": "octoleet armor",
+        "brand": " grizzco",
+        "cost": " 800",
+        "ability": " respawn punisher",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/b/b7/S3_Gear_Clothing_Octosquid_Tandem_Tee.png/120px-S3_Gear_Clothing_Octosquid_Tandem_Tee.png",
+        "name": "octosquid tandem tee",
+        "brand": " squidforce",
+        "cost": " 300",
+        "ability": " intensify action",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/cb/S3_Gear_Clothing_Office_Attire.png/120px-S3_Gear_Clothing_Office_Attire.png",
+        "name": "office attire",
+        "brand": " grizzco",
+        "cost": " 300",
+        "ability": " haunt",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/40/S3_Gear_Clothing_Olive_Ski_Jacket.png/120px-S3_Gear_Clothing_Olive_Ski_Jacket.png",
+        "name": "olive ski jacket",
+        "brand": " inkline",
+        "cost": " 11,000",
+        "ability": " run speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/ff/S3_Gear_Clothing_Olive_Zekko_Parka.png/120px-S3_Gear_Clothing_Olive_Zekko_Parka.png",
+        "name": "olive zekko parka",
+        "brand": " zekko",
+        "cost": " 3,800",
+        "ability": " swim speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/68/S3_Gear_Clothing_Orange_Cardigan.png/120px-S3_Gear_Clothing_Orange_Cardigan.png",
+        "name": "orange cardigan",
+        "brand": " splash mob",
+        "cost": " 700",
+        "ability": " special charge up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/55/S3_Gear_Clothing_Orca_Bolero.png/120px-S3_Gear_Clothing_Orca_Bolero.png",
+        "name": "orca bolero",
+        "brand": " toni kensa",
+        "cost": " 9,980",
+        "ability": " ink recovery up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/00/S3_Gear_Clothing_Order_Suit_Replica.png/120px-S3_Gear_Clothing_Order_Suit_Replica.png",
+        "name": "order suit replica",
+        "brand": " cuttlegear",
+        "cost": " side order",
+        "ability": " ink saver (main)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/61/S3_Gear_Clothing_Panda_Kung-Fu_Zip-Up.png/120px-S3_Gear_Clothing_Panda_Kung-Fu_Zip-Up.png",
+        "name": "panda kung-fu zip-up",
+        "brand": " toni kensa",
+        "cost": " 10,280",
+        "ability": " sub power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/81/S3_Gear_Clothing_Part-Time_Pirate.png/120px-S3_Gear_Clothing_Part-Time_Pirate.png",
+        "name": "part-time pirate",
+        "brand": " tentatek",
+        "cost": " 800",
+        "ability": " respawn punisher",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/3b/S3_Gear_Clothing_Patchwork_Bomber.png/120px-S3_Gear_Clothing_Patchwork_Bomber.png",
+        "name": "patchwork bomber",
+        "brand": " emberz",
+        "cost": " 12,500",
+        "ability": " ink saver (main)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/a9/S3_Gear_Clothing_Pearl_Tee.png/120px-S3_Gear_Clothing_Pearl_Tee.png",
+        "name": "pearl tee",
+        "brand": " skalop",
+        "cost": " 400",
+        "ability": " ink saver (sub)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/42/S3_Gear_Clothing_Pearlescent_Hoodie.png/120px-S3_Gear_Clothing_Pearlescent_Hoodie.png",
+        "name": "pearlescent hoodie",
+        "brand": " amiibo",
+        "cost": "  pearl",
+        "ability": " respawn punisher",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/9/95/S3_Gear_Clothing_Penguin_Bolero.png/120px-S3_Gear_Clothing_Penguin_Bolero.png",
+        "name": "penguin bolero",
+        "brand": " toni kensa",
+        "cost": " 9,900",
+        "ability": " ink saver (sub)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/9/9d/S3_Gear_Clothing_Pineapple_Ringer.png/120px-S3_Gear_Clothing_Pineapple_Ringer.png",
+        "name": "pineapple ringer",
+        "brand": " zink",
+        "cost": " 1,000",
+        "ability": " ink recovery up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/b/b7/S3_Gear_Clothing_Pink_Easy-Stripe_Shirt.png/120px-S3_Gear_Clothing_Pink_Easy-Stripe_Shirt.png",
+        "name": "pink easy-stripe shirt",
+        "brand": " splash mob",
+        "cost": " 3,800",
+        "ability": " quick super jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/84/S3_Gear_Clothing_Pink_Hoodie.png/120px-S3_Gear_Clothing_Pink_Hoodie.png",
+        "name": "pink hoodie",
+        "brand": " splash mob",
+        "cost": " 3,400",
+        "ability": " sub resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/e5/S3_Gear_Clothing_Pirate-Stripe_Tee.png/120px-S3_Gear_Clothing_Pirate-Stripe_Tee.png",
+        "name": "pirate-stripe tee",
+        "brand": " splash mob",
+        "cost": " 700",
+        "ability": " special power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/07/S3_Gear_Clothing_Plum_Barazushi_Wrap.png/120px-S3_Gear_Clothing_Plum_Barazushi_Wrap.png",
+        "name": "plum barazushi wrap",
+        "brand": " barazushi",
+        "cost": " 7,200",
+        "ability": " swim speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/c1/S3_Gear_Clothing_Positive_Longcuff_Sweater.png/120px-S3_Gear_Clothing_Positive_Longcuff_Sweater.png",
+        "name": "positive longcuff sweater",
+        "brand": " toni kensa",
+        "cost": " 10,800",
+        "ability": " swim speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/ac/S3_Gear_Clothing_Power_Armor.png/120px-S3_Gear_Clothing_Power_Armor.png",
+        "name": "power armor",
+        "brand": " amiibo",
+        "cost": "  inkling squid (splatoon)",
+        "ability": " quick respawn",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/cc/S3_Gear_Clothing_Power_Armor_Mk_I.png/120px-S3_Gear_Clothing_Power_Armor_Mk_I.png",
+        "name": "power armor mk i",
+        "brand": " amiibo",
+        "cost": "  inkling squid (splatoon 2)",
+        "ability": " ink resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/36/S3_Gear_Clothing_Prune_Parashooter.png/120px-S3_Gear_Clothing_Prune_Parashooter.png",
+        "name": "prune parashooter",
+        "brand": " annaki",
+        "cost": " 7,800",
+        "ability": " ninja squid",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/ad/S3_Gear_Clothing_Pullover_Coat.png/120px-S3_Gear_Clothing_Pullover_Coat.png",
+        "name": "pullover coat",
+        "brand": " toni kensa",
+        "cost": " 13,200",
+        "ability": " thermal ink",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/1/1d/S3_Gear_Clothing_Purple_Camo_LS.png/120px-S3_Gear_Clothing_Purple_Camo_LS.png",
+        "name": "purple camo ls",
+        "brand": " takoroka",
+        "cost": " 600",
+        "ability": " sub power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/f7/S3_Gear_Clothing_Rad_Plaid_Casual.png/120px-S3_Gear_Clothing_Rad_Plaid_Casual.png",
+        "name": "rad plaid casual",
+        "brand": " z+f",
+        "cost": " 9,760",
+        "ability": " swim speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/e6/S3_Gear_Clothing_Rainy-Day_Tee.png/120px-S3_Gear_Clothing_Rainy-Day_Tee.png",
+        "name": "rainy-day tee",
+        "brand": " krak-on",
+        "cost": " 300",
+        "ability": " ink saver (main)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/e5/S3_Gear_Clothing_Red_Battlecrab_Shell.png/120px-S3_Gear_Clothing_Red_Battlecrab_Shell.png",
+        "name": "red battlecrab shell",
+        "brand": " enperry",
+        "cost": " 6,200",
+        "ability": " sub resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/2c/S3_Gear_Clothing_Red_Cuttlegear_LS.png/120px-S3_Gear_Clothing_Red_Cuttlegear_LS.png",
+        "name": "red cuttlegear ls",
+        "brand": " cuttlegear",
+        "cost": " 5,800",
+        "ability": " sub resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/5b/S3_Gear_Clothing_Red_Hula_Punk_with_Tie.png/120px-S3_Gear_Clothing_Red_Hula_Punk_with_Tie.png",
+        "name": "red hula punk with tie",
+        "brand": " annaki",
+        "cost": " 9,000",
+        "ability": " ink resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/86/S3_Gear_Clothing_Red_Tentatek_Tee.png/120px-S3_Gear_Clothing_Red_Tentatek_Tee.png",
+        "name": "red tentatek tee",
+        "brand": " tentatek",
+        "cost": " 3,100",
+        "ability": " swim speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/d1/S3_Gear_Clothing_Red_Vector_Tee.png/120px-S3_Gear_Clothing_Red_Vector_Tee.png",
+        "name": "red vector tee",
+        "brand": " takoroka",
+        "cost": " 500",
+        "ability": " ink saver (main)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/a0/S3_Gear_Clothing_Red-Check_Shirt.png/120px-S3_Gear_Clothing_Red-Check_Shirt.png",
+        "name": "red-check shirt",
+        "brand": " zekko",
+        "cost": " 2,000",
+        "ability": " ink saver (main)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/27/S3_Gear_Clothing_Reel_Sweat.png/120px-S3_Gear_Clothing_Reel_Sweat.png",
+        "name": "reel sweat",
+        "brand": " zekko",
+        "cost": " 900",
+        "ability": " special power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/df/S3_Gear_Clothing_Reggae_Tee.png/120px-S3_Gear_Clothing_Reggae_Tee.png",
+        "name": "reggae tee",
+        "brand": " skalop",
+        "cost": " 8,200",
+        "ability": " special saver",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/1/19/S3_Gear_Clothing_Retro_Future_Suit.png/120px-S3_Gear_Clothing_Retro_Future_Suit.png",
+        "name": "retro future suit",
+        "brand": " grizzco",
+        "cost": " salmon run next wave",
+        "ability": "",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/1/1b/S3_Gear_Clothing_Retro_Gamer_Jersey.png/120px-S3_Gear_Clothing_Retro_Gamer_Jersey.png",
+        "name": "retro gamer jersey",
+        "brand": " zink",
+        "cost": " 9,000",
+        "ability": " quick respawn",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/6c/S3_Gear_Clothing_Retro_Sweat.png/120px-S3_Gear_Clothing_Retro_Sweat.png",
+        "name": "retro sweat",
+        "brand": " squidforce",
+        "cost": " 9,000",
+        "ability": " sub resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/0d/S3_Gear_Clothing_Rockenberg_Black.png/120px-S3_Gear_Clothing_Rockenberg_Black.png",
+        "name": "rockenberg black",
+        "brand": " rockenberg",
+        "cost": " 800",
+        "ability": " respawn punisher",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/f6/S3_Gear_Clothing_Rockenberg_White.png/120px-S3_Gear_Clothing_Rockenberg_White.png",
+        "name": "rockenberg white",
+        "brand": " rockenberg",
+        "cost": " 2,500",
+        "ability": " ink recovery up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/ee/S3_Gear_Clothing_Rockin%27_Leather_Jacket.png/120px-S3_Gear_Clothing_Rockin%27_Leather_Jacket.png",
+        "name": "rockin leather jacket",
+        "brand": " annaki",
+        "cost": " 10,666",
+        "ability": " sub power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/27/S3_Gear_Clothing_Rodeo_Shirt.png/120px-S3_Gear_Clothing_Rodeo_Shirt.png",
+        "name": "rodeo shirt",
+        "brand": " krak-on",
+        "cost": " 750",
+        "ability": " quick super jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/b/b5/S3_Gear_Clothing_Round-Collar_Shirt.png/120px-S3_Gear_Clothing_Round-Collar_Shirt.png",
+        "name": "round-collar shirt",
+        "brand": " rockenberg",
+        "cost": " 1,600",
+        "ability": " ink saver (sub)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/ab/S3_Gear_Clothing_Rugby_Fleece.png/120px-S3_Gear_Clothing_Rugby_Fleece.png",
+        "name": "rugby fleece",
+        "brand": " inkline",
+        "cost": " 8,500",
+        "ability": " respawn punisher",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/38/S3_Gear_Clothing_Rugby_King_08.png/120px-S3_Gear_Clothing_Rugby_King_08.png",
+        "name": "rugby king 08",
+        "brand": " enperry",
+        "cost": " 3,200",
+        "ability": " quick super jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/ee/S3_Gear_Clothing_Rugby_King_10.png/120px-S3_Gear_Clothing_Rugby_King_10.png",
+        "name": "rugby king 10",
+        "brand": " enperry",
+        "cost": " 3,200",
+        "ability": " ink saver (sub)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/1/16/S3_Gear_Clothing_Sage_Polo.png/120px-S3_Gear_Clothing_Sage_Polo.png",
+        "name": "sage polo",
+        "brand": " splash mob",
+        "cost": " 400",
+        "ability": " intensify action",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/62/S3_Gear_Clothing_Sailor-Stripe_Tee.png/120px-S3_Gear_Clothing_Sailor-Stripe_Tee.png",
+        "name": "sailor-stripe tee",
+        "brand": " splash mob",
+        "cost": " 700",
+        "ability": " run speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/1/13/S3_Gear_Clothing_Samurai_Jacket.png/120px-S3_Gear_Clothing_Samurai_Jacket.png",
+        "name": "samurai jacket",
+        "brand": " amiibo",
+        "cost": "  inkling boy (splatoon)",
+        "ability": " special charge up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/5b/S3_Gear_Clothing_School_Cardigan_A.png/120px-S3_Gear_Clothing_School_Cardigan_A.png",
+        "name": "school cardigan a",
+        "brand": " amiibo",
+        "cost": "  inkling girl (splatoon 2)",
+        "ability": " run speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/7/72/S3_Gear_Clothing_School_Cardigan_B.png/120px-S3_Gear_Clothing_School_Cardigan_B.png",
+        "name": "school cardigan b",
+        "brand": " amiibo",
+        "cost": "  inkling girl (splatoon 2)",
+        "ability": " run speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/1/16/S3_Gear_Clothing_School_Jersey.png/120px-S3_Gear_Clothing_School_Jersey.png",
+        "name": "school jersey",
+        "brand": " zink",
+        "cost": " 3,000",
+        "ability": " ninja squid",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/7/7b/S3_Gear_Clothing_School_Uniform_A.png/120px-S3_Gear_Clothing_School_Uniform_A.png",
+        "name": "school uniform a",
+        "brand": " amiibo",
+        "cost": "  inkling girl (splatoon)",
+        "ability": " ink recovery up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/fb/S3_Gear_Clothing_School_Uniform_B.png/120px-S3_Gear_Clothing_School_Uniform_B.png",
+        "name": "school uniform b",
+        "brand": " amiibo",
+        "cost": "  inkling girl (splatoon)",
+        "ability": " ink recovery up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/5e/S3_Gear_Clothing_Schoolyard_Scrap_Jack.png/120px-S3_Gear_Clothing_Schoolyard_Scrap_Jack.png",
+        "name": "schoolyard scrap jack",
+        "brand": " amiibo",
+        "cost": "  inkling (splatoon 3)",
+        "ability": " sub resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/32/S3_Gear_Clothing_Seafoam_Hoodie.png/120px-S3_Gear_Clothing_Seafoam_Hoodie.png",
+        "name": "seafoam hoodie",
+        "brand": " z+f",
+        "cost": " 8,920",
+        "ability": " ink saver (sub)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/89/S3_Gear_Clothing_Seahorse_Shoreliner.png/120px-S3_Gear_Clothing_Seahorse_Shoreliner.png",
+        "name": "seahorse shoreliner",
+        "brand": " krak-on",
+        "cost": " 3,800",
+        "ability": " special saver",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/67/S3_Gear_Clothing_Sharkfin_Raglan.png/120px-S3_Gear_Clothing_Sharkfin_Raglan.png",
+        "name": "sharkfin raglan",
+        "brand": " zink",
+        "cost": " 500",
+        "ability": " sub resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/d1/S3_Gear_Clothing_Shirt_%26_Tie.png/120px-S3_Gear_Clothing_Shirt_%26_Tie.png",
+        "name": "shirt & tie",
+        "brand": " splash mob",
+        "cost": " 8,400",
+        "ability": " special saver",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/f7/S3_Gear_Clothing_Shirt_with_Blue_Hoodie.png/120px-S3_Gear_Clothing_Shirt_with_Blue_Hoodie.png",
+        "name": "shirt with blue hoodie",
+        "brand": " splash mob",
+        "cost": " 2,900",
+        "ability": " special power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/b/b4/S3_Gear_Clothing_Short_Knit_Layers.png/120px-S3_Gear_Clothing_Short_Knit_Layers.png",
+        "name": "short knit layers",
+        "brand": " toni kensa",
+        "cost": " 9,850",
+        "ability": " intensify action",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/4c/S3_Gear_Clothing_Shrimp-Pink_Polo.png/120px-S3_Gear_Clothing_Shrimp-Pink_Polo.png",
+        "name": "shrimp-pink polo",
+        "brand": " splash mob",
+        "cost": " 550",
+        "ability": " ninja squid",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/6e/S3_Gear_Clothing_Silver_Tentatek_Vest.png/120px-S3_Gear_Clothing_Silver_Tentatek_Vest.png",
+        "name": "silver tentatek vest",
+        "brand": " tentatek",
+        "cost": " 6,200",
+        "ability": " thermal ink",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/2d/S3_Gear_Clothing_Sky-Blue_Squideye.png/120px-S3_Gear_Clothing_Sky-Blue_Squideye.png",
+        "name": "sky-blue squideye",
+        "brand": " tentatek",
+        "cost": " 500",
+        "ability": " intensify action",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/a8/S3_Gear_Clothing_Slash_King_Tank.png/120px-S3_Gear_Clothing_Slash_King_Tank.png",
+        "name": "slash king tank",
+        "brand": " enperry",
+        "cost": " 450",
+        "ability": " thermal ink",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/e3/S3_Gear_Clothing_Slate_Streetstyle_Tee.png/120px-S3_Gear_Clothing_Slate_Streetstyle_Tee.png",
+        "name": "slate streetstyle tee",
+        "brand": " skalop",
+        "cost": " 400",
+        "ability": " special saver",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/a3/S3_Gear_Clothing_Slipstream_United.png/120px-S3_Gear_Clothing_Slipstream_United.png",
+        "name": "slipstream united",
+        "brand": " takoroka",
+        "cost": " 1,800",
+        "ability": " sub resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/eb/S3_Gear_Clothing_Splatfest_Tee.png/120px-S3_Gear_Clothing_Splatfest_Tee.png",
+        "name": "splatfest tee",
+        "brand": " squidforce",
+        "cost": " splatfest",
+        "ability": " ability doubler",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/43/S3_Gear_Clothing_SplatJack_5000.png/120px-S3_Gear_Clothing_SplatJack_5000.png",
+        "name": "splatjack 5000",
+        "brand": " grizzco",
+        "cost": " salmon run next wave",
+        "ability": "",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/87/S3_Gear_Clothing_Squid_Satin_Jacket.png/120px-S3_Gear_Clothing_Squid_Satin_Jacket.png",
+        "name": "squid satin jacket",
+        "brand": " zekko",
+        "cost": " 9,200",
+        "ability": " quick respawn",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/ee/S3_Gear_Clothing_Squid_Squad_Band_Tee.png/120px-S3_Gear_Clothing_Squid_Squad_Band_Tee.png",
+        "name": "squid squad band tee",
+        "brand": " rockenberg",
+        "cost": " 900",
+        "ability": " ink resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/e3/S3_Gear_Clothing_Squid_Yellow_Layered_LS.png/120px-S3_Gear_Clothing_Squid_Yellow_Layered_LS.png",
+        "name": "squid yellow layered ls",
+        "brand": " squidforce",
+        "cost": " 4,010",
+        "ability": " swim speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/1/14/S3_Gear_Clothing_Squid-Pattern_Waistcoat.png/120px-S3_Gear_Clothing_Squid-Pattern_Waistcoat.png",
+        "name": "squid-pattern waistcoat",
+        "brand": " krak-on",
+        "cost": " 800",
+        "ability": " special power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/5c/S3_Gear_Clothing_Squid-Stitch_Tee.png/120px-S3_Gear_Clothing_Squid-Stitch_Tee.png",
+        "name": "squid-stitch tee",
+        "brand": " skalop",
+        "cost": " 400",
+        "ability": " swim speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/3a/S3_Gear_Clothing_Squiddor_Polo.png/120px-S3_Gear_Clothing_Squiddor_Polo.png",
+        "name": "squiddor polo",
+        "brand": " grizzco",
+        "cost": " 100",
+        "ability": " run speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/88/S3_Gear_Clothing_Squidmark_LS.png/120px-S3_Gear_Clothing_Squidmark_LS.png",
+        "name": "squidmark ls",
+        "brand": " squidforce",
+        "cost": " 600",
+        "ability": " haunt",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/5a/S3_Gear_Clothing_Squidmark_Sweat.png/120px-S3_Gear_Clothing_Squidmark_Sweat.png",
+        "name": "squidmark sweat",
+        "brand": " squidforce",
+        "cost": " 800",
+        "ability": " sub power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/83/S3_Gear_Clothing_Squidstar_Waistcoat.png/120px-S3_Gear_Clothing_Squidstar_Waistcoat.png",
+        "name": "squidstar waistcoat",
+        "brand": " krak-on",
+        "cost": " 650",
+        "ability": " intensify action",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/9/95/S3_Gear_Clothing_Squinja_Suit.png/120px-S3_Gear_Clothing_Squinja_Suit.png",
+        "name": "squinja suit",
+        "brand": " amiibo",
+        "cost": "  inkling boy (splatoon 2)",
+        "ability": " special saver",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/2c/S3_Gear_Clothing_SRL_Coat.png/120px-S3_Gear_Clothing_SRL_Coat.png",
+        "name": "srl coat",
+        "brand": " grizzco",
+        "cost": " 800",
+        "ability": " thermal ink",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/cc/S3_Gear_Clothing_Steel_Platemail.png/120px-S3_Gear_Clothing_Steel_Platemail.png",
+        "name": "steel platemail",
+        "brand": " amiibo",
+        "cost": "  octoling boy",
+        "ability": " ink saver (sub)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/dd/S3_Gear_Clothing_Striped_Peaks_LS.png/120px-S3_Gear_Clothing_Striped_Peaks_LS.png",
+        "name": "striped peaks ls",
+        "brand": " inkline",
+        "cost": " 700",
+        "ability": " quick super jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/4f/S3_Gear_Clothing_Striped_Rugby.png/120px-S3_Gear_Clothing_Striped_Rugby.png",
+        "name": "striped rugby",
+        "brand": " takoroka",
+        "cost": " 2,300",
+        "ability": " run speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/02/S3_Gear_Clothing_Striped_Shirt.png/120px-S3_Gear_Clothing_Striped_Shirt.png",
+        "name": "striped shirt",
+        "brand": " splash mob",
+        "cost": " 2,200",
+        "ability": " quick super jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/ae/S3_Gear_Clothing_Sudadera_Celeste.png/120px-S3_Gear_Clothing_Sudadera_Celeste.png",
+        "name": "sudadera celeste",
+        "brand": " krak-on",
+        "cost": " 3,650",
+        "ability": " ninja squid",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/8e/S3_Gear_Clothing_Sudadera_Roja.png/120px-S3_Gear_Clothing_Sudadera_Roja.png",
+        "name": "sudadera roja",
+        "brand": " krak-on",
+        "cost": " 3,450",
+        "ability": " quick respawn",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/36/S3_Gear_Clothing_Sunny-Day_Tee.png/120px-S3_Gear_Clothing_Sunny-Day_Tee.png",
+        "name": "sunny-day tee",
+        "brand": " krak-on",
+        "cost": " 300",
+        "ability": " special charge up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/9/9e/S3_Gear_Clothing_Survival_Suit_Replica.png/120px-S3_Gear_Clothing_Survival_Suit_Replica.png",
+        "name": "survival suit replica",
+        "brand": " cuttlegear",
+        "cost": "  callie (alterna)",
+        "ability": " ink resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/a6/S3_Gear_Clothing_Takoroka_m_Alien.png/120px-S3_Gear_Clothing_Takoroka_m_Alien.png",
+        "name": "takoroka \\\\m/ alien",
+        "brand": " takoroka",
+        "cost": " 7,900",
+        "ability": " quick respawn",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/0f/S3_Gear_Clothing_Takoroka_m_Crab.png/120px-S3_Gear_Clothing_Takoroka_m_Crab.png",
+        "name": "takoroka \\\\m/ crab",
+        "brand": " takoroka",
+        "cost": " 2,320",
+        "ability": " ink recovery up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/9/96/S3_Gear_Clothing_Takoroka_Crazy_Baseball_LS.png/120px-S3_Gear_Clothing_Takoroka_Crazy_Baseball_LS.png",
+        "name": "takoroka crazy baseball ls",
+        "brand": " takoroka",
+        "cost": " 4,200",
+        "ability": " ninja squid",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/1/1e/S3_Gear_Clothing_Takoroka_Galactic_Tie_Dye.png/120px-S3_Gear_Clothing_Takoroka_Galactic_Tie_Dye.png",
+        "name": "takoroka galactic tie dye",
+        "brand": " takoroka",
+        "cost": " 850",
+        "ability": " thermal ink",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/4e/S3_Gear_Clothing_Takoroka_Jersey.png/120px-S3_Gear_Clothing_Takoroka_Jersey.png",
+        "name": "takoroka jersey",
+        "brand": " takoroka",
+        "cost": " 8,960",
+        "ability": " special power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/f9/S3_Gear_Clothing_Takoroka_Nineties_Nylon.png/120px-S3_Gear_Clothing_Takoroka_Nineties_Nylon.png",
+        "name": "takoroka nineties nylon",
+        "brand": " takoroka",
+        "cost": " 9,900",
+        "ability": " ink resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/29/S3_Gear_Clothing_Takoroka_Nylon_Vintage.png/120px-S3_Gear_Clothing_Takoroka_Nylon_Vintage.png",
+        "name": "takoroka nylon vintage",
+        "brand": " takoroka",
+        "cost": " 9,500",
+        "ability": " thermal ink",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/f4/S3_Gear_Clothing_Takoroka_Rainbow_Tie_Dye.png/120px-S3_Gear_Clothing_Takoroka_Rainbow_Tie_Dye.png",
+        "name": "takoroka rainbow tie dye",
+        "brand": " takoroka",
+        "cost": " 850",
+        "ability": " quick super jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/03/S3_Gear_Clothing_Takoroka_Tandem.png/120px-S3_Gear_Clothing_Takoroka_Tandem.png",
+        "name": "takoroka tandem",
+        "brand": " takoroka",
+        "cost": " 1,200",
+        "ability": " swim speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/e1/S3_Gear_Clothing_Takoroka_Windcrusher.png/120px-S3_Gear_Clothing_Takoroka_Windcrusher.png",
+        "name": "takoroka windcrusher",
+        "brand": " takoroka",
+        "cost": " 8,500",
+        "ability": " intensify action",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/a7/S3_Gear_Clothing_Tan_Retro_Tee.png/120px-S3_Gear_Clothing_Tan_Retro_Tee.png",
+        "name": "tan retro tee",
+        "brand": " tentatek",
+        "cost": " 8,800",
+        "ability": " ninja squid",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/4e/S3_Gear_Clothing_Teal_Body_Warmer.png/120px-S3_Gear_Clothing_Teal_Body_Warmer.png",
+        "name": "teal body warmer",
+        "brand": " emberz",
+        "cost": " 11,800",
+        "ability": " sub resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/23/S3_Gear_Clothing_Tentatek_Slipstream_Vest.png/120px-S3_Gear_Clothing_Tentatek_Slipstream_Vest.png",
+        "name": "tentatek slipstream vest",
+        "brand": " tentatek",
+        "cost": " 11,800",
+        "ability": " special power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/d1/S3_Gear_Clothing_Tentatek_Slogan_Tee.png/120px-S3_Gear_Clothing_Tentatek_Slogan_Tee.png",
+        "name": "tentatek slogan tee",
+        "brand": " tentatek",
+        "cost": " 1,600",
+        "ability": " special charge up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/ae/S3_Gear_Clothing_Tentatek_Tandem.png/120px-S3_Gear_Clothing_Tentatek_Tandem.png",
+        "name": "tentatek tandem",
+        "brand": " tentatek",
+        "cost": " 960",
+        "ability": " ink saver (main)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/1/1c/S3_Gear_Clothing_Tenured_Turtleneck.png/120px-S3_Gear_Clothing_Tenured_Turtleneck.png",
+        "name": "tenured turtleneck",
+        "brand": " splash mob",
+        "cost": " 3,500",
+        "ability": " special saver",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/9/93/S3_Gear_Clothing_Toni_K._Baseball_Jersey.png/120px-S3_Gear_Clothing_Toni_K._Baseball_Jersey.png",
+        "name": "toni k. baseball jersey",
+        "brand": " toni kensa",
+        "cost": " 9,650",
+        "ability": " special charge up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/7/7f/S3_Gear_Clothing_Tri-Octo_Tee.png/120px-S3_Gear_Clothing_Tri-Octo_Tee.png",
+        "name": "tri-octo tee",
+        "brand": " squidforce",
+        "cost": " 300",
+        "ability": " ink saver (sub)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/b/b9/S3_Gear_Clothing_Tri-Shred_Tee.png/120px-S3_Gear_Clothing_Tri-Shred_Tee.png",
+        "name": "tri-shred tee",
+        "brand": " squidforce",
+        "cost": " 530",
+        "ability": " quick respawn",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/d7/S3_Gear_Clothing_Tri-Squid_Tee.png/120px-S3_Gear_Clothing_Tri-Squid_Tee.png",
+        "name": "tri-squid tee",
+        "brand": " squidforce",
+        "cost": " 300",
+        "ability": " quick respawn",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/7/75/S3_Gear_Clothing_Tricolor_Rugby.png/120px-S3_Gear_Clothing_Tricolor_Rugby.png",
+        "name": "tricolor rugby",
+        "brand": " takoroka",
+        "cost": " 700",
+        "ability": " quick respawn",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/60/S3_Gear_Clothing_Trooper_Top.png/120px-S3_Gear_Clothing_Trooper_Top.png",
+        "name": "trooper top",
+        "brand": " z+f",
+        "cost": " 10,100",
+        "ability": " ink resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/83/S3_Gear_Clothing_Tumeric_Zekko_Coat.png/120px-S3_Gear_Clothing_Tumeric_Zekko_Coat.png",
+        "name": "tumeric zekko coat",
+        "brand": " zekko",
+        "cost": " 4,600",
+        "ability": " thermal ink",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/47/S3_Gear_Clothing_Umibozu_Home_Jersey.png/120px-S3_Gear_Clothing_Umibozu_Home_Jersey.png",
+        "name": "umibozu home jersey",
+        "brand": " takoroka",
+        "cost": " 870",
+        "ability": " haunt",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/d0/S3_Gear_Clothing_Umibozu_Road_Jersey.png/120px-S3_Gear_Clothing_Umibozu_Road_Jersey.png",
+        "name": "umibozu road jersey",
+        "brand": " takoroka",
+        "cost": " 8,900",
+        "ability": " run speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/29/S3_Gear_Clothing_Urban_Upcycle_Top.png/120px-S3_Gear_Clothing_Urban_Upcycle_Top.png",
+        "name": "urban upcycle top",
+        "brand": " emberz",
+        "cost": " 8,800",
+        "ability": " respawn punisher",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/51/S3_Gear_Clothing_Urchins_Jersey.png/120px-S3_Gear_Clothing_Urchins_Jersey.png",
+        "name": "urchins jersey",
+        "brand": " zink",
+        "cost": " 700",
+        "ability": " run speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/02/S3_Gear_Clothing_Vaporwave_Tee.png/120px-S3_Gear_Clothing_Vaporwave_Tee.png",
+        "name": "vaporwave tee",
+        "brand": " skalop",
+        "cost": " 880",
+        "ability": " thermal ink",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/7/72/S3_Gear_Clothing_Varsity_Baseball_LS.png/120px-S3_Gear_Clothing_Varsity_Baseball_LS.png",
+        "name": "varsity baseball ls",
+        "brand": " splash mob",
+        "cost": " 700",
+        "ability": " haunt",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/55/S3_Gear_Clothing_Varsity_Jacket.png/120px-S3_Gear_Clothing_Varsity_Jacket.png",
+        "name": "varsity jacket",
+        "brand": " zekko",
+        "cost": " 11,500",
+        "ability": " ink saver (sub)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/e3/S3_Gear_Clothing_Vintage_Check_Shirt.png/120px-S3_Gear_Clothing_Vintage_Check_Shirt.png",
+        "name": "vintage check shirt",
+        "brand": " rockenberg",
+        "cost": " 9,000",
+        "ability": " haunt",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/e8/S3_Gear_Clothing_Wet_Floor_Band_Tee.png/120px-S3_Gear_Clothing_Wet_Floor_Band_Tee.png",
+        "name": "wet floor band tee",
+        "brand": " rockenberg",
+        "cost": " 900",
+        "ability": " swim speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/85/S3_Gear_Clothing_Whale-Knit_Sweater.png/120px-S3_Gear_Clothing_Whale-Knit_Sweater.png",
+        "name": "whale-knit sweater",
+        "brand": " splash mob",
+        "cost": " 9,650",
+        "ability": " run speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/21/S3_Gear_Clothing_White_8-Bit_FishFry.png/120px-S3_Gear_Clothing_White_8-Bit_FishFry.png",
+        "name": "white 8-bit fishfry",
+        "brand": " firefin",
+        "cost": " 800",
+        "ability": " sub power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/3a/S3_Gear_Clothing_White_Anchor_Tee.png/120px-S3_Gear_Clothing_White_Anchor_Tee.png",
+        "name": "white anchor tee",
+        "brand": " squidforce",
+        "cost": " 2,800",
+        "ability": " ninja squid",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/35/S3_Gear_Clothing_White_Baseball_LS.png/120px-S3_Gear_Clothing_White_Baseball_LS.png",
+        "name": "white baseball ls",
+        "brand": " rockenberg",
+        "cost": " 800",
+        "ability": " quick super jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/c7/S3_Gear_Clothing_White_Deca_Logo_Tee.png/120px-S3_Gear_Clothing_White_Deca_Logo_Tee.png",
+        "name": "white deca logo tee",
+        "brand": " zink",
+        "cost": " 1,200",
+        "ability": " ink resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/21/S3_Gear_Clothing_White_Inky_Rider.png/120px-S3_Gear_Clothing_White_Inky_Rider.png",
+        "name": "white inky rider",
+        "brand": " rockenberg",
+        "cost": " 12,800",
+        "ability": " special power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/ea/S3_Gear_Clothing_White_King_Tank.png/120px-S3_Gear_Clothing_White_King_Tank.png",
+        "name": "white king tank",
+        "brand": " enperry",
+        "cost": " 600",
+        "ability": " haunt",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/82/S3_Gear_Clothing_White_Layered_LS.png/120px-S3_Gear_Clothing_White_Layered_LS.png",
+        "name": "white layered ls",
+        "brand": " squidforce",
+        "cost": " 500",
+        "ability": " special saver",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/7/72/S3_Gear_Clothing_White_Leather_F-3.png/120px-S3_Gear_Clothing_White_Leather_F-3.png",
+        "name": "white leather f-3",
+        "brand": " forge",
+        "cost": " 8,900",
+        "ability": " respawn punisher",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/1/19/S3_Gear_Clothing_White_LS.png/120px-S3_Gear_Clothing_White_LS.png",
+        "name": "white ls",
+        "brand": " squidforce",
+        "cost": " 600",
+        "ability": " ink recovery up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/28/S3_Gear_Clothing_White_Retro_Tee.png/120px-S3_Gear_Clothing_White_Retro_Tee.png",
+        "name": "white retro tee",
+        "brand": " tentatek",
+        "cost": " 770",
+        "ability": " ink saver (sub)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/0c/S3_Gear_Clothing_White_Sailor_Suit.png/120px-S3_Gear_Clothing_White_Sailor_Suit.png",
+        "name": "white sailor suit",
+        "brand": " forge",
+        "cost": " 3,000",
+        "ability": " ink saver (main)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/7/7c/S3_Gear_Clothing_White_Shirt.png/120px-S3_Gear_Clothing_White_Shirt.png",
+        "name": "white shirt",
+        "brand": " splash mob",
+        "cost": " 7,500",
+        "ability": " ink recovery up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/a4/S3_Gear_Clothing_White_Striped_LS.png/120px-S3_Gear_Clothing_White_Striped_LS.png",
+        "name": "white striped ls",
+        "brand": " splash mob",
+        "cost": " 2,300",
+        "ability": " quick respawn",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/60/S3_Gear_Clothing_White_Tee.png/120px-S3_Gear_Clothing_White_Tee.png",
+        "name": "white tee",
+        "brand": " squidforce",
+        "cost": " 400",
+        "ability": " ink saver (sub)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/8f/S3_Gear_Clothing_White_Urchin_Rock_Tee.png/120px-S3_Gear_Clothing_White_Urchin_Rock_Tee.png",
+        "name": "white urchin rock tee",
+        "brand": " rockenberg",
+        "cost": " 850",
+        "ability": " ink saver (main)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/cd/S3_Gear_Clothing_White_V-Neck_Tee.png/120px-S3_Gear_Clothing_White_V-Neck_Tee.png",
+        "name": "white v-neck tee",
+        "brand": " squidforce",
+        "cost": " 3,800",
+        "ability": " special saver",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/5e/S3_Gear_Clothing_White_Z%2BF_Tee.png/120px-S3_Gear_Clothing_White_Z%2BF_Tee.png",
+        "name": "white z+f tee",
+        "brand": " z+f",
+        "cost": " 830",
+        "ability": " special power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/2c/S3_Gear_Clothing_World_Tour_Jacket.png/120px-S3_Gear_Clothing_World_Tour_Jacket.png",
+        "name": "world tour jacket",
+        "brand": " amiibo",
+        "cost": "  marina (side order)",
+        "ability": " swim speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/5d/S3_Gear_Clothing_World_Tour_Puffy_Coat.png/120px-S3_Gear_Clothing_World_Tour_Puffy_Coat.png",
+        "name": "world tour puffy coat",
+        "brand": " amiibo",
+        "cost": "  pearl (side order)",
+        "ability": " sub power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/33/S3_Gear_Clothing_Yellow_Layered_LS.png/120px-S3_Gear_Clothing_Yellow_Layered_LS.png",
+        "name": "yellow layered ls",
+        "brand": " squidforce",
+        "cost": " 500",
+        "ability": " quick super jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/34/S3_Gear_Clothing_Yellow_Urban_Vest.png/120px-S3_Gear_Clothing_Yellow_Urban_Vest.png",
+        "name": "yellow urban vest",
+        "brand": " firefin",
+        "cost": " 4,100",
+        "ability": " haunt",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/5e/S3_Gear_Clothing_Zapfish_Satin_Jacket.png/120px-S3_Gear_Clothing_Zapfish_Satin_Jacket.png",
+        "name": "zapfish satin jacket",
+        "brand": " zekko",
+        "cost": " 2,900",
+        "ability": " special charge up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/fa/S3_Gear_Clothing_Zekko_Baseball_LS.png/120px-S3_Gear_Clothing_Zekko_Baseball_LS.png",
+        "name": "zekko baseball ls",
+        "brand": " zekko",
+        "cost": " 800",
+        "ability": " sub resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/7/7a/S3_Gear_Clothing_Zekko_Hoodie.png/120px-S3_Gear_Clothing_Zekko_Hoodie.png",
+        "name": "zekko hoodie",
+        "brand": " zekko",
+        "cost": " 2,800",
+        "ability": " ninja squid",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/04/S3_Gear_Clothing_Zekko_Jade_Coat.png/120px-S3_Gear_Clothing_Zekko_Jade_Coat.png",
+        "name": "zekko jade coat",
+        "brand": " zekko",
+        "cost": " 3,600",
+        "ability": " respawn punisher",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/27/S3_Gear_Clothing_Zekko_Long_Carrot_Tee.png/120px-S3_Gear_Clothing_Zekko_Long_Carrot_Tee.png",
+        "name": "zekko long carrot tee",
+        "brand": " zekko",
+        "cost": " 1,800",
+        "ability": " ink resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/ea/S3_Gear_Clothing_Zekko_Long_Radish_Tee.png/120px-S3_Gear_Clothing_Zekko_Long_Radish_Tee.png",
+        "name": "zekko long radish tee",
+        "brand": " zekko",
+        "cost": " 1,450",
+        "ability": " haunt",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/1/16/S3_Gear_Clothing_Zekko_Redleaf_Coat.png/120px-S3_Gear_Clothing_Zekko_Redleaf_Coat.png",
+        "name": "zekko redleaf coat",
+        "brand": " zekko",
+        "cost": " 2,600",
+        "ability": " haunt",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/9/9d/S3_Gear_Clothing_Zink_Layered_LS.png/120px-S3_Gear_Clothing_Zink_Layered_LS.png",
+        "name": "zink layered ls",
+        "brand": " zink",
+        "cost": " 600",
+        "ability": " respawn punisher",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/b/b6/S3_Gear_Clothing_Zink_LS.png/120px-S3_Gear_Clothing_Zink_LS.png",
+        "name": "zink ls",
+        "brand": " zink",
+        "cost": " 500",
+        "ability": " special power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/e9/S3_Gear_Clothing_Zontal_Ztripe_Tee.png/120px-S3_Gear_Clothing_Zontal_Ztripe_Tee.png",
+        "name": "zontal ztripe tee",
+        "brand": " skalop",
+        "cost": " 400",
+        "ability": " haunt",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/31/S3_Gear_Clothing_%CF%89-3_Tee.png/120px-S3_Gear_Clothing_%CF%89-3_Tee.png",
+        "name": "ω-3 tee",
+        "brand": " firefin",
+        "cost": " 1,200",
+        "ability": " respawn punisher",
+        "rarity": "0"
+    }
+]

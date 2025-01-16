@@ -1,0 +1,1906 @@
+[
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/d8/S3_Gear_Shoes_AG_Gaiter_Waders.png/120px-S3_Gear_Shoes_AG_Gaiter_Waders.png",
+        "name": "ag gaiter waders",
+        "brand": " inkline",
+        "cost": " 4,000",
+        "ability": " quick respawn",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/9/98/S3_Gear_Shoes_Amber_Sea_Slug_Hi-Tops.png/120px-S3_Gear_Shoes_Amber_Sea_Slug_Hi-Tops.png",
+        "name": "amber sea slug hi-tops",
+        "brand": " tentatek",
+        "cost": " 11,000",
+        "ability": " drop roller",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/c6/S3_Gear_Shoes_Angry_Rain_Boots.png/120px-S3_Gear_Shoes_Angry_Rain_Boots.png",
+        "name": "angry rain boots",
+        "brand": " grizzco",
+        "cost": " 15",
+        "ability": " ink resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/b/bc/S3_Gear_Shoes_Annaki_Arachno_Boots.png/120px-S3_Gear_Shoes_Annaki_Arachno_Boots.png",
+        "name": "annaki arachno boots",
+        "brand": " annaki",
+        "cost": " 9,696",
+        "ability": " swim speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/51/S3_Gear_Shoes_Annaki_Habaneros.png/120px-S3_Gear_Shoes_Annaki_Habaneros.png",
+        "name": "annaki habaneros",
+        "brand": " annaki",
+        "cost": " 8,880",
+        "ability": " sub power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/56/S3_Gear_Shoes_Annaki_Strappy_Sandals.png/120px-S3_Gear_Shoes_Annaki_Strappy_Sandals.png",
+        "name": "annaki strappy sandals",
+        "brand": " annaki",
+        "cost": " 890",
+        "ability": " object shredder",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/cf/S3_Gear_Shoes_Annaki_Tigers.png/120px-S3_Gear_Shoes_Annaki_Tigers.png",
+        "name": "annaki tigers",
+        "brand": " annaki",
+        "cost": " 9,990",
+        "ability": " special power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/81/S3_Gear_Shoes_Arctic_Duck_Boots.png/120px-S3_Gear_Shoes_Arctic_Duck_Boots.png",
+        "name": "arctic duck boots",
+        "brand": " barazushi",
+        "cost": " 9,200",
+        "ability": " quick respawn",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/2c/S3_Gear_Shoes_Armor_Boot_Replicas.png/120px-S3_Gear_Shoes_Armor_Boot_Replicas.png",
+        "name": "armor boot replicas",
+        "brand": " cuttlegear",
+        "cost": "  marie",
+        "ability": " ink saver (main)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/1/1f/S3_Gear_Shoes_Arrow_Pull-Ons.png/120px-S3_Gear_Shoes_Arrow_Pull-Ons.png",
+        "name": "arrow pull-ons",
+        "brand": " toni kensa",
+        "cost": " 10,000",
+        "ability": " drop roller",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/61/S3_Gear_Shoes_Arrow_Toesies_Blu.png/120px-S3_Gear_Shoes_Arrow_Toesies_Blu.png",
+        "name": "arrow toesies blu",
+        "brand": " takoroka",
+        "cost": " 980",
+        "ability": " ink recovery up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/5a/S3_Gear_Shoes_Arrow_Toesies_Purp.png/120px-S3_Gear_Shoes_Arrow_Toesies_Purp.png",
+        "name": "arrow toesies purp",
+        "brand": " takoroka",
+        "cost": " 3,180",
+        "ability": " swim speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/67/S3_Gear_Shoes_Athletic_Arrows.png/120px-S3_Gear_Shoes_Athletic_Arrows.png",
+        "name": "athletic arrows",
+        "brand": " takoroka",
+        "cost": " 1,200",
+        "ability": " object shredder",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/1/1e/S3_Gear_Shoes_Baggy-Sock_Fringe_Loafs.png/120px-S3_Gear_Shoes_Baggy-Sock_Fringe_Loafs.png",
+        "name": "baggy-sock fringe loafs",
+        "brand": " amiibo",
+        "cost": "  inkling girl (splatoon 2)",
+        "ability": " sub resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/06/S3_Gear_Shoes_Banana_Basics.png/120px-S3_Gear_Shoes_Banana_Basics.png",
+        "name": "banana basics",
+        "brand": " krak-on",
+        "cost": " 400",
+        "ability": " sub resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/d9/S3_Gear_Shoes_Base_Fringed_Loafers.png/120px-S3_Gear_Shoes_Base_Fringed_Loafers.png",
+        "name": "base fringed loafers",
+        "brand": " amiibo",
+        "cost": "  inkling girl (splatoon 2)",
+        "ability": " sub resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/cb/S3_Gear_Shoes_Base_School_Shoes.png/120px-S3_Gear_Shoes_Base_School_Shoes.png",
+        "name": "base school shoes",
+        "brand": " amiibo",
+        "cost": "  inkling girl (splatoon)",
+        "ability": " ink saver (sub)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/6d/S3_Gear_Shoes_Big_Muds.png/120px-S3_Gear_Shoes_Big_Muds.png",
+        "name": "big muds",
+        "brand": " amiibo",
+        "cost": "  big man",
+        "ability": " stealth jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/0e/S3_Gear_Shoes_Big_Squidkid_III.png/120px-S3_Gear_Shoes_Big_Squidkid_III.png",
+        "name": "big squidkid iii",
+        "brand": " enperry",
+        "cost": " switch news channel",
+        "ability": " stealth jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/fd/S3_Gear_Shoes_Birch_Climbing_Shoes.png/120px-S3_Gear_Shoes_Birch_Climbing_Shoes.png",
+        "name": "birch climbing shoes",
+        "brand": " inkline",
+        "cost": " 1,200",
+        "ability": " special charge up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/89/S3_Gear_Shoes_Bit_%27n%27_Bridle_Loafers.png/120px-S3_Gear_Shoes_Bit_%27n%27_Bridle_Loafers.png",
+        "name": "bit n' bridle loafers",
+        "brand": " annaki",
+        "cost": " 5,500",
+        "ability": " run speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/7/71/S3_Gear_Shoes_Black_%26_Blue_Squidkid_V.png/120px-S3_Gear_Shoes_Black_%26_Blue_Squidkid_V.png",
+        "name": "black & blue squidkid v",
+        "brand": " enperry",
+        "cost": " 12,800",
+        "ability": " special saver",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/ee/S3_Gear_Shoes_Black_Dakroniks.png/120px-S3_Gear_Shoes_Black_Dakroniks.png",
+        "name": "black dakroniks",
+        "brand": " zink",
+        "cost": " 1,500",
+        "ability": " intensify action",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/aa/S3_Gear_Shoes_Black_Flip-Flops.png/120px-S3_Gear_Shoes_Black_Flip-Flops.png",
+        "name": "black flip-flops",
+        "brand": " zekko",
+        "cost": " 300",
+        "ability": " object shredder",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/59/S3_Gear_Shoes_Black_Norimaki_750s.png/120px-S3_Gear_Shoes_Black_Norimaki_750s.png",
+        "name": "black norimaki 750s",
+        "brand": " tentatek",
+        "cost": " 9,800",
+        "ability": " special charge up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/7/7b/S3_Gear_Shoes_Black_Seahorses.png/120px-S3_Gear_Shoes_Black_Seahorses.png",
+        "name": "black seahorses",
+        "brand": " zink",
+        "cost": " 2,000",
+        "ability": " swim speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/d7/S3_Gear_Shoes_Black_Trainers.png/120px-S3_Gear_Shoes_Black_Trainers.png",
+        "name": "black trainers",
+        "brand": " tentatek",
+        "cost": " 500",
+        "ability": " quick respawn",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/3a/S3_Gear_Shoes_BlobMob_Flip-Flops.png/120px-S3_Gear_Shoes_BlobMob_Flip-Flops.png",
+        "name": "blobmob flip-flops",
+        "brand": " emberz",
+        "cost": " 400",
+        "ability": " ink resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/1/18/S3_Gear_Shoes_Blu-Shift_Moto_Boots.png/120px-S3_Gear_Shoes_Blu-Shift_Moto_Boots.png",
+        "name": "blu-shift moto boots",
+        "brand": " rockenberg",
+        "cost": " 12,000",
+        "ability": " swim speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/54/S3_Gear_Shoes_Blue_%26_Black_Squidkid_III.png/120px-S3_Gear_Shoes_Blue_%26_Black_Squidkid_III.png",
+        "name": "blue & black squidkid iii",
+        "brand": " enperry",
+        "cost": " 1,200",
+        "ability": " stealth jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/3f/S3_Gear_Shoes_Blue_%26_Black_Squidkid_IV.png/120px-S3_Gear_Shoes_Blue_%26_Black_Squidkid_IV.png",
+        "name": "blue & black squidkid iv",
+        "brand": " enperry",
+        "cost": " 11,000",
+        "ability": " quick super jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/87/S3_Gear_Shoes_Blue_Iromaki_750s.png/120px-S3_Gear_Shoes_Blue_Iromaki_750s.png",
+        "name": "blue iromaki 750s",
+        "brand": " tentatek",
+        "cost": " 1,050",
+        "ability": " ink saver (main)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/05/S3_Gear_Shoes_Blue_Laceless_Dakroniks.png/120px-S3_Gear_Shoes_Blue_Laceless_Dakroniks.png",
+        "name": "blue laceless dakroniks",
+        "brand": " zink",
+        "cost": " 1,400",
+        "ability": " stealth jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/87/S3_Gear_Shoes_Blue_Lo-Tops.png/120px-S3_Gear_Shoes_Blue_Lo-Tops.png",
+        "name": "blue lo-tops",
+        "brand": " zekko",
+        "cost": " 800",
+        "ability": " sub resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/9/92/S3_Gear_Shoes_Blue_Moto_Boots.png/120px-S3_Gear_Shoes_Blue_Moto_Boots.png",
+        "name": "blue moto boots",
+        "brand": " rockenberg",
+        "cost": " 10,800",
+        "ability": " ink resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/e7/S3_Gear_Shoes_Blue_Power_Stripes.png/120px-S3_Gear_Shoes_Blue_Power_Stripes.png",
+        "name": "blue power stripes",
+        "brand": " takoroka",
+        "cost": " 4,880",
+        "ability": " quick respawn",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/28/S3_Gear_Shoes_Blue_Sea_Slugs.png/120px-S3_Gear_Shoes_Blue_Sea_Slugs.png",
+        "name": "blue sea slugs",
+        "brand": " tentatek",
+        "cost": " 800",
+        "ability": " special charge up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/b/bd/S3_Gear_Shoes_Blue_Shrimpsiders.png/120px-S3_Gear_Shoes_Blue_Shrimpsiders.png",
+        "name": "blue shrimpsiders",
+        "brand": " enperry",
+        "cost": " 4,120",
+        "ability": " ink resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/39/S3_Gear_Shoes_Blue_Slip-Ons.png/120px-S3_Gear_Shoes_Blue_Slip-Ons.png",
+        "name": "blue slip-ons",
+        "brand": " krak-on",
+        "cost": " 400",
+        "ability": " sub power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/9/99/S3_Gear_Shoes_Blueberry_Casuals.png/120px-S3_Gear_Shoes_Blueberry_Casuals.png",
+        "name": "blueberry casuals",
+        "brand": " krak-on",
+        "cost": " 700",
+        "ability": " ink saver (sub)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/7/7f/S3_Gear_Shoes_Brinestone_Boots.png/120px-S3_Gear_Shoes_Brinestone_Boots.png",
+        "name": "brinestone boots",
+        "brand": " grizzco",
+        "cost": " salmon run next wave",
+        "ability": "",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/ca/S3_Gear_Shoes_Bubble_Rain_Boots.png/120px-S3_Gear_Shoes_Bubble_Rain_Boots.png",
+        "name": "bubble rain boots",
+        "brand": " inkline",
+        "cost": " 450",
+        "ability": " drop roller",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/f6/S3_Gear_Shoes_Buckle-Down_Boots.png/120px-S3_Gear_Shoes_Buckle-Down_Boots.png",
+        "name": "buckle-down boots",
+        "brand": " rockenberg",
+        "cost": " 3,600",
+        "ability": " special power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/9/90/S3_Gear_Shoes_Burden_of_Floof.png/120px-S3_Gear_Shoes_Burden_of_Floof.png",
+        "name": "burden of floof",
+        "brand": " squidforce",
+        "cost": " wandercrust",
+        "ability": " ink saver (main)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/8b/S3_Gear_Shoes_Canary_Trainers.png/120px-S3_Gear_Shoes_Canary_Trainers.png",
+        "name": "canary trainers",
+        "brand": " tentatek",
+        "cost": " 900",
+        "ability": " quick super jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/25/S3_Gear_Shoes_Captain%27s_Flip-Flop_Replicas.png/120px-S3_Gear_Shoes_Captain%27s_Flip-Flop_Replicas.png",
+        "name": "captains flip-flop replicas",
+        "brand": " cuttlegear",
+        "cost": "  marie (alterna)",
+        "ability": " special power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/ec/S3_Gear_Shoes_Chained_DC_Toejamz.png/120px-S3_Gear_Shoes_Chained_DC_Toejamz.png",
+        "name": "chained dc toejamz",
+        "brand": " z+f",
+        "cost": " switch news channel",
+        "ability": " ink saver (main)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/82/S3_Gear_Shoes_Chaos_Kicks.png/120px-S3_Gear_Shoes_Chaos_Kicks.png",
+        "name": "chaos kicks",
+        "brand": " amiibo",
+        "cost": "  smallfry",
+        "ability": " intensify action",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/ae/S3_Gear_Shoes_Cherry_Kicks.png/120px-S3_Gear_Shoes_Cherry_Kicks.png",
+        "name": "cherry kicks",
+        "brand": " rockenberg",
+        "cost": " 2,400",
+        "ability": " stealth jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/db/S3_Gear_Shoes_Choco_Clogs.png/120px-S3_Gear_Shoes_Choco_Clogs.png",
+        "name": "choco clogs",
+        "brand": " krak-on",
+        "cost": " 1,800",
+        "ability": " quick respawn",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/2f/S3_Gear_Shoes_Chocolate_Dakroniks.png/120px-S3_Gear_Shoes_Chocolate_Dakroniks.png",
+        "name": "chocolate dakroniks",
+        "brand": " zink",
+        "cost": " 1,700",
+        "ability": " ink resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/20/S3_Gear_Shoes_Clownfish_Basics.png/120px-S3_Gear_Shoes_Clownfish_Basics.png",
+        "name": "clownfish basics",
+        "brand": " krak-on",
+        "cost": " 500",
+        "ability": " special charge up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/ac/S3_Gear_Shoes_Crab-Trap_Squidkid_III.png/120px-S3_Gear_Shoes_Crab-Trap_Squidkid_III.png",
+        "name": "crab-trap squidkid iii",
+        "brand": " enperry",
+        "cost": " 8,500",
+        "ability": " swim speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/89/S3_Gear_Shoes_Crazy_Arrows.png/120px-S3_Gear_Shoes_Crazy_Arrows.png",
+        "name": "crazy arrows",
+        "brand": " takoroka",
+        "cost": " 4,500",
+        "ability": " stealth jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/e8/S3_Gear_Shoes_Cream_Basics.png/120px-S3_Gear_Shoes_Cream_Basics.png",
+        "name": "cream basics",
+        "brand": " krak-on",
+        "cost": " 300",
+        "ability": " special saver",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/ae/S3_Gear_Shoes_Cream_Hi-Tops.png/120px-S3_Gear_Shoes_Cream_Hi-Tops.png",
+        "name": "cream hi-tops",
+        "brand": " krak-on",
+        "cost": " 500",
+        "ability": " stealth jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/38/S3_Gear_Shoes_Custom_Trail_Boots.png/120px-S3_Gear_Shoes_Custom_Trail_Boots.png",
+        "name": "custom trail boots",
+        "brand": " inkline",
+        "cost": " 3,000",
+        "ability": " special power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/84/S3_Gear_Shoes_Cuttlefish_Sandies.png/120px-S3_Gear_Shoes_Cuttlefish_Sandies.png",
+        "name": "cuttlefish sandies",
+        "brand": " rockenberg",
+        "cost": " 850",
+        "ability": " ink recovery up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/45/S3_Gear_Shoes_Cyan_Dadfoot_Sandals.png/120px-S3_Gear_Shoes_Cyan_Dadfoot_Sandals.png",
+        "name": "cyan dadfoot sandals",
+        "brand": " zink",
+        "cost": " 650",
+        "ability": " special saver",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/d9/S3_Gear_Shoes_Cyan_Dakroniks.png/120px-S3_Gear_Shoes_Cyan_Dakroniks.png",
+        "name": "cyan dakroniks",
+        "brand": " zink",
+        "cost": " 1,200",
+        "ability": " drop roller",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/25/S3_Gear_Shoes_Cyan_Trainers.png/120px-S3_Gear_Shoes_Cyan_Trainers.png",
+        "name": "cyan trainers",
+        "brand": " tentatek",
+        "cost": " 700",
+        "ability": " stealth jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/f4/S3_Gear_Shoes_Dappled_Hammertreads.png/120px-S3_Gear_Shoes_Dappled_Hammertreads.png",
+        "name": "dappled hammertreads",
+        "brand": " annaki",
+        "cost": " 9,500",
+        "ability": " drop roller",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/9/90/S3_Gear_Shoes_Dark-Roast_Boaties.png/120px-S3_Gear_Shoes_Dark-Roast_Boaties.png",
+        "name": "dark-roast boaties",
+        "brand": " rockenberg",
+        "cost": " 2,200",
+        "ability": " ink resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/c4/S3_Gear_Shoes_Deepsea_Leather_Boots.png/120px-S3_Gear_Shoes_Deepsea_Leather_Boots.png",
+        "name": "deepsea leather boots",
+        "brand": " rockenberg",
+        "cost": " 12,000",
+        "ability": " ink saver (sub)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/6d/S3_Gear_Shoes_Desert_Chukkas.png/120px-S3_Gear_Shoes_Desert_Chukkas.png",
+        "name": "desert chukkas",
+        "brand": " barazushi",
+        "cost": " 10,200",
+        "ability": " stealth jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/40/S3_Gear_Shoes_Dustcloud_Hi-Tops.png/120px-S3_Gear_Shoes_Dustcloud_Hi-Tops.png",
+        "name": "dustcloud hi-tops",
+        "brand": " z+f",
+        "cost": " 8,800",
+        "ability": " stealth jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/f1/S3_Gear_Shoes_E-JECT_30VV.png/120px-S3_Gear_Shoes_E-JECT_30VV.png",
+        "name": "e-ject 30vv",
+        "brand": " emberz",
+        "cost": " 2,600",
+        "ability": " special charge up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/eb/S3_Gear_Shoes_E-JECT_30XX.png/120px-S3_Gear_Shoes_E-JECT_30XX.png",
+        "name": "e-ject 30xx",
+        "brand": " emberz",
+        "cost": " 2,600",
+        "ability": " special power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/c8/S3_Gear_Shoes_Eel_Heel_Socks.png/120px-S3_Gear_Shoes_Eel_Heel_Socks.png",
+        "name": "eel heel socks",
+        "brand": " amiibo",
+        "cost": "  frye",
+        "ability": " special saver",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/5d/S3_Gear_Shoes_Enchanted_Boots.png/120px-S3_Gear_Shoes_Enchanted_Boots.png",
+        "name": "enchanted boots",
+        "brand": " amiibo",
+        "cost": "  octoling girl",
+        "ability": " run speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/08/S3_Gear_Shoes_Energy_Cycling_Shoes.png/120px-S3_Gear_Shoes_Energy_Cycling_Shoes.png",
+        "name": "energy cycling shoes",
+        "brand": " zink",
+        "cost": " 8,200",
+        "ability": " quick respawn",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/52/S3_Gear_Shoes_Faux_Sharkskin_Platfins.png/120px-S3_Gear_Shoes_Faux_Sharkskin_Platfins.png",
+        "name": "faux sharkskin platfins",
+        "brand": " amiibo",
+        "cost": "  shiver",
+        "ability": " ink resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/f2/S3_Gear_Shoes_Field_Duck_Boots.png/120px-S3_Gear_Shoes_Field_Duck_Boots.png",
+        "name": "field duck boots",
+        "brand": " barazushi",
+        "cost": " 9,200",
+        "ability": " special saver",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/fa/S3_Gear_Shoes_Fishbone_Sabots.png/120px-S3_Gear_Shoes_Fishbone_Sabots.png",
+        "name": "fishbone sabots",
+        "brand": " krak-on",
+        "cost": " 1,050",
+        "ability": " ink resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/ac/S3_Gear_Shoes_Flipper_Floppers.png/120px-S3_Gear_Shoes_Flipper_Floppers.png",
+        "name": "flipper floppers",
+        "brand": " grizzco",
+        "cost": " 300",
+        "ability": " swim speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/68/S3_Gear_Shoes_Force_ReBoots.png/120px-S3_Gear_Shoes_Force_ReBoots.png",
+        "name": "force reboots",
+        "brand": " takoroka",
+        "cost": " 899",
+        "ability": " special saver",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/40/S3_Gear_Shoes_Fresh_Fish_Feet.png/120px-S3_Gear_Shoes_Fresh_Fish_Feet.png",
+        "name": "fresh fish feet",
+        "brand": " amiibo",
+        "cost": "  octoling octopus",
+        "ability": " quick respawn",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/db/S3_Gear_Shoes_Fried_Squidkid_III.png/120px-S3_Gear_Shoes_Fried_Squidkid_III.png",
+        "name": "fried squidkid iii",
+        "brand": " enperry",
+        "cost": " switch news channel",
+        "ability": " object shredder",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/69/S3_Gear_Shoes_Friendship_Bracelet.png/120px-S3_Gear_Shoes_Friendship_Bracelet.png",
+        "name": "friendship bracelet",
+        "brand": " grizzco",
+        "cost": " 5",
+        "ability": " special charge up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/3f/S3_Gear_Shoes_Fry_Tops.png/120px-S3_Gear_Shoes_Fry_Tops.png",
+        "name": "fry tops",
+        "brand": " squidforce",
+        "cost": " wandercrust",
+        "ability": " intensify action",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/7/76/S3_Gear_Shoes_Fuzzy_Boots.png/120px-S3_Gear_Shoes_Fuzzy_Boots.png",
+        "name": "fuzzy boots",
+        "brand": " barazushi",
+        "cost": " 3,600",
+        "ability": " ink saver (main)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/0e/S3_Gear_Shoes_Gold_Hi-Horses.png/120px-S3_Gear_Shoes_Gold_Hi-Horses.png",
+        "name": "gold hi-horses",
+        "brand": " zink",
+        "cost": " 7,000",
+        "ability": " run speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/de/S3_Gear_Shoes_Gray_Sea-Slug_Hi-Tops.png/120px-S3_Gear_Shoes_Gray_Sea-Slug_Hi-Tops.png",
+        "name": "gray sea-slug hi-tops",
+        "brand": " tentatek",
+        "cost": " 8,500",
+        "ability": " sub resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/ad/S3_Gear_Shoes_Gray_Yellow-Soled_Wingtips.png/120px-S3_Gear_Shoes_Gray_Yellow-Soled_Wingtips.png",
+        "name": "gray yellow-soled wingtips",
+        "brand": " rockenberg",
+        "cost": " 4,600",
+        "ability": " quick super jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/e7/S3_Gear_Shoes_Green_Iromaki_750s.png/120px-S3_Gear_Shoes_Green_Iromaki_750s.png",
+        "name": "green iromaki 750s",
+        "brand": " tentatek",
+        "cost": " 1,050",
+        "ability": " special power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/0c/S3_Gear_Shoes_Green_Lace-Ups.png/120px-S3_Gear_Shoes_Green_Lace-Ups.png",
+        "name": "green lace-ups",
+        "brand": " splash mob",
+        "cost": " 1,300",
+        "ability": " intensify action",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/e8/S3_Gear_Shoes_Green_Rain_Boots.png/120px-S3_Gear_Shoes_Green_Rain_Boots.png",
+        "name": "green rain boots",
+        "brand": " inkline",
+        "cost": " 1,600",
+        "ability": " stealth jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/b/b4/S3_Gear_Shoes_Green_Toejamz.png/120px-S3_Gear_Shoes_Green_Toejamz.png",
+        "name": "green toejamz",
+        "brand": " z+f",
+        "cost": " 1,050",
+        "ability": " special power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/a8/S3_Gear_Shoes_Hero_Boot_Replicas.png/120px-S3_Gear_Shoes_Hero_Boot_Replicas.png",
+        "name": "hero boot replicas",
+        "brand": " cuttlegear",
+        "cost": " return of the mammalians",
+        "ability": " ink resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/7/7b/S3_Gear_Shoes_Hero_Runner_Replicas.png/120px-S3_Gear_Shoes_Hero_Runner_Replicas.png",
+        "name": "hero runner replicas",
+        "brand": " cuttlegear",
+        "cost": "  callie",
+        "ability": " quick super jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/e7/S3_Gear_Shoes_Honey_%26_Orange_Squidkid_V.png/120px-S3_Gear_Shoes_Honey_%26_Orange_Squidkid_V.png",
+        "name": "honey & orange squidkid v",
+        "brand": " enperry",
+        "cost": " 5,800",
+        "ability": " ink saver (sub)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/4f/S3_Gear_Shoes_Hunter_Hi-Tops.png/120px-S3_Gear_Shoes_Hunter_Hi-Tops.png",
+        "name": "hunter hi-tops",
+        "brand": " krak-on",
+        "cost": " 500",
+        "ability": " ink recovery up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/c5/S3_Gear_Shoes_Hunting_Boots.png/120px-S3_Gear_Shoes_Hunting_Boots.png",
+        "name": "hunting boots",
+        "brand": " splash mob",
+        "cost": " 11,500",
+        "ability": " sub resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/2c/S3_Gear_Shoes_Hyper_Guppies.png/120px-S3_Gear_Shoes_Hyper_Guppies.png",
+        "name": "hyper guppies",
+        "brand": " tentatek",
+        "cost": " 1,300",
+        "ability": " run speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/7/73/S3_Gear_Shoes_Icy_Down_Boots.png/120px-S3_Gear_Shoes_Icy_Down_Boots.png",
+        "name": "icy down boots",
+        "brand": " tentatek",
+        "cost": " 8,200",
+        "ability": " stealth jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/f7/S3_Gear_Shoes_Ink-Black_Clam_600s.png/120px-S3_Gear_Shoes_Ink-Black_Clam_600s.png",
+        "name": "ink-black clam 600s",
+        "brand": " toni kensa",
+        "cost": " 11,500",
+        "ability": " quick super jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/64/S3_Gear_Shoes_Inky_Kid_Clams.png/120px-S3_Gear_Shoes_Inky_Kid_Clams.png",
+        "name": "inky kid clams",
+        "brand": " rockenberg",
+        "cost": " 10,500",
+        "ability": " ink recovery up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/e8/S3_Gear_Shoes_Jeweled_DC_Toejamz.png/120px-S3_Gear_Shoes_Jeweled_DC_Toejamz.png",
+        "name": "jeweled dc toejamz",
+        "brand": " z+f",
+        "cost": " switch news channel",
+        "ability": " ink recovery up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/7/72/S3_Gear_Shoes_Kick_Dampeners.png/120px-S3_Gear_Shoes_Kick_Dampeners.png",
+        "name": "kick dampeners",
+        "brand": " amiibo",
+        "cost": "  octoling (splatoon 3)",
+        "ability": " quick super jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/e7/S3_Gear_Shoes_Kid_Clams.png/120px-S3_Gear_Shoes_Kid_Clams.png",
+        "name": "kid clams",
+        "brand": " rockenberg",
+        "cost": " 9,500",
+        "ability": " special power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/9/93/S3_Gear_Shoes_Knockout_Boots.png/120px-S3_Gear_Shoes_Knockout_Boots.png",
+        "name": "knockout boots",
+        "brand": " grizzco",
+        "cost": " salmon run next wave",
+        "ability": "",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/6e/S3_Gear_Shoes_Knotty_Bois.png/120px-S3_Gear_Shoes_Knotty_Bois.png",
+        "name": "knotty bois",
+        "brand": " amiibo",
+        "cost": "  inkling (splatoon 3)",
+        "ability": " drop roller",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/9/99/S3_Gear_Shoes_LE_Lo-Tops.png/120px-S3_Gear_Shoes_LE_Lo-Tops.png",
+        "name": "le lo-tops",
+        "brand": " zekko",
+        "cost": " 8,000",
+        "ability": " ink saver (sub)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/a4/S3_Gear_Shoes_LE_Soccer_Shoes.png/120px-S3_Gear_Shoes_LE_Soccer_Shoes.png",
+        "name": "le soccer shoes",
+        "brand": " takoroka",
+        "cost": " 7,500",
+        "ability": " ink resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/09/S3_Gear_Shoes_LT-CL0WN.png/120px-S3_Gear_Shoes_LT-CL0WN.png",
+        "name": "lt-cl0wn",
+        "brand": " zink",
+        "cost": " 1,300",
+        "ability": " ink saver (sub)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/b/b8/S3_Gear_Shoes_Luminous_Delta_Straps.png/120px-S3_Gear_Shoes_Luminous_Delta_Straps.png",
+        "name": "luminous delta straps",
+        "brand": " inkline",
+        "cost": " 5,000",
+        "ability": " intensify action",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/1/12/S3_Gear_Shoes_Mako_Bucket_Hi-Tops.png/120px-S3_Gear_Shoes_Mako_Bucket_Hi-Tops.png",
+        "name": "mako bucket hi-tops",
+        "brand": " emberz",
+        "cost": " 2,800",
+        "ability": " sub power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/7/7f/S3_Gear_Shoes_Marinated_Slip-Ons.png/120px-S3_Gear_Shoes_Marinated_Slip-Ons.png",
+        "name": "marinated slip-ons",
+        "brand": " amiibo",
+        "cost": "  marina",
+        "ability": " ink recovery up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/a2/S3_Gear_Shoes_Mawcasins.png/120px-S3_Gear_Shoes_Mawcasins.png",
+        "name": "mawcasins",
+        "brand": " splash mob",
+        "cost": " 2,400",
+        "ability": " ink recovery up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/a2/S3_Gear_Shoes_Moto_Boots.png/120px-S3_Gear_Shoes_Moto_Boots.png",
+        "name": "moto boots",
+        "brand": " rockenberg",
+        "cost": " 3,800",
+        "ability": " quick respawn",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/d7/S3_Gear_Shoes_Musselforge_Flip-Flops.png/120px-S3_Gear_Shoes_Musselforge_Flip-Flops.png",
+        "name": "musselforge flip-flops",
+        "brand": " inkline",
+        "cost": " 280",
+        "ability": " ink saver (sub)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/9/97/S3_Gear_Shoes_N-Pacer_Ag.png/120px-S3_Gear_Shoes_N-Pacer_Ag.png",
+        "name": "n-pacer ag",
+        "brand": " enperry",
+        "cost": " 4,900",
+        "ability": " ink recovery up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/4b/S3_Gear_Shoes_N-Pacer_Au.png/120px-S3_Gear_Shoes_N-Pacer_Au.png",
+        "name": "n-pacer au",
+        "brand": " enperry",
+        "cost": " 8,900",
+        "ability": " quick respawn",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/c8/S3_Gear_Shoes_N-Pacer_CaO.png/120px-S3_Gear_Shoes_N-Pacer_CaO.png",
+        "name": "n-pacer cao",
+        "brand": " enperry",
+        "cost": " 3,900",
+        "ability": " object shredder",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/0a/S3_Gear_Shoes_Navy_Enperrials.png/120px-S3_Gear_Shoes_Navy_Enperrials.png",
+        "name": "navy enperrials",
+        "brand": " enperry",
+        "cost": " 11,000",
+        "ability": " ink saver (main)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/9/9c/S3_Gear_Shoes_Navy_Red-Soled_Wingtips.png/120px-S3_Gear_Shoes_Navy_Red-Soled_Wingtips.png",
+        "name": "navy red-soled wingtips",
+        "brand": " rockenberg",
+        "cost": " 4,600",
+        "ability": " ink saver (main)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/1/1e/S3_Gear_Shoes_Navy_Toejamz.png/120px-S3_Gear_Shoes_Navy_Toejamz.png",
+        "name": "navy toejamz",
+        "brand": " z+f",
+        "cost": " 720",
+        "ability": " sub power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/3e/S3_Gear_Shoes_Neon_Delta_Straps.png/120px-S3_Gear_Shoes_Neon_Delta_Straps.png",
+        "name": "neon delta straps",
+        "brand": " inkline",
+        "cost": " 4,800",
+        "ability": " sub power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/82/S3_Gear_Shoes_Neon_Sea_Slugs.png/120px-S3_Gear_Shoes_Neon_Sea_Slugs.png",
+        "name": "neon sea slugs",
+        "brand": " tentatek",
+        "cost": " 700",
+        "ability": " ink resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/f7/S3_Gear_Shoes_New-Leaf_Leather_Boots.png/120px-S3_Gear_Shoes_New-Leaf_Leather_Boots.png",
+        "name": "new-leaf leather boots",
+        "brand": " rockenberg",
+        "cost": " 5,000",
+        "ability": " drop roller",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/49/S3_Gear_Shoes_Noir_Guppies.png/120px-S3_Gear_Shoes_Noir_Guppies.png",
+        "name": "noir guppies",
+        "brand": " tentatek",
+        "cost": " 1,300",
+        "ability": " sub resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/8e/S3_Gear_Shoes_Nonslip_Senseis.png/120px-S3_Gear_Shoes_Nonslip_Senseis.png",
+        "name": "nonslip senseis",
+        "brand": " grizzco",
+        "cost": " 15",
+        "ability": " stealth jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/b/b5/S3_Gear_Shoes_OB_Gaiter_Waders.png/120px-S3_Gear_Shoes_OB_Gaiter_Waders.png",
+        "name": "ob gaiter waders",
+        "brand": " inkline",
+        "cost": " 4,100",
+        "ability": " object shredder",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/9/9d/S3_Gear_Shoes_Octoleet_Boots.png/120px-S3_Gear_Shoes_Octoleet_Boots.png",
+        "name": "octoleet boots",
+        "brand": " grizzco",
+        "cost": " 800",
+        "ability": " object shredder",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/3a/S3_Gear_Shoes_Onyx_01STERs.png/120px-S3_Gear_Shoes_Onyx_01STERs.png",
+        "name": "onyx 01sters",
+        "brand": " toni kensa",
+        "cost": " 8,880",
+        "ability": " special charge up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/5a/S3_Gear_Shoes_Orange_Arrows.png/120px-S3_Gear_Shoes_Orange_Arrows.png",
+        "name": "orange arrows",
+        "brand": " takoroka",
+        "cost": " 1,100",
+        "ability": " ink saver (main)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/1/1c/S3_Gear_Shoes_Orange_Dadfoot_Sandals.png/120px-S3_Gear_Shoes_Orange_Dadfoot_Sandals.png",
+        "name": "orange dadfoot sandals",
+        "brand": " zink",
+        "cost": " 650",
+        "ability": " run speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/c8/S3_Gear_Shoes_Orange_Iromaki_750s.png/120px-S3_Gear_Shoes_Orange_Iromaki_750s.png",
+        "name": "orange iromaki 750s",
+        "brand": " tentatek",
+        "cost": " 1,050",
+        "ability": " drop roller",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/69/S3_Gear_Shoes_Orange_Lo-Tops.png/120px-S3_Gear_Shoes_Orange_Lo-Tops.png",
+        "name": "orange lo-tops",
+        "brand": " zekko",
+        "cost": " 800",
+        "ability": " swim speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/8f/S3_Gear_Shoes_Orange-Mesh_Sneakers.png/120px-S3_Gear_Shoes_Orange-Mesh_Sneakers.png",
+        "name": "orange-mesh sneakers",
+        "brand": " tentatek",
+        "cost": " 1,700",
+        "ability": " special power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/3e/S3_Gear_Shoes_Orca_Hi-Tops.png/120px-S3_Gear_Shoes_Orca_Hi-Tops.png",
+        "name": "orca hi-tops",
+        "brand": " takoroka",
+        "cost": " 2,800",
+        "ability": " special saver",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/fc/S3_Gear_Shoes_Orca_Passion_Hi-Tops.png/120px-S3_Gear_Shoes_Orca_Passion_Hi-Tops.png",
+        "name": "orca passion hi-tops",
+        "brand": " takoroka",
+        "cost": " 2,780",
+        "ability": " quick super jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/5d/S3_Gear_Shoes_Orca_Woven_Hi-Tops.png/120px-S3_Gear_Shoes_Orca_Woven_Hi-Tops.png",
+        "name": "orca woven hi-tops",
+        "brand": " takoroka",
+        "cost": " 3,600",
+        "ability": " ink saver (sub)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/4f/S3_Gear_Shoes_Order_Boot_Replicas.png/120px-S3_Gear_Shoes_Order_Boot_Replicas.png",
+        "name": "order boot replicas",
+        "brand": " cuttlegear",
+        "cost": " side order",
+        "ability": " run speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/ad/S3_Gear_Shoes_Oyster_Clogs.png/120px-S3_Gear_Shoes_Oyster_Clogs.png",
+        "name": "oyster clogs",
+        "brand": " krak-on",
+        "cost": " 600",
+        "ability": " run speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/da/S3_Gear_Shoes_Pearl_01STERs.png/120px-S3_Gear_Shoes_Pearl_01STERs.png",
+        "name": "pearl 01sters",
+        "brand": " toni kensa",
+        "cost": " 8,800",
+        "ability": " special saver",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/64/S3_Gear_Shoes_Pearlescent_Kicks.png/120px-S3_Gear_Shoes_Pearlescent_Kicks.png",
+        "name": "pearlescent kicks",
+        "brand": " amiibo",
+        "cost": "  pearl",
+        "ability": " special charge up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/0d/S3_Gear_Shoes_Pink_Dadfoot_Sandals.png/120px-S3_Gear_Shoes_Pink_Dadfoot_Sandals.png",
+        "name": "pink dadfoot sandals",
+        "brand": " zink",
+        "cost": " 650",
+        "ability": " intensify action",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/8c/S3_Gear_Shoes_Pink_Trainers.png/120px-S3_Gear_Shoes_Pink_Trainers.png",
+        "name": "pink trainers",
+        "brand": " tentatek",
+        "cost": " 500",
+        "ability": " sub power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/a8/S3_Gear_Shoes_Piranha_Moccasins.png/120px-S3_Gear_Shoes_Piranha_Moccasins.png",
+        "name": "piranha moccasins",
+        "brand": " splash mob",
+        "cost": " 9,400",
+        "ability": " stealth jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/d5/S3_Gear_Shoes_Plum_Casuals.png/120px-S3_Gear_Shoes_Plum_Casuals.png",
+        "name": "plum casuals",
+        "brand": " krak-on",
+        "cost": " 2,000",
+        "ability": " object shredder",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/28/S3_Gear_Shoes_Polka-Dot_Slip-Ons.png/120px-S3_Gear_Shoes_Polka-Dot_Slip-Ons.png",
+        "name": "polka-dot slip-ons",
+        "brand": " krak-on",
+        "cost": " 1,500",
+        "ability": " drop roller",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/1/14/S3_Gear_Shoes_Power_Boots.png/120px-S3_Gear_Shoes_Power_Boots.png",
+        "name": "power boots",
+        "brand": " amiibo",
+        "cost": "  inkling squid (splatoon)",
+        "ability": " ink saver (main)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/07/S3_Gear_Shoes_Power_Boots_Mk_I.png/120px-S3_Gear_Shoes_Power_Boots_Mk_I.png",
+        "name": "power boots mk i",
+        "brand": " amiibo",
+        "cost": "  inkling squid (splatoon 2)",
+        "ability": " sub resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/ad/S3_Gear_Shoes_Pro_Trail_Boots.png/120px-S3_Gear_Shoes_Pro_Trail_Boots.png",
+        "name": "pro trail boots",
+        "brand": " inkline",
+        "cost": " 9,800",
+        "ability": " ink resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/61/S3_Gear_Shoes_Punk_Cherries.png/120px-S3_Gear_Shoes_Punk_Cherries.png",
+        "name": "punk cherries",
+        "brand": " rockenberg",
+        "cost": " 9,000",
+        "ability": " sub resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/9/9e/S3_Gear_Shoes_Punk_Nights.png/120px-S3_Gear_Shoes_Punk_Nights.png",
+        "name": "punk nights",
+        "brand": " rockenberg",
+        "cost": " 8,800",
+        "ability": " intensify action",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/c7/S3_Gear_Shoes_Punk_Pinks.png/120px-S3_Gear_Shoes_Punk_Pinks.png",
+        "name": "punk pinks",
+        "brand": " rockenberg",
+        "cost": " 3,600",
+        "ability": " ink recovery up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/9/90/S3_Gear_Shoes_Punk_Whites.png/120px-S3_Gear_Shoes_Punk_Whites.png",
+        "name": "punk whites",
+        "brand": " rockenberg",
+        "cost": " 3,800",
+        "ability": " special charge up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/e3/S3_Gear_Shoes_Punk_Yellows.png/120px-S3_Gear_Shoes_Punk_Yellows.png",
+        "name": "punk yellows",
+        "brand": " rockenberg",
+        "cost": " 3,000",
+        "ability": " special saver",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/1/1b/S3_Gear_Shoes_Purple_Hi-Horses.png/120px-S3_Gear_Shoes_Purple_Hi-Horses.png",
+        "name": "purple hi-horses",
+        "brand": " zink",
+        "cost": " 1,000",
+        "ability": " special power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/e1/S3_Gear_Shoes_Purple_Iromaki_750s.png/120px-S3_Gear_Shoes_Purple_Iromaki_750s.png",
+        "name": "purple iromaki 750s",
+        "brand": " tentatek",
+        "cost": " 1,050",
+        "ability": " swim speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/36/S3_Gear_Shoes_Purple_Sea_Slugs.png/120px-S3_Gear_Shoes_Purple_Sea_Slugs.png",
+        "name": "purple sea slugs",
+        "brand": " tentatek",
+        "cost": " 1,800",
+        "ability": " run speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/63/S3_Gear_Shoes_Red_%26_Black_Squidkid_IV.png/120px-S3_Gear_Shoes_Red_%26_Black_Squidkid_IV.png",
+        "name": "red & black squidkid iv",
+        "brand": " enperry",
+        "cost": " 11,000",
+        "ability": " special charge up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/ec/S3_Gear_Shoes_Red_%26_White_Squidkid_III.png/120px-S3_Gear_Shoes_Red_%26_White_Squidkid_III.png",
+        "name": "red & white squidkid iii",
+        "brand": " enperry",
+        "cost": " 1,200",
+        "ability": " swim speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/67/S3_Gear_Shoes_Red_%26_White_Squidkid_V.png/120px-S3_Gear_Shoes_Red_%26_White_Squidkid_V.png",
+        "name": "red & white squidkid v",
+        "brand": " enperry",
+        "cost": " 12,800",
+        "ability": " run speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/8d/S3_Gear_Shoes_Red_3-Straps.png/120px-S3_Gear_Shoes_Red_3-Straps.png",
+        "name": "red 3-straps",
+        "brand": " splash mob",
+        "cost": " 1,400",
+        "ability": " ink resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/fc/S3_Gear_Shoes_Red_FishFry_Sandals.png/120px-S3_Gear_Shoes_Red_FishFry_Sandals.png",
+        "name": "red fishfry sandals",
+        "brand": " firefin",
+        "cost": " 2,880",
+        "ability": " object shredder",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/39/S3_Gear_Shoes_Red_Hammertreads.png/120px-S3_Gear_Shoes_Red_Hammertreads.png",
+        "name": "red hammertreads",
+        "brand": " annaki",
+        "cost": " 10,999",
+        "ability": " ink saver (main)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/b/b8/S3_Gear_Shoes_Red_Hi-Horses.png/120px-S3_Gear_Shoes_Red_Hi-Horses.png",
+        "name": "red hi-horses",
+        "brand": " zink",
+        "cost": " 800",
+        "ability": " ink saver (main)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/f4/S3_Gear_Shoes_Red_Hi-Tops.png/120px-S3_Gear_Shoes_Red_Hi-Tops.png",
+        "name": "red hi-tops",
+        "brand": " krak-on",
+        "cost": " 1,800",
+        "ability": " ink resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/e2/S3_Gear_Shoes_Red_Iromaki_750s.png/120px-S3_Gear_Shoes_Red_Iromaki_750s.png",
+        "name": "red iromaki 750s",
+        "brand": " tentatek",
+        "cost": " 1,050",
+        "ability": " ink saver (sub)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/1/1d/S3_Gear_Shoes_Red_Power_Stripes.png/120px-S3_Gear_Shoes_Red_Power_Stripes.png",
+        "name": "red power stripes",
+        "brand": " takoroka",
+        "cost": " 5,880",
+        "ability": " run speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/d3/S3_Gear_Shoes_Red_Sea_Slugs.png/120px-S3_Gear_Shoes_Red_Sea_Slugs.png",
+        "name": "red sea slugs",
+        "brand": " tentatek",
+        "cost": " 8,000",
+        "ability": " special saver",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/1/1f/S3_Gear_Shoes_Red_Slip-Ons.png/120px-S3_Gear_Shoes_Red_Slip-Ons.png",
+        "name": "red slip-ons",
+        "brand": " krak-on",
+        "cost": " 300",
+        "ability": " quick super jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/2a/S3_Gear_Shoes_Red_Toejamz.png/120px-S3_Gear_Shoes_Red_Toejamz.png",
+        "name": "red toejamz",
+        "brand": " z+f",
+        "cost": " 940",
+        "ability": " ink saver (sub)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/1/19/S3_Gear_Shoes_Red_Work_Boots.png/120px-S3_Gear_Shoes_Red_Work_Boots.png",
+        "name": "red work boots",
+        "brand": " rockenberg",
+        "cost": " 11,000",
+        "ability": " quick super jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/58/S3_Gear_Shoes_Red-Shift_Moto_Boots.png/120px-S3_Gear_Shoes_Red-Shift_Moto_Boots.png",
+        "name": "red-shift moto boots",
+        "brand": " rockenberg",
+        "cost": " 12,000",
+        "ability": " special saver",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/8e/S3_Gear_Shoes_Roasted_Brogues.png/120px-S3_Gear_Shoes_Roasted_Brogues.png",
+        "name": "roasted brogues",
+        "brand": " rockenberg",
+        "cost": " 1,200",
+        "ability": " sub resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/da/S3_Gear_Shoes_Samurai_Shoes.png/120px-S3_Gear_Shoes_Samurai_Shoes.png",
+        "name": "samurai shoes",
+        "brand": " amiibo",
+        "cost": "  inkling boy (splatoon)",
+        "ability": " special power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/9/9a/S3_Gear_Shoes_School_Shoes_%2B_Hi_Socks.png/120px-S3_Gear_Shoes_School_Shoes_%2B_Hi_Socks.png",
+        "name": "school shoes + hi socks",
+        "brand": " amiibo",
+        "cost": "  inkling girl (splatoon)",
+        "ability": " ink saver (sub)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/7/7e/S3_Gear_Shoes_Sea_Slug_Volt_95s.png/120px-S3_Gear_Shoes_Sea_Slug_Volt_95s.png",
+        "name": "sea slug volt 95s",
+        "brand": " tentatek",
+        "cost": " 3,260",
+        "ability": " ink saver (sub)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/b/bb/S3_Gear_Shoes_Seafoam_Hi-Tops.png/120px-S3_Gear_Shoes_Seafoam_Hi-Tops.png",
+        "name": "seafoam hi-tops",
+        "brand": " z+f",
+        "cost": " 9,500",
+        "ability": " quick super jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/9/9c/S3_Gear_Shoes_Sesame_Salt_270s.png/120px-S3_Gear_Shoes_Sesame_Salt_270s.png",
+        "name": "sesame salt 270s",
+        "brand": " tentatek",
+        "cost": " 3,260",
+        "ability": " quick super jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/46/S3_Gear_Shoes_Shark_Moccasins.png/120px-S3_Gear_Shoes_Shark_Moccasins.png",
+        "name": "shark moccasins",
+        "brand": " splash mob",
+        "cost": " 800",
+        "ability": " sub power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/00/S3_Gear_Shoes_Shivery_Squidkid_III.png/120px-S3_Gear_Shoes_Shivery_Squidkid_III.png",
+        "name": "shivery squidkid iii",
+        "brand": " enperry",
+        "cost": " switch news channel",
+        "ability": " sub power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/61/S3_Gear_Shoes_Skipjack_Work_Boots.png/120px-S3_Gear_Shoes_Skipjack_Work_Boots.png",
+        "name": "skipjack work boots",
+        "brand": " rockenberg",
+        "cost": " 4,800",
+        "ability": " ink saver (sub)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/ae/S3_Gear_Shoes_Skirmish_Sabots.png/120px-S3_Gear_Shoes_Skirmish_Sabots.png",
+        "name": "skirmish sabots",
+        "brand": " krak-on",
+        "cost": " 1,050",
+        "ability": " ink saver (main)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/28/S3_Gear_Shoes_Slamgerine_Slip-Ons.png/120px-S3_Gear_Shoes_Slamgerine_Slip-Ons.png",
+        "name": "slamgerine slip-ons",
+        "brand": " takoroka",
+        "cost": " 7,980",
+        "ability": " ink saver (main)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/01/S3_Gear_Shoes_Smoky_Wingtips.png/120px-S3_Gear_Shoes_Smoky_Wingtips.png",
+        "name": "smoky wingtips",
+        "brand": " rockenberg",
+        "cost": " 8,600",
+        "ability": " object shredder",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/4b/S3_Gear_Shoes_Snow_Delta_Straps.png/120px-S3_Gear_Shoes_Snow_Delta_Straps.png",
+        "name": "snow delta straps",
+        "brand": " inkline",
+        "cost": " 8,800",
+        "ability": " swim speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/b/b6/S3_Gear_Shoes_Snowy_Down_Boots.png/120px-S3_Gear_Shoes_Snowy_Down_Boots.png",
+        "name": "snowy down boots",
+        "brand": " tentatek",
+        "cost": " 8,000",
+        "ability": " quick super jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/de/S3_Gear_Shoes_Soccer_Shoes.png/120px-S3_Gear_Shoes_Soccer_Shoes.png",
+        "name": "soccer shoes",
+        "brand": " takoroka",
+        "cost": " 9,600",
+        "ability": " sub resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/f7/S3_Gear_Shoes_Spiked_Duck_Boots.png/120px-S3_Gear_Shoes_Spiked_Duck_Boots.png",
+        "name": "spiked duck boots",
+        "brand": " barazushi",
+        "cost": " 9,200",
+        "ability": " ink recovery up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/6b/S3_Gear_Shoes_Squid_Bone_Unslips.png/120px-S3_Gear_Shoes_Squid_Bone_Unslips.png",
+        "name": "squid bone unslips",
+        "brand": " emberz",
+        "cost": " 280",
+        "ability": " ink saver (sub)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/88/S3_Gear_Shoes_Squid-Stitch_Slip-Ons.png/120px-S3_Gear_Shoes_Squid-Stitch_Slip-Ons.png",
+        "name": "squid-stitch slip-ons",
+        "brand": " krak-on",
+        "cost": " 1,500",
+        "ability": " sub resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/8e/S3_Gear_Shoes_Squinja_Boots.png/120px-S3_Gear_Shoes_Squinja_Boots.png",
+        "name": "squinja boots",
+        "brand": " amiibo",
+        "cost": "  inkling boy (splatoon 2)",
+        "ability": " swim speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/0e/S3_Gear_Shoes_Squink_Wingtips.png/120px-S3_Gear_Shoes_Squink_Wingtips.png",
+        "name": "squink wingtips",
+        "brand": " rockenberg",
+        "cost": " 800",
+        "ability": " quick respawn",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/e1/S3_Gear_Shoes_Stamina_Cycling_Shoes.png/120px-S3_Gear_Shoes_Stamina_Cycling_Shoes.png",
+        "name": "stamina cycling shoes",
+        "brand": " zink",
+        "cost": " 8,200",
+        "ability": " sub power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/5a/S3_Gear_Shoes_Steel_Greaves.png/120px-S3_Gear_Shoes_Steel_Greaves.png",
+        "name": "steel greaves",
+        "brand": " amiibo",
+        "cost": "  octoling boy",
+        "ability": " object shredder",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/7/76/S3_Gear_Shoes_Suede_Basics.png/120px-S3_Gear_Shoes_Suede_Basics.png",
+        "name": "suede basics",
+        "brand": " barazushi",
+        "cost": " 8,200",
+        "ability": " run speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/f3/S3_Gear_Shoes_Suede_Bosses.png/120px-S3_Gear_Shoes_Suede_Bosses.png",
+        "name": "suede bosses",
+        "brand": " barazushi",
+        "cost": " 8,200",
+        "ability": " object shredder",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/80/S3_Gear_Shoes_Suede_Gray_Lace-Ups.png/120px-S3_Gear_Shoes_Suede_Gray_Lace-Ups.png",
+        "name": "suede gray lace-ups",
+        "brand": " zekko",
+        "cost": " 1,200",
+        "ability": " ink recovery up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/aa/S3_Gear_Shoes_Suede_Marine_Lace-Ups.png/120px-S3_Gear_Shoes_Suede_Marine_Lace-Ups.png",
+        "name": "suede marine lace-ups",
+        "brand": " zekko",
+        "cost": " 1,200",
+        "ability": " ink resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/0a/S3_Gear_Shoes_Suede_Nation_Lace-Ups.png/120px-S3_Gear_Shoes_Suede_Nation_Lace-Ups.png",
+        "name": "suede nation lace-ups",
+        "brand": " zekko",
+        "cost": " 4,200",
+        "ability": " ink saver (main)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/28/S3_Gear_Shoes_Sun_%26_Shade_Squidkid_IV.png/120px-S3_Gear_Shoes_Sun_%26_Shade_Squidkid_IV.png",
+        "name": "sun & shade squidkid iv",
+        "brand": " enperry",
+        "cost": " 13,000",
+        "ability": " intensify action",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/a0/S3_Gear_Shoes_Sunny_Climbing_Shoes.png/120px-S3_Gear_Shoes_Sunny_Climbing_Shoes.png",
+        "name": "sunny climbing shoes",
+        "brand": " inkline",
+        "cost": " 3,200",
+        "ability": " special saver",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/e6/S3_Gear_Shoes_Sunset_Orca_Hi-Tops.png/120px-S3_Gear_Shoes_Sunset_Orca_Hi-Tops.png",
+        "name": "sunset orca hi-tops",
+        "brand": " takoroka",
+        "cost": " 3,800",
+        "ability": " drop roller",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/e1/S3_Gear_Shoes_Survival_Footwrap_Replicas.png/120px-S3_Gear_Shoes_Survival_Footwrap_Replicas.png",
+        "name": "survival footwrap replicas",
+        "brand": " cuttlegear",
+        "cost": "  callie (alterna)",
+        "ability": " stealth jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/07/S3_Gear_Shoes_Swirled_DC_Toejamz.png/120px-S3_Gear_Shoes_Swirled_DC_Toejamz.png",
+        "name": "swirled dc toejamz",
+        "brand": " z+f",
+        "cost": " switch news channel",
+        "ability": " drop roller",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/1/1f/S3_Gear_Shoes_Tan_Work_Boots.png/120px-S3_Gear_Shoes_Tan_Work_Boots.png",
+        "name": "tan work boots",
+        "brand": " rockenberg",
+        "cost": " 3,000",
+        "ability": " sub power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/32/S3_Gear_Shoes_Tea-Green_Hunting_Boots.png/120px-S3_Gear_Shoes_Tea-Green_Hunting_Boots.png",
+        "name": "tea-green hunting boots",
+        "brand": " splash mob",
+        "cost": " 11,500",
+        "ability": " quick respawn",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/4d/S3_Gear_Shoes_Tenya_OctoPurps.png/120px-S3_Gear_Shoes_Tenya_OctoPurps.png",
+        "name": "tenya octopurps",
+        "brand": " tentatek",
+        "cost": " 7,980",
+        "ability": " special saver",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/08/S3_Gear_Shoes_Tenya_OctoReds.png/120px-S3_Gear_Shoes_Tenya_OctoReds.png",
+        "name": "tenya octoreds",
+        "brand": " tentatek",
+        "cost": " 2,900",
+        "ability": " quick respawn",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/a8/S3_Gear_Shoes_Toni_Kensa_Black_Hi-Tops.png/120px-S3_Gear_Shoes_Toni_Kensa_Black_Hi-Tops.png",
+        "name": "toni kensa black hi-tops",
+        "brand": " toni kensa",
+        "cost": " 9,880",
+        "ability": " sub power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/ff/S3_Gear_Shoes_Toni_Kensa_Soccer_Shoes.png/120px-S3_Gear_Shoes_Toni_Kensa_Soccer_Shoes.png",
+        "name": "toni kensa soccer shoes",
+        "brand": " toni kensa",
+        "cost": " 10,500",
+        "ability": " intensify action",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/8d/S3_Gear_Shoes_Trail_Boots.png/120px-S3_Gear_Shoes_Trail_Boots.png",
+        "name": "trail boots",
+        "brand": " inkline",
+        "cost": " 7,500",
+        "ability": " ink recovery up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/2e/S3_Gear_Shoes_Transom_Note_Boots.png/120px-S3_Gear_Shoes_Transom_Note_Boots.png",
+        "name": "transom note boots",
+        "brand": " z+f",
+        "cost": " 9,500",
+        "ability": " run speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/b/be/S3_Gear_Shoes_Trevally_Derby_Rollers.png/120px-S3_Gear_Shoes_Trevally_Derby_Rollers.png",
+        "name": "trevally derby rollers",
+        "brand": " grizzco",
+        "cost": " salmon run next wave",
+        "ability": "",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/b/b2/S3_Gear_Shoes_Tricolor_Boaties.png/120px-S3_Gear_Shoes_Tricolor_Boaties.png",
+        "name": "tricolor boaties",
+        "brand": " rockenberg",
+        "cost": " 2,200",
+        "ability": " intensify action",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/b/b0/S3_Gear_Shoes_Trifecta_Duck_Boots.png/120px-S3_Gear_Shoes_Trifecta_Duck_Boots.png",
+        "name": "trifecta duck boots",
+        "brand": " barazushi",
+        "cost": " switch news channel",
+        "ability": " drop roller",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/7/72/S3_Gear_Shoes_Trifecta_Hi-Tops.png/120px-S3_Gear_Shoes_Trifecta_Hi-Tops.png",
+        "name": "trifecta hi-tops",
+        "brand": " krak-on",
+        "cost": " switch news channel",
+        "ability": " intensify action",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/f7/S3_Gear_Shoes_Trifecta_Sandals.png/120px-S3_Gear_Shoes_Trifecta_Sandals.png",
+        "name": "trifecta sandals",
+        "brand": " z+f",
+        "cost": " switch news channel",
+        "ability": " special charge up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/57/S3_Gear_Shoes_Truffle_Canvas_Hi-Tops.png/120px-S3_Gear_Shoes_Truffle_Canvas_Hi-Tops.png",
+        "name": "truffle canvas hi-tops",
+        "brand": " krak-on",
+        "cost": " 1,350",
+        "ability": " special power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/f6/S3_Gear_Shoes_Turbo_Tabi_Red.png/120px-S3_Gear_Shoes_Turbo_Tabi_Red.png",
+        "name": "turbo tabi red",
+        "brand": " tentatek",
+        "cost": " 2,200",
+        "ability": " sub power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/81/S3_Gear_Shoes_Turquoise_Kicks.png/120px-S3_Gear_Shoes_Turquoise_Kicks.png",
+        "name": "turquoise kicks",
+        "brand": " rockenberg",
+        "cost": " 2,800",
+        "ability": " special charge up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/a6/S3_Gear_Shoes_U_Jellys.png/120px-S3_Gear_Shoes_U_Jellys.png",
+        "name": "u jellys",
+        "brand": " tentatek",
+        "cost": " 2,200",
+        "ability": " special charge up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/ad/S3_Gear_Shoes_Violet_Trainers.png/120px-S3_Gear_Shoes_Violet_Trainers.png",
+        "name": "violet trainers",
+        "brand": " tentatek",
+        "cost": " 1,000",
+        "ability": " object shredder",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/36/S3_Gear_Shoes_Wasabi_Tabi.png/120px-S3_Gear_Shoes_Wasabi_Tabi.png",
+        "name": "wasabi tabi",
+        "brand": " tentatek",
+        "cost": " 10,500",
+        "ability": " intensify action",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/7/7a/S3_Gear_Shoes_White_3-Straps.png/120px-S3_Gear_Shoes_White_3-Straps.png",
+        "name": "white 3-straps",
+        "brand": " splash mob",
+        "cost": " 8,700",
+        "ability": " ink saver (sub)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/57/S3_Gear_Shoes_White_Arrows.png/120px-S3_Gear_Shoes_White_Arrows.png",
+        "name": "white arrows",
+        "brand": " takoroka",
+        "cost": " 2,500",
+        "ability": " special power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/49/S3_Gear_Shoes_White_Clam_600s.png/120px-S3_Gear_Shoes_White_Clam_600s.png",
+        "name": "white clam 600s",
+        "brand": " toni kensa",
+        "cost": " 11,260",
+        "ability": " quick respawn",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/6a/S3_Gear_Shoes_White_Kicks.png/120px-S3_Gear_Shoes_White_Kicks.png",
+        "name": "white kicks",
+        "brand": " rockenberg",
+        "cost": " 1,400",
+        "ability": " swim speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/08/S3_Gear_Shoes_White_Laceless_Dakroniks.png/120px-S3_Gear_Shoes_White_Laceless_Dakroniks.png",
+        "name": "white laceless dakroniks",
+        "brand": " zink",
+        "cost": " 1,800",
+        "ability": " run speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/1/16/S3_Gear_Shoes_White_Lo-Vert_Hi-Tops.png/120px-S3_Gear_Shoes_White_Lo-Vert_Hi-Tops.png",
+        "name": "white lo-vert hi-tops",
+        "brand": " barazushi",
+        "cost": " 10,200",
+        "ability": " sub power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/22/S3_Gear_Shoes_White_Norimaki_750s.png/120px-S3_Gear_Shoes_White_Norimaki_750s.png",
+        "name": "white norimaki 750s",
+        "brand": " tentatek",
+        "cost": " 3,800",
+        "ability": " swim speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/d1/S3_Gear_Shoes_White_Seahorses.png/120px-S3_Gear_Shoes_White_Seahorses.png",
+        "name": "white seahorses",
+        "brand": " zink",
+        "cost": " 600",
+        "ability": " ink recovery up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/e8/S3_Gear_Shoes_Wooden_Sandals.png/120px-S3_Gear_Shoes_Wooden_Sandals.png",
+        "name": "wooden sandals",
+        "brand": " grizzco",
+        "cost": " 15",
+        "ability": " drop roller",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/0b/S3_Gear_Shoes_World_Tour_Boots.png/120px-S3_Gear_Shoes_World_Tour_Boots.png",
+        "name": "world tour boots",
+        "brand": " amiibo",
+        "cost": "  pearl (side order)",
+        "ability": " quick super jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/ec/S3_Gear_Shoes_World_Tour_Heels.png/120px-S3_Gear_Shoes_World_Tour_Heels.png",
+        "name": "world tour heels",
+        "brand": " amiibo",
+        "cost": "  marina (side order)",
+        "ability": " sub power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/e4/S3_Gear_Shoes_Yellow_FishFry_Sandals.png/120px-S3_Gear_Shoes_Yellow_FishFry_Sandals.png",
+        "name": "yellow fishfry sandals",
+        "brand": " firefin",
+        "cost": " 2,880",
+        "ability": " intensify action",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/aa/S3_Gear_Shoes_Yellow_Iromaki_750s.png/120px-S3_Gear_Shoes_Yellow_Iromaki_750s.png",
+        "name": "yellow iromaki 750s",
+        "brand": " tentatek",
+        "cost": " 1,050",
+        "ability": " special saver",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/ce/S3_Gear_Shoes_Yellow_Seahorses.png/120px-S3_Gear_Shoes_Yellow_Seahorses.png",
+        "name": "yellow seahorses",
+        "brand": " zink",
+        "cost": " 1,500",
+        "ability": " sub resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/f2/S3_Gear_Shoes_Yellow_Toejamz.png/120px-S3_Gear_Shoes_Yellow_Toejamz.png",
+        "name": "yellow toejamz",
+        "brand": " z+f",
+        "cost": " 830",
+        "ability": " sub resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/65/S3_Gear_Shoes_Yellow-Mesh_Sneakers.png/120px-S3_Gear_Shoes_Yellow-Mesh_Sneakers.png",
+        "name": "yellow-mesh sneakers",
+        "brand": " tentatek",
+        "cost": " 1,300",
+        "ability": " intensify action",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/a5/S3_Gear_Shoes_Zebrafish_Hi-Tops.png/120px-S3_Gear_Shoes_Zebrafish_Hi-Tops.png",
+        "name": "zebrafish hi-tops",
+        "brand": " toni kensa",
+        "cost": " 4,200",
+        "ability": " swim speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/ae/S3_Gear_Shoes_ZedFry_Slip-Ons.png/120px-S3_Gear_Shoes_ZedFry_Slip-Ons.png",
+        "name": "zedfry slip-ons",
+        "brand": " z+f",
+        "cost": " 4,200",
+        "ability": " quick respawn",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/eb/S3_Gear_Shoes_Zombie_Hi-Horses.png/120px-S3_Gear_Shoes_Zombie_Hi-Horses.png",
+        "name": "zombie hi-horses",
+        "brand": " zink",
+        "cost": " 800",
+        "ability": " special charge up",
+        "rarity": "0"
+    }
+]

@@ -1,0 +1,1282 @@
+[
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/9/98/S2_Gear_Headgear_Anglerfish_Mask.png/120px-S2_Gear_Headgear_Anglerfish_Mask.png",
+        "name": "anglerfish mask",
+        "brand": " squidforce",
+        "cost": " nintendo switch news",
+        "ability": " ink saver (main)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/f4/S2_Gear_Headgear_Annaki_Beret.png/120px-S2_Gear_Headgear_Annaki_Beret.png",
+        "name": "annaki beret",
+        "brand": " annaki",
+        "cost": " 11500",
+        "ability": " ink resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/9/9c/S2_Gear_Headgear_Annaki_Beret_%26_Glasses.png/120px-S2_Gear_Headgear_Annaki_Beret_%26_Glasses.png",
+        "name": "annaki beret & glasses",
+        "brand": " annaki",
+        "cost": " 7850",
+        "ability": " ink saver (main)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/8a/S2_Gear_Headgear_Annaki_Mask.png/120px-S2_Gear_Headgear_Annaki_Mask.png",
+        "name": "annaki mask",
+        "brand": " annaki",
+        "cost": " 3600",
+        "ability": " opening gambit",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/0b/S2_Gear_Headgear_Armor_Helmet_Replica.png/120px-S2_Gear_Headgear_Armor_Helmet_Replica.png",
+        "name": "armor helmet replica",
+        "brand": " cuttlegear",
+        "cost": "  marie",
+        "ability": " tenacity",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/0b/S2_Gear_Headgear_B-ball_Headband.png/120px-S2_Gear_Headgear_B-ball_Headband.png",
+        "name": "b-ball headband",
+        "brand": " zink",
+        "cost": " 300",
+        "ability": " opening gambit",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/38/S2_Gear_Headgear_Backwards_Cap.png/120px-S2_Gear_Headgear_Backwards_Cap.png",
+        "name": "backwards cap",
+        "brand": " zekko",
+        "cost": " 700",
+        "ability": " quick respawn",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/9/9b/S2_Gear_Headgear_Bamboo_Hat.png/120px-S2_Gear_Headgear_Bamboo_Hat.png",
+        "name": "bamboo hat",
+        "brand": " inkline",
+        "cost": " 2200",
+        "ability": " ink saver (main)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/8d/S2_Gear_Headgear_Beekeeper_Hat.png/120px-S2_Gear_Headgear_Beekeeper_Hat.png",
+        "name": "beekeeper hat",
+        "brand": " grizzco",
+        "cost": " salmon run",
+        "ability": "",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/25/S2_Gear_Headgear_Bike_Helmet.png/120px-S2_Gear_Headgear_Bike_Helmet.png",
+        "name": "bike helmet",
+        "brand": " skalop",
+        "cost": " 4800",
+        "ability": " ink recovery up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/1/16/S2_Gear_Headgear_Black_Arrowbands.png/120px-S2_Gear_Headgear_Black_Arrowbands.png",
+        "name": "black arrowbands",
+        "brand": " zekko",
+        "cost": " 2800",
+        "ability": " tenacity",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/38/S2_Gear_Headgear_Black_FishFry_Bandana.png/120px-S2_Gear_Headgear_Black_FishFry_Bandana.png",
+        "name": "black fishfry bandana",
+        "brand": " firefin",
+        "cost": " 1250",
+        "ability": " bomb defense up dx",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/50/S2_Gear_Headgear_Blowfish_Bell_Hat.png/120px-S2_Gear_Headgear_Blowfish_Bell_Hat.png",
+        "name": "blowfish bell hat",
+        "brand": " firefin",
+        "cost": " 850",
+        "ability": " ink recovery up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/d7/S2_Gear_Headgear_Blowfish_Newsie.png/120px-S2_Gear_Headgear_Blowfish_Newsie.png",
+        "name": "blowfish newsie",
+        "brand": " firefin",
+        "cost": " 4200",
+        "ability": " quick super jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/44/S2_Gear_Headgear_Bobble_Hat.png/120px-S2_Gear_Headgear_Bobble_Hat.png",
+        "name": "bobble hat",
+        "brand": " splash mob",
+        "cost": " 2000",
+        "ability": " quick super jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/e5/S2_Gear_Headgear_Bucket_Hat.png/120px-S2_Gear_Headgear_Bucket_Hat.png",
+        "name": "bucket hat",
+        "brand": " squidforce",
+        "cost": " 400",
+        "ability": " special saver",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/22/S2_Gear_Headgear_Camo_Mesh.png/120px-S2_Gear_Headgear_Camo_Mesh.png",
+        "name": "camo mesh",
+        "brand": " firefin",
+        "cost": " 1400",
+        "ability": " swim speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/03/S2_Gear_Headgear_Camping_Hat.png/120px-S2_Gear_Headgear_Camping_Hat.png",
+        "name": "camping hat",
+        "brand": " inkline",
+        "cost": " 800",
+        "ability": " special power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/03/S2_Gear_Headgear_Cap_of_Legend.png/120px-S2_Gear_Headgear_Cap_of_Legend.png",
+        "name": "cap of legend",
+        "brand": " grizzco",
+        "cost": " salmon run",
+        "ability": "",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/f1/S2_Gear_Headgear_Classic_Straw_Boater.png/120px-S2_Gear_Headgear_Classic_Straw_Boater.png",
+        "name": "classic straw boater",
+        "brand": " skalop",
+        "cost": " 1500",
+        "ability": " special power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/3d/S2_Gear_Headgear_Conductor_Cap.png/120px-S2_Gear_Headgear_Conductor_Cap.png",
+        "name": "conductor cap",
+        "brand": " cuttlegear",
+        "cost": " octo expansion",
+        "ability": " sub power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/d6/S2_Gear_Headgear_Cycle_King_Cap.png/120px-S2_Gear_Headgear_Cycle_King_Cap.png",
+        "name": "cycle king cap",
+        "brand": " tentatek",
+        "cost": " 2400",
+        "ability": " bomb defense up dx",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/f0/S2_Gear_Headgear_Cycling_Cap.png/120px-S2_Gear_Headgear_Cycling_Cap.png",
+        "name": "cycling cap",
+        "brand": " zink",
+        "cost": " 800",
+        "ability": " sub power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/c5/S2_Gear_Headgear_Deca_Tackle_Visor_Helmet.png/120px-S2_Gear_Headgear_Deca_Tackle_Visor_Helmet.png",
+        "name": "deca tackle visor helmet",
+        "brand": " forge",
+        "cost": " 10100",
+        "ability": " sub power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/9/91/S2_Gear_Headgear_Designer_Headphones.png/120px-S2_Gear_Headgear_Designer_Headphones.png",
+        "name": "designer headphones",
+        "brand": " forge",
+        "cost": " 2500",
+        "ability": " ink saver (sub)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/c6/S2_Gear_Headgear_Digi-Camo_Forge_Mask.png/120px-S2_Gear_Headgear_Digi-Camo_Forge_Mask.png",
+        "name": "digi-camo forge mask",
+        "brand": " forge",
+        "cost": " 1800",
+        "ability": " swim speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/f7/S2_Gear_Headgear_Do-Rag%2C_Cap%2C_%26_Glasses.png/120px-S2_Gear_Headgear_Do-Rag%2C_Cap%2C_%26_Glasses.png",
+        "name": "do-rag, cap, & glasses",
+        "brand": " skalop",
+        "cost": " 9500",
+        "ability": " main power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/32/S2_Gear_Headgear_Double_Egg_Shades.png/120px-S2_Gear_Headgear_Double_Egg_Shades.png",
+        "name": "double egg shades",
+        "brand": " zekko",
+        "cost": " 2200",
+        "ability": " run speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/b/bd/S2_Gear_Headgear_Dust_Blocker_2000.png/120px-S2_Gear_Headgear_Dust_Blocker_2000.png",
+        "name": "dust blocker 2000",
+        "brand": " grizzco",
+        "cost": " salmon run",
+        "ability": "",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/7/75/S2_Gear_Headgear_Eminence_Cuff.png/120px-S2_Gear_Headgear_Eminence_Cuff.png",
+        "name": "eminence cuff",
+        "brand": " enperry",
+        "cost": " corocoro comic",
+        "ability": " ink saver (main)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/7/74/S2_Gear_Headgear_Eel-Cake_Hat.png/120px-S2_Gear_Headgear_Eel-Cake_Hat.png",
+        "name": "eel-cake hat",
+        "brand": " squidforce",
+        "cost": " nintendo switch news",
+        "ability": " quick respawn",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/62/S2_Gear_Headgear_Enchanted_Hat.png/120px-S2_Gear_Headgear_Enchanted_Hat.png",
+        "name": "enchanted hat",
+        "brand": " amiibo",
+        "cost": "  octoling girl",
+        "ability": " ink saver (main)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/9/9c/S2_Gear_Headgear_Eye_of_Justice.png/120px-S2_Gear_Headgear_Eye_of_Justice.png",
+        "name": "eye of justice",
+        "brand": " squidforce",
+        "cost": " nintendo switch news",
+        "ability": " special charge up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/83/S2_Gear_Headgear_Face_Visor.png/120px-S2_Gear_Headgear_Face_Visor.png",
+        "name": "face visor",
+        "brand": " toni kensa",
+        "cost": " 10300",
+        "ability": " bomb defense up dx",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/40/S2_Gear_Headgear_Fake_Contacts.png/120px-S2_Gear_Headgear_Fake_Contacts.png",
+        "name": "fake contacts",
+        "brand": " tentatek",
+        "cost": " 2000",
+        "ability": " special charge up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/cf/S2_Gear_Headgear_Festive_Party_Cone.png/120px-S2_Gear_Headgear_Festive_Party_Cone.png",
+        "name": "festive party cone",
+        "brand": " squidforce",
+        "cost": " nintendo switch news",
+        "ability": " main power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/52/S2_Gear_Headgear_Fierce_Fishskull.png/120px-S2_Gear_Headgear_Fierce_Fishskull.png",
+        "name": "fierce fishskull",
+        "brand": " squidforce",
+        "cost": " nintendo switch news",
+        "ability": " swim speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/7/73/S2_Gear_Headgear_Firefin_Facemask.png/120px-S2_Gear_Headgear_Firefin_Facemask.png",
+        "name": "firefin facemask",
+        "brand": " firefin",
+        "cost": " 650",
+        "ability": " run speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/68/S2_Gear_Headgear_FishFry_Biscuit_Bandana.png/120px-S2_Gear_Headgear_FishFry_Biscuit_Bandana.png",
+        "name": "fishfry biscuit bandana",
+        "brand": " firefin",
+        "cost": " 1250",
+        "ability": " special power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/7/73/S2_Gear_Headgear_FishFry_Visor.png/120px-S2_Gear_Headgear_FishFry_Visor.png",
+        "name": "fishfry visor",
+        "brand": " firefin",
+        "cost": " 500",
+        "ability": " special charge up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/8c/S2_Gear_Headgear_Five-Panel_Cap.png/120px-S2_Gear_Headgear_Five-Panel_Cap.png",
+        "name": "five-panel cap",
+        "brand": " zekko",
+        "cost": " 1800",
+        "ability": " comeback",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/59/S2_Gear_Headgear_Forge_Mask.png/120px-S2_Gear_Headgear_Forge_Mask.png",
+        "name": "forge mask",
+        "brand": " forge",
+        "cost": " 1400",
+        "ability": " main power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/7/7e/S2_Gear_Headgear_Fresh_Fish_Head.png/120px-S2_Gear_Headgear_Fresh_Fish_Head.png",
+        "name": "fresh fish head",
+        "brand": " amiibo",
+        "cost": "  octoling octopus",
+        "ability": " comeback",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/e2/S2_Gear_Headgear_Fugu_Bell_Hat.png/120px-S2_Gear_Headgear_Fugu_Bell_Hat.png",
+        "name": "fugu bell hat",
+        "brand": " firefin",
+        "cost": " 1700",
+        "ability": " quick respawn",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/7/74/S2_Gear_Headgear_Full_Moon_Glasses.png/120px-S2_Gear_Headgear_Full_Moon_Glasses.png",
+        "name": "full moon glasses",
+        "brand": " krak-on",
+        "cost": " 600",
+        "ability": " quick super jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/1/13/S2_Gear_Headgear_Gas_Mask.png/120px-S2_Gear_Headgear_Gas_Mask.png",
+        "name": "gas mask",
+        "brand": " forge",
+        "cost": " 11000",
+        "ability": " tenacity",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/0c/S2_Gear_Headgear_Golden_Toothpick.png/120px-S2_Gear_Headgear_Golden_Toothpick.png",
+        "name": "golden toothpick",
+        "brand": " cuttlegear",
+        "cost": " octo expansion",
+        "ability": " special charge up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/64/S2_Gear_Headgear_Golf_Visor.png/120px-S2_Gear_Headgear_Golf_Visor.png",
+        "name": "golf visor",
+        "brand": " zink",
+        "cost": " 400",
+        "ability": " run speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/0a/S2_Gear_Headgear_Green_Novelty_Visor.png/120px-S2_Gear_Headgear_Green_Novelty_Visor.png",
+        "name": "green novelty visor",
+        "brand": " tentatek",
+        "cost": " nintendo switch news",
+        "ability": " special saver",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/9/94/S2_Gear_Headgear_Half-Rim_Glasses.png/120px-S2_Gear_Headgear_Half-Rim_Glasses.png",
+        "name": "half-rim glasses",
+        "brand": " splash mob",
+        "cost": " 4100",
+        "ability": " special power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/aa/S2_Gear_Headgear_Headlamp_Helmet.png/120px-S2_Gear_Headgear_Headlamp_Helmet.png",
+        "name": "headlamp helmet",
+        "brand": " grizzco",
+        "cost": " salmon run",
+        "ability": "",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/2d/S2_Gear_Headgear_Hero_Headphones_Replica.png/120px-S2_Gear_Headgear_Hero_Headphones_Replica.png",
+        "name": "hero headphones replica",
+        "brand": " cuttlegear",
+        "cost": " octo canyon",
+        "ability": " special saver",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/45/S2_Gear_Headgear_Hero_Headset_Replica.png/120px-S2_Gear_Headgear_Hero_Headset_Replica.png",
+        "name": "hero headset replica",
+        "brand": " cuttlegear",
+        "cost": "  callie",
+        "ability": " run speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/8f/S2_Gear_Headgear_Hickory_Work_Cap.png/120px-S2_Gear_Headgear_Hickory_Work_Cap.png",
+        "name": "hickory work cap",
+        "brand": " krak-on",
+        "cost": " 8700",
+        "ability": " special power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/47/S2_Gear_Headgear_Hivemind_Antenna.png/120px-S2_Gear_Headgear_Hivemind_Antenna.png",
+        "name": "hivemind antenna",
+        "brand": " squidforce",
+        "cost": " nintendo switch news",
+        "ability": " comeback",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/a6/S2_Gear_Headgear_Hockey_Helmet.png/120px-S2_Gear_Headgear_Hockey_Helmet.png",
+        "name": "hockey helmet",
+        "brand": " forge",
+        "cost": " 9900",
+        "ability": " main power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/a9/S2_Gear_Headgear_Hockey_Mask.png/120px-S2_Gear_Headgear_Hockey_Mask.png",
+        "name": "hockey mask",
+        "brand": " squidforce",
+        "cost": " nintendo switch news",
+        "ability": " ink recovery up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/cd/S2_Gear_Headgear_Hothouse_Hat.png/120px-S2_Gear_Headgear_Hothouse_Hat.png",
+        "name": "hothouse hat",
+        "brand": " skalop",
+        "cost": " 3680",
+        "ability": " ink resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/b/b2/S2_Gear_Headgear_House-Tag_Denim_Cap.png/120px-S2_Gear_Headgear_House-Tag_Denim_Cap.png",
+        "name": "house-tag denim cap",
+        "brand": " splash mob",
+        "cost": " 5200",
+        "ability": " special charge up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/45/S2_Gear_Headgear_Ink-Guard_Goggles.png/120px-S2_Gear_Headgear_Ink-Guard_Goggles.png",
+        "name": "ink-guard goggles",
+        "brand": " toni kensa",
+        "cost": " 9600",
+        "ability": " run speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/34/S2_Gear_Headgear_Jellyvader_Cap.png/120px-S2_Gear_Headgear_Jellyvader_Cap.png",
+        "name": "jellyvader cap",
+        "brand": " skalop",
+        "cost": " 10000",
+        "ability": " ink saver (sub)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/85/S2_Gear_Headgear_Jet_Cap.png/120px-S2_Gear_Headgear_Jet_Cap.png",
+        "name": "jet cap",
+        "brand": " firefin",
+        "cost": " 700",
+        "ability": " special saver",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/5a/S2_Gear_Headgear_Jetflame_Crest.png/120px-S2_Gear_Headgear_Jetflame_Crest.png",
+        "name": "jetflame crest",
+        "brand": " squidforce",
+        "cost": " nintendo switch news",
+        "ability": " run speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/45/S2_Gear_Headgear_Jogging_Headband.png/120px-S2_Gear_Headgear_Jogging_Headband.png",
+        "name": "jogging headband",
+        "brand": " zekko",
+        "cost": " 400",
+        "ability": " ink saver (sub)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/0b/S2_Gear_Headgear_Jungle_Hat.png/120px-S2_Gear_Headgear_Jungle_Hat.png",
+        "name": "jungle hat",
+        "brand": " firefin",
+        "cost": " 9000",
+        "ability": " ink saver (main)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/a4/S2_Gear_Headgear_King_Facemask.png/120px-S2_Gear_Headgear_King_Facemask.png",
+        "name": "king facemask",
+        "brand": " enperry",
+        "cost": " 500",
+        "ability": " ink saver (sub)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/48/S2_Gear_Headgear_King_Flip_Mesh.png/120px-S2_Gear_Headgear_King_Flip_Mesh.png",
+        "name": "king flip mesh",
+        "brand": " enperry",
+        "cost": " 3200",
+        "ability": " run speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/9/9b/S2_Gear_Headgear_Knitted_Hat.png/120px-S2_Gear_Headgear_Knitted_Hat.png",
+        "name": "knitted hat",
+        "brand": " firefin",
+        "cost": " 1400",
+        "ability": " ink resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/3c/S2_Gear_Headgear_Koshien_Bandana.png/120px-S2_Gear_Headgear_Koshien_Bandana.png",
+        "name": "koshien bandana",
+        "brand": " squidforce",
+        "cost": " famitsu promotional gear",
+        "ability": " swim speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/b/b9/S2_Gear_Headgear_Kyonshi_Hat.png/120px-S2_Gear_Headgear_Kyonshi_Hat.png",
+        "name": "kyonshi hat",
+        "brand": " squidforce",
+        "cost": " nintendo switch news",
+        "ability": " run speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/48/S2_Gear_Headgear_Lightweight_Cap.png/120px-S2_Gear_Headgear_Lightweight_Cap.png",
+        "name": "lightweight cap",
+        "brand": " inkline",
+        "cost": " 800",
+        "ability": " swim speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/9/9a/S2_Gear_Headgear_Li%27l_Devil_Horns.png/120px-S2_Gear_Headgear_Li%27l_Devil_Horns.png",
+        "name": "lil devil horns",
+        "brand": " squidforce",
+        "cost": " nintendo switch news",
+        "ability": " ink saver (sub)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/1/13/S2_Gear_Headgear_Long-Billed_Cap.png/120px-S2_Gear_Headgear_Long-Billed_Cap.png",
+        "name": "long-billed cap",
+        "brand": " krak-on",
+        "cost": " 9800",
+        "ability": " ink recovery up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/7/70/S2_Gear_Headgear_Marinated_Headphones.png/120px-S2_Gear_Headgear_Marinated_Headphones.png",
+        "name": "marinated headphones",
+        "brand": " amiibo",
+        "cost": "  marina",
+        "ability": " special saver",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/1/18/S2_Gear_Headgear_Matte_Bike_Helmet.png/120px-S2_Gear_Headgear_Matte_Bike_Helmet.png",
+        "name": "matte bike helmet",
+        "brand": " zekko",
+        "cost": " 10000",
+        "ability": " sub power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/3e/S2_Gear_Headgear_Mecha_Head_-_HTR.png/120px-S2_Gear_Headgear_Mecha_Head_-_HTR.png",
+        "name": "mecha head - htr",
+        "brand": " squidforce",
+        "cost": " corocoro comic",
+        "ability": " main power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/8c/S2_Gear_Headgear_Moist_Ghillie_Helmet.png/120px-S2_Gear_Headgear_Moist_Ghillie_Helmet.png",
+        "name": "moist ghillie helmet",
+        "brand": " forge",
+        "cost": " 8500",
+        "ability": " run speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/5c/S2_Gear_Headgear_Motocross_Nose_Guard.png/120px-S2_Gear_Headgear_Motocross_Nose_Guard.png",
+        "name": "motocross nose guard",
+        "brand": " forge",
+        "cost": " 7600",
+        "ability": " special charge up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/3c/S2_Gear_Headgear_Mountie_Hat.png/120px-S2_Gear_Headgear_Mountie_Hat.png",
+        "name": "mountie hat",
+        "brand": " inkline",
+        "cost": " 13000",
+        "ability": " special charge up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/01/S2_Gear_Headgear_MTB_Helmet.png/120px-S2_Gear_Headgear_MTB_Helmet.png",
+        "name": "mtb helmet",
+        "brand": " zekko",
+        "cost": " 10500",
+        "ability": " tenacity",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/80/S2_Gear_Headgear_New_Year%27s_Glasses_DX.png/120px-S2_Gear_Headgear_New_Year%27s_Glasses_DX.png",
+        "name": "new years glasses dx",
+        "brand": " squidforce",
+        "cost": " nintendo switch news",
+        "ability": " special charge up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/20/S2_Gear_Headgear_Noise_Cancelers.png/120px-S2_Gear_Headgear_Noise_Cancelers.png",
+        "name": "noise cancelers",
+        "brand": " forge",
+        "cost": " 9200",
+        "ability": " quick respawn",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/ec/S2_Gear_Headgear_Null_Visor_Replica.png/120px-S2_Gear_Headgear_Null_Visor_Replica.png",
+        "name": "null visor replica",
+        "brand": " cuttlegear",
+        "cost": " octo expansion",
+        "ability": " special power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/1/17/S2_Gear_Headgear_Oceanic_Hard_Hat.png/120px-S2_Gear_Headgear_Oceanic_Hard_Hat.png",
+        "name": "oceanic hard hat",
+        "brand": " grizzco",
+        "cost": " salmon run",
+        "ability": "",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/7/72/S2_Gear_Headgear_Octo_Tackle_Helmet_Deco.png/120px-S2_Gear_Headgear_Octo_Tackle_Helmet_Deco.png",
+        "name": "octo tackle helmet deco",
+        "brand": " forge",
+        "cost": " 8888",
+        "ability": " bomb defense up dx",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/7/78/S2_Gear_Headgear_Octoglasses.png/120px-S2_Gear_Headgear_Octoglasses.png",
+        "name": "octoglasses",
+        "brand": " firefin",
+        "cost": " 8800",
+        "ability": " last-ditch effort",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/31/S2_Gear_Headgear_Octoking_Facemask.png/120px-S2_Gear_Headgear_Octoking_Facemask.png",
+        "name": "octoking facemask",
+        "brand": " enperry",
+        "cost": " 1450",
+        "ability": " tenacity",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/1/1c/S2_Gear_Headgear_Octoleet_Goggles.png/120px-S2_Gear_Headgear_Octoleet_Goggles.png",
+        "name": "octoleet goggles",
+        "brand": " grizzco",
+        "cost": " salmon run",
+        "ability": "",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/9/91/S2_Gear_Headgear_Octoling_Shades.png/120px-S2_Gear_Headgear_Octoling_Shades.png",
+        "name": "octoling shades",
+        "brand": " cuttlegear",
+        "cost": " octo expansion",
+        "ability": " last-ditch effort",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/1/1e/S2_Gear_Headgear_Old-Timey_Hat.png/120px-S2_Gear_Headgear_Old-Timey_Hat.png",
+        "name": "old-timey hat",
+        "brand": " cuttlegear",
+        "cost": " octo expansion",
+        "ability": " comeback",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/9/94/S2_Gear_Headgear_Orange_Novelty_Visor.png/120px-S2_Gear_Headgear_Orange_Novelty_Visor.png",
+        "name": "orange novelty visor",
+        "brand": " tentatek",
+        "cost": " nintendo switch news",
+        "ability": " last-ditch effort",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/ae/S2_Gear_Headgear_Paintball_Mask.png/120px-S2_Gear_Headgear_Paintball_Mask.png",
+        "name": "paintball mask",
+        "brand": " forge",
+        "cost": " 10000",
+        "ability": " comeback",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/d4/S2_Gear_Headgear_Painter%27s_Mask.png/120px-S2_Gear_Headgear_Painter%27s_Mask.png",
+        "name": "painters mask",
+        "brand": " squidforce",
+        "cost": " 4500",
+        "ability": " main power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/c1/S2_Gear_Headgear_Paisley_Bandana.png/120px-S2_Gear_Headgear_Paisley_Bandana.png",
+        "name": "paisley bandana",
+        "brand": " krak-on",
+        "cost": " 750",
+        "ability": " ink saver (sub)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/d1/S2_Gear_Headgear_Patched_Hat.png/120px-S2_Gear_Headgear_Patched_Hat.png",
+        "name": "patched hat",
+        "brand": " skalop",
+        "cost": " 3600",
+        "ability": " main power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/7/77/S2_Gear_Headgear_Pearlescent_Crown.png/120px-S2_Gear_Headgear_Pearlescent_Crown.png",
+        "name": "pearlescent crown",
+        "brand": " amiibo",
+        "cost": "  pearl",
+        "ability": " bomb defense up dx",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/f9/S2_Gear_Headgear_Pilot_Goggles.png/120px-S2_Gear_Headgear_Pilot_Goggles.png",
+        "name": "pilot goggles",
+        "brand": " forge",
+        "cost": " 5500",
+        "ability": " sub power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/3e/S2_Gear_Headgear_Pilot_Hat.png/120px-S2_Gear_Headgear_Pilot_Hat.png",
+        "name": "pilot hat",
+        "brand": " splash mob",
+        "cost": " 11500",
+        "ability": " ink resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/9/92/S2_Gear_Headgear_Pink_Novelty_Visor.png/120px-S2_Gear_Headgear_Pink_Novelty_Visor.png",
+        "name": "pink novelty visor",
+        "brand": " tentatek",
+        "cost": " nintendo switch news",
+        "ability": " tenacity",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/4e/S2_Gear_Headgear_Power_Mask.png/120px-S2_Gear_Headgear_Power_Mask.png",
+        "name": "power mask",
+        "brand": " amiibo",
+        "cost": "  inkling squid (splatoon)",
+        "ability": " bomb defense up dx",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/a4/S2_Gear_Headgear_Power_Mask_Mk_I.png/120px-S2_Gear_Headgear_Power_Mask_Mk_I.png",
+        "name": "power mask mk i",
+        "brand": " amiibo",
+        "cost": "  inkling squid (splatoon 2)",
+        "ability": " ink resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/7/74/S2_Gear_Headgear_Purple_Novelty_Visor.png/120px-S2_Gear_Headgear_Purple_Novelty_Visor.png",
+        "name": "purple novelty visor",
+        "brand": " tentatek",
+        "cost": " nintendo switch news",
+        "ability": " ink resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/2b/S2_Gear_Headgear_Retro_Specs.png/120px-S2_Gear_Headgear_Retro_Specs.png",
+        "name": "retro specs",
+        "brand": " splash mob",
+        "cost": " 500",
+        "ability": " quick respawn",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/2b/S2_Gear_Headgear_Sailor_Cap.png/120px-S2_Gear_Headgear_Sailor_Cap.png",
+        "name": "sailor cap",
+        "brand": " grizzco",
+        "cost": " salmon run",
+        "ability": "",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/47/S2_Gear_Headgear_Safari_Hat.png/120px-S2_Gear_Headgear_Safari_Hat.png",
+        "name": "safari hat",
+        "brand": " forge",
+        "cost": " 2300",
+        "ability": " last-ditch effort",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/4b/S2_Gear_Headgear_Samurai_Helmet.png/120px-S2_Gear_Headgear_Samurai_Helmet.png",
+        "name": "samurai helmet",
+        "brand": " amiibo",
+        "cost": "  inkling boy (splatoon)",
+        "ability": " quick super jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/da/S2_Gear_Headgear_Seashell_Bamboo_Hat.png/120px-S2_Gear_Headgear_Seashell_Bamboo_Hat.png",
+        "name": "seashell bamboo hat",
+        "brand": " inkline",
+        "cost": " 3200",
+        "ability": " quick respawn",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/e2/S2_Gear_Headgear_Sennyu_Bon_Bon_Beanie.png/120px-S2_Gear_Headgear_Sennyu_Bon_Bon_Beanie.png",
+        "name": "sennyu bon bon beanie",
+        "brand": " splash mob",
+        "cost": " corocoro comic",
+        "ability": " ink saver (sub)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/aa/S2_Gear_Headgear_Sennyu_Goggles.png/120px-S2_Gear_Headgear_Sennyu_Goggles.png",
+        "name": "sennyu goggles",
+        "brand": " forge",
+        "cost": " corocoro comic",
+        "ability": " ink resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/a6/S2_Gear_Headgear_Sennyu_Headphones.png/120px-S2_Gear_Headgear_Sennyu_Headphones.png",
+        "name": "sennyu headphones",
+        "brand": " forge",
+        "cost": " corocoro comic",
+        "ability": " ink saver (main)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/6a/S2_Gear_Headgear_Sennyu_Specs.png/120px-S2_Gear_Headgear_Sennyu_Specs.png",
+        "name": "sennyu specs",
+        "brand": " splash mob",
+        "cost": " corocoro comic",
+        "ability": " swim speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/b/bd/S2_Gear_Headgear_Short_Beanie.png/120px-S2_Gear_Headgear_Short_Beanie.png",
+        "name": "short beanie",
+        "brand": " inkline",
+        "cost": " 600",
+        "ability": " ink saver (main)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/a7/S2_Gear_Headgear_Skate_Helmet.png/120px-S2_Gear_Headgear_Skate_Helmet.png",
+        "name": "skate helmet",
+        "brand": " skalop",
+        "cost": " 2500",
+        "ability": " special saver",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/dc/S2_Gear_Headgear_Skull_Bandana.png/120px-S2_Gear_Headgear_Skull_Bandana.png",
+        "name": "skull bandana",
+        "brand": " forge",
+        "cost": " 7800",
+        "ability": " special saver",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/9/9a/S2_Gear_Headgear_Sneaky_Beanie.png/120px-S2_Gear_Headgear_Sneaky_Beanie.png",
+        "name": "sneaky beanie",
+        "brand": " skalop",
+        "cost": " 3000",
+        "ability": " swim speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/b/bd/S2_Gear_Headgear_Snorkel_Mask.png/120px-S2_Gear_Headgear_Snorkel_Mask.png",
+        "name": "snorkel mask",
+        "brand": " forge",
+        "cost": " 3000",
+        "ability": " ink saver (sub)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/c6/S2_Gear_Headgear_Soccer_Headband.png/120px-S2_Gear_Headgear_Soccer_Headband.png",
+        "name": "soccer headband",
+        "brand": " tentatek",
+        "cost": " 3000",
+        "ability": " tenacity",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/dc/S2_Gear_Headgear_Special_Forces_Beret.png/120px-S2_Gear_Headgear_Special_Forces_Beret.png",
+        "name": "special forces beret",
+        "brand": " forge",
+        "cost": " 9700",
+        "ability": " opening gambit",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/de/S2_Gear_Headgear_Splash_Goggles.png/120px-S2_Gear_Headgear_Splash_Goggles.png",
+        "name": "splash goggles",
+        "brand": " forge",
+        "cost": " 2800",
+        "ability": " bomb defense up dx",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/f0/S2_Gear_Headgear_Sporty_Bobble_Hat.png/120px-S2_Gear_Headgear_Sporty_Bobble_Hat.png",
+        "name": "sporty bobble hat",
+        "brand": " skalop",
+        "cost": " 800",
+        "ability": " tenacity",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/56/S2_Gear_Headgear_Squash_Headband.png/120px-S2_Gear_Headgear_Squash_Headband.png",
+        "name": "squash headband",
+        "brand": " zink",
+        "cost": " 400",
+        "ability": " special saver",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/7/72/S2_Gear_Headgear_Squid_Clip-Ons.png/120px-S2_Gear_Headgear_Squid_Clip-Ons.png",
+        "name": "squid clip-ons",
+        "brand": " amiibo",
+        "cost": "  inkling girl (splatoon 2)",
+        "ability": " opening gambit",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/22/S2_Gear_Headgear_Squid_Facemask.png/120px-S2_Gear_Headgear_Squid_Facemask.png",
+        "name": "squid facemask",
+        "brand": " squidforce",
+        "cost": " 300",
+        "ability": " ink saver (main)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/fa/S2_Gear_Headgear_Squid_Hairclip.png/120px-S2_Gear_Headgear_Squid_Hairclip.png",
+        "name": "squid hairclip",
+        "brand": " amiibo",
+        "cost": "  inkling girl (splatoon)",
+        "ability": " swim speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/86/S2_Gear_Headgear_Squid_Nordic.png/120px-S2_Gear_Headgear_Squid_Nordic.png",
+        "name": "squid nordic",
+        "brand": " skalop",
+        "cost": " 9500",
+        "ability": " comeback",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/df/S2_Gear_Headgear_Squid-Stitch_Cap.png/120px-S2_Gear_Headgear_Squid-Stitch_Cap.png",
+        "name": "squid-stitch cap",
+        "brand": " skalop",
+        "cost": " 8500",
+        "ability": " opening gambit",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/1/1d/S2_Gear_Headgear_Squidfin_Hook_Cans.png/120px-S2_Gear_Headgear_Squidfin_Hook_Cans.png",
+        "name": "squidfin hook cans",
+        "brand": " forge",
+        "cost": " 3800",
+        "ability": " ink resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/7/73/S2_Gear_Headgear_Squidlife_Headphones.png/120px-S2_Gear_Headgear_Squidlife_Headphones.png",
+        "name": "squidlife headphones",
+        "brand": " forge",
+        "cost": " 7070",
+        "ability": " ink recovery up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/cd/S2_Gear_Headgear_Squidvader_Cap.png/120px-S2_Gear_Headgear_Squidvader_Cap.png",
+        "name": "squidvader cap",
+        "brand": " skalop",
+        "cost": " 1300",
+        "ability": " special charge up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/e5/S2_Gear_Headgear_Squinja_Mask.png/120px-S2_Gear_Headgear_Squinja_Mask.png",
+        "name": "squinja mask",
+        "brand": " amiibo",
+        "cost": "  inkling boy (splatoon 2)",
+        "ability": " quick respawn",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/7/76/S2_Gear_Headgear_Stealth_Goggles.png/120px-S2_Gear_Headgear_Stealth_Goggles.png",
+        "name": "stealth goggles",
+        "brand": " forge",
+        "cost": " 9800",
+        "ability": " swim speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/80/S2_Gear_Headgear_Steel_Helm.png/120px-S2_Gear_Headgear_Steel_Helm.png",
+        "name": "steel helm",
+        "brand": " amiibo",
+        "cost": "  octoling boy",
+        "ability": " special charge up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/d9/S2_Gear_Headgear_Straw_Boater.png/120px-S2_Gear_Headgear_Straw_Boater.png",
+        "name": "straw boater",
+        "brand": " skalop",
+        "cost": " 550",
+        "ability": " quick super jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/32/S2_Gear_Headgear_Streetstyle_Cap.png/120px-S2_Gear_Headgear_Streetstyle_Cap.png",
+        "name": "streetstyle cap",
+        "brand": " skalop",
+        "cost": " 600",
+        "ability": " ink saver (sub)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/c5/S2_Gear_Headgear_Striped_Beanie.png/120px-S2_Gear_Headgear_Striped_Beanie.png",
+        "name": "striped beanie",
+        "brand": " splash mob",
+        "cost": " 900",
+        "ability": " opening gambit",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/62/S2_Gear_Headgear_Studio_Headphones.png/120px-S2_Gear_Headgear_Studio_Headphones.png",
+        "name": "studio headphones",
+        "brand": " forge",
+        "cost": " 2800",
+        "ability": " ink saver (main)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/cc/S2_Gear_Headgear_Studio_Octophones.png/120px-S2_Gear_Headgear_Studio_Octophones.png",
+        "name": "studio octophones",
+        "brand": " cuttlegear",
+        "cost": " octo expansion",
+        "ability": " ink recovery up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/45/S2_Gear_Headgear_Sun_Visor.png/120px-S2_Gear_Headgear_Sun_Visor.png",
+        "name": "sun visor",
+        "brand": " tentatek",
+        "cost": " 2600",
+        "ability": " sub power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/6a/S2_Gear_Headgear_SV925_Circle_Shades.png/120px-S2_Gear_Headgear_SV925_Circle_Shades.png",
+        "name": "sv925 circle shades",
+        "brand": " rockenberg",
+        "cost": " 11000",
+        "ability": " swim speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/25/S2_Gear_Headgear_Swim_Goggles.png/120px-S2_Gear_Headgear_Swim_Goggles.png",
+        "name": "swim goggles",
+        "brand": " zink",
+        "cost": " 100",
+        "ability": " last-ditch effort",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/6a/S2_Gear_Headgear_Takoroka_Mesh.png/120px-S2_Gear_Headgear_Takoroka_Mesh.png",
+        "name": "takoroka mesh",
+        "brand": " takoroka",
+        "cost": " 400",
+        "ability": " bomb defense up dx",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/b/ba/S2_Gear_Headgear_Takoroka_Visor.png/120px-S2_Gear_Headgear_Takoroka_Visor.png",
+        "name": "takoroka visor",
+        "brand": " takoroka",
+        "cost": " 7500",
+        "ability": " quick super jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/b/b5/S2_Gear_Headgear_Tennis_Headband.png/120px-S2_Gear_Headgear_Tennis_Headband.png",
+        "name": "tennis headband",
+        "brand": " tentatek",
+        "cost": " 300",
+        "ability": " comeback",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/e0/S2_Gear_Headgear_Tinted_Shades.png/120px-S2_Gear_Headgear_Tinted_Shades.png",
+        "name": "tinted shades",
+        "brand": " zekko",
+        "cost": " 350",
+        "ability": " last-ditch effort",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/d3/S2_Gear_Headgear_Toni_Kensa_Goggles.png/120px-S2_Gear_Headgear_Toni_Kensa_Goggles.png",
+        "name": "toni kensa goggles",
+        "brand": " toni kensa",
+        "cost": " 200",
+        "ability": " comeback",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/c4/S2_Gear_Headgear_Treasure_Hunter.png/120px-S2_Gear_Headgear_Treasure_Hunter.png",
+        "name": "treasure hunter",
+        "brand": " forge",
+        "cost": " 3000",
+        "ability": " ink recovery up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/58/S2_Gear_Headgear_Tulip_Parasol.png/120px-S2_Gear_Headgear_Tulip_Parasol.png",
+        "name": "tulip parasol",
+        "brand": " inkline",
+        "cost": " 1280",
+        "ability": " ink resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/f2/S2_Gear_Headgear_Twisty_Headband.png/120px-S2_Gear_Headgear_Twisty_Headband.png",
+        "name": "twisty headband",
+        "brand": " squidforce",
+        "cost": " nintendo switch news",
+        "ability": " special power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/a7/S2_Gear_Headgear_Two-Stripe_Mesh.png/120px-S2_Gear_Headgear_Two-Stripe_Mesh.png",
+        "name": "two-stripe mesh",
+        "brand": " krak-on",
+        "cost": " 700",
+        "ability": " special saver",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/a1/S2_Gear_Headgear_Urchins_Cap.png/120px-S2_Gear_Headgear_Urchins_Cap.png",
+        "name": "urchins cap",
+        "brand": " skalop",
+        "cost": " 600",
+        "ability": " sub power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/5d/S2_Gear_Headgear_Visor_Skate_Helmet.png/120px-S2_Gear_Headgear_Visor_Skate_Helmet.png",
+        "name": "visor skate helmet",
+        "brand": " skalop",
+        "cost": " 8000",
+        "ability": " last-ditch effort",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/d8/S2_Gear_Headgear_Welding_Mask.png/120px-S2_Gear_Headgear_Welding_Mask.png",
+        "name": "welding mask",
+        "brand": " grizzco",
+        "cost": " salmon run",
+        "ability": "",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/f3/S2_Gear_Headgear_White_Arrowbands.png/120px-S2_Gear_Headgear_White_Arrowbands.png",
+        "name": "white arrowbands",
+        "brand": " zekko",
+        "cost": " 8000",
+        "ability": " special power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/82/S2_Gear_Headgear_White_Headband.png/120px-S2_Gear_Headgear_White_Headband.png",
+        "name": "white headband",
+        "brand": " squidforce",
+        "cost": "",
+        "ability": " ink recovery up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/f6/S2_Gear_Headgear_Woolly_Urchins_Classic.png/120px-S2_Gear_Headgear_Woolly_Urchins_Classic.png",
+        "name": "woolly urchins classic",
+        "brand": " krak-on",
+        "cost": " 3800",
+        "ability": " comeback",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/6d/S2_Gear_Headgear_Worker%27s_Cap.png/120px-S2_Gear_Headgear_Worker%27s_Cap.png",
+        "name": "workers cap‎",
+        "brand": " grizzco",
+        "cost": " salmon run",
+        "ability": "",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/07/S2_Gear_Headgear_Worker%27s_Head_Towel.png/120px-S2_Gear_Headgear_Worker%27s_Head_Towel.png",
+        "name": "workers head towel‎",
+        "brand": " grizzco",
+        "cost": " salmon run",
+        "ability": "",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/e8/S2_Gear_Headgear_Yamagiri_Beanie.png/120px-S2_Gear_Headgear_Yamagiri_Beanie.png",
+        "name": "yamagiri beanie",
+        "brand": " inkline",
+        "cost": " 1280",
+        "ability": " main power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/6b/S2_Gear_Headgear_Zekko_Cap.png/120px-S2_Gear_Headgear_Zekko_Cap.png",
+        "name": "zekko cap",
+        "brand": " zekko",
+        "cost": " 2700",
+        "ability": " opening gambit",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/eb/S2_Gear_Headgear_Zekko_Mesh.png/120px-S2_Gear_Headgear_Zekko_Mesh.png",
+        "name": "zekko mesh",
+        "brand": " zekko",
+        "cost": " 500",
+        "ability": " quick super jump",
+        "rarity": "0"
+    }
+]

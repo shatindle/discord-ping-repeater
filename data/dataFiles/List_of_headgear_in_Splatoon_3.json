@@ -1,0 +1,2058 @@
+[
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/2b/S3_Gear_Headgear_360_All-Scopes.png/120px-S3_Gear_Headgear_360_All-Scopes.png",
+        "name": "360 all-scopes",
+        "brand": " grizzco",
+        "cost": " salmon run next wave",
+        "ability": "",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/1/1e/S3_Gear_Headgear_3D_Glasses.png/120px-S3_Gear_Headgear_3D_Glasses.png",
+        "name": "3d glasses",
+        "brand": " grizzco",
+        "cost": " salmon run next wave",
+        "ability": "",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/9/99/S3_Gear_Headgear_Air_Gills_DX.png/120px-S3_Gear_Headgear_Air_Gills_DX.png",
+        "name": "air gills dx",
+        "brand": " squidforce",
+        "cost": " 825",
+        "ability": " tenacity",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/2d/S3_Gear_Headgear_Anglerfish_Knit.png/120px-S3_Gear_Headgear_Anglerfish_Knit.png",
+        "name": "anglerfish knit",
+        "brand": " skalop",
+        "cost": " 3,000",
+        "ability": " comeback",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/ff/S3_Gear_Headgear_Anglerfish_Mask.png/120px-S3_Gear_Headgear_Anglerfish_Mask.png",
+        "name": "anglerfish mask",
+        "brand": " squidforce",
+        "cost": " switch news channel",
+        "ability": " ink saver (main)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/83/S3_Gear_Headgear_Annaki_Beret.png/120px-S3_Gear_Headgear_Annaki_Beret.png",
+        "name": "annaki beret",
+        "brand": " annaki",
+        "cost": " 11,500",
+        "ability": " ink resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/21/S3_Gear_Headgear_Annaki_Beret_%26_Glasses.png/120px-S3_Gear_Headgear_Annaki_Beret_%26_Glasses.png",
+        "name": "annaki beret & glasses",
+        "brand": " annaki",
+        "cost": " 7,850",
+        "ability": " ink saver (main)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/1/15/S3_Gear_Headgear_Annaki_Charms.png/120px-S3_Gear_Headgear_Annaki_Charms.png",
+        "name": "annaki charms",
+        "brand": " annaki",
+        "cost": " 777",
+        "ability": " swim speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/ec/S3_Gear_Headgear_Annaki_Mask.png/120px-S3_Gear_Headgear_Annaki_Mask.png",
+        "name": "annaki mask",
+        "brand": " annaki",
+        "cost": " 3,600",
+        "ability": " opening gambit",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/34/S3_Gear_Headgear_Armor_Helmet_Replica.png/120px-S3_Gear_Headgear_Armor_Helmet_Replica.png",
+        "name": "armor helmet replica",
+        "brand": " cuttlegear",
+        "cost": "  marie",
+        "ability": " tenacity",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/3c/S3_Gear_Headgear_Astro_Helm.png/120px-S3_Gear_Headgear_Astro_Helm.png",
+        "name": "astro helm",
+        "brand": " grizzco",
+        "cost": " salmon run next wave",
+        "ability": "",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/b/b3/S3_Gear_Headgear_Aux_Boxes.png/120px-S3_Gear_Headgear_Aux_Boxes.png",
+        "name": "aux boxes",
+        "brand": " forge",
+        "cost": " 3,000",
+        "ability": " special charge up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/ee/S3_Gear_Headgear_Away-Team_Catcher.png/120px-S3_Gear_Headgear_Away-Team_Catcher.png",
+        "name": "away-team catcher",
+        "brand": " forge",
+        "cost": " 7,700",
+        "ability": " last-ditch effort",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/a7/S3_Gear_Headgear_B-ball_Headband.png/120px-S3_Gear_Headgear_B-ball_Headband.png",
+        "name": "b-ball headband",
+        "brand": " zink",
+        "cost": " 300",
+        "ability": " opening gambit",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/fc/S3_Gear_Headgear_Backward_Cap.png/120px-S3_Gear_Headgear_Backward_Cap.png",
+        "name": "backward cap",
+        "brand": " zekko",
+        "cost": " 700",
+        "ability": " quick respawn",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/7/75/S3_Gear_Headgear_Bamboo_Hat.png/120px-S3_Gear_Headgear_Bamboo_Hat.png",
+        "name": "bamboo hat",
+        "brand": " inkline",
+        "cost": " 2,200",
+        "ability": " ink saver (main)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/dc/S3_Gear_Headgear_Barrelfish_Baseball_Hat.png/120px-S3_Gear_Headgear_Barrelfish_Baseball_Hat.png",
+        "name": "barrelfish baseball hat",
+        "brand": " skalop",
+        "cost": " 11,500",
+        "ability": " ink saver (main)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/5b/S3_Gear_Headgear_Barrelfish_Headgear.png/120px-S3_Gear_Headgear_Barrelfish_Headgear.png",
+        "name": "barrelfish headgear",
+        "brand": " forge",
+        "cost": " 10,500",
+        "ability": " run speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/50/S3_Gear_Headgear_Barrelfish_Home_Helmet.png/120px-S3_Gear_Headgear_Barrelfish_Home_Helmet.png",
+        "name": "barrelfish home helmet",
+        "brand": " forge",
+        "cost": " 3,500",
+        "ability": " run speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/fe/S3_Gear_Headgear_Beachcomber.png/120px-S3_Gear_Headgear_Beachcomber.png",
+        "name": "beachcomber",
+        "brand": " inkline",
+        "cost": " 9,800",
+        "ability": " opening gambit",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/1/19/S3_Gear_Headgear_Beekeeper_Hat.png/120px-S3_Gear_Headgear_Beekeeper_Hat.png",
+        "name": "beekeeper hat",
+        "brand": " grizzco",
+        "cost": " 100",
+        "ability": " intensify action",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/51/S3_Gear_Headgear_Bike_Helmet.png/120px-S3_Gear_Headgear_Bike_Helmet.png",
+        "name": "bike helmet",
+        "brand": " skalop",
+        "cost": " 4,800",
+        "ability": " ink recovery up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/dd/S3_Gear_Headgear_Black_Arrowbands.png/120px-S3_Gear_Headgear_Black_Arrowbands.png",
+        "name": "black arrowbands",
+        "brand": " zekko",
+        "cost": " 2,800",
+        "ability": " tenacity",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/f0/S3_Gear_Headgear_Black_FishFry_Bandana.png/120px-S3_Gear_Headgear_Black_FishFry_Bandana.png",
+        "name": "black fishfry bandana",
+        "brand": " firefin",
+        "cost": " 1,250",
+        "ability": " sub resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/7/7f/S3_Gear_Headgear_Bleak_Beak.png/120px-S3_Gear_Headgear_Bleak_Beak.png",
+        "name": "bleak beak",
+        "brand": " squidforce",
+        "cost": " switch news channel",
+        "ability": " quick super jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/1/17/S3_Gear_Headgear_BlobMob_Mask.png/120px-S3_Gear_Headgear_BlobMob_Mask.png",
+        "name": "blobmob mask",
+        "brand": " emberz",
+        "cost": " 825",
+        "ability": " tenacity",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/43/S3_Gear_Headgear_Blowfish_Bell_Hat.png/120px-S3_Gear_Headgear_Blowfish_Bell_Hat.png",
+        "name": "blowfish bell hat",
+        "brand": " firefin",
+        "cost": " 850",
+        "ability": " ink recovery up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/40/S3_Gear_Headgear_Blowfish_Newsie.png/120px-S3_Gear_Headgear_Blowfish_Newsie.png",
+        "name": "blowfish newsie",
+        "brand": " firefin",
+        "cost": " 4,200",
+        "ability": " quick super jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/06/S3_Gear_Headgear_Bobble_Hat.png/120px-S3_Gear_Headgear_Bobble_Hat.png",
+        "name": "bobble hat",
+        "brand": " splash mob",
+        "cost": " 2,000",
+        "ability": " quick super jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/e9/S3_Gear_Headgear_Boss_Floss.png/120px-S3_Gear_Headgear_Boss_Floss.png",
+        "name": "boss floss",
+        "brand": " amiibo",
+        "cost": "  inkling (splatoon 3)",
+        "ability": " intensify action",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/0a/S3_Gear_Headgear_Brain_Strainer.png/120px-S3_Gear_Headgear_Brain_Strainer.png",
+        "name": "brain strainer",
+        "brand": " grizzco",
+        "cost": " salmon run next wave",
+        "ability": "",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/6d/S3_Gear_Headgear_Bream-Brim_Cap.png/120px-S3_Gear_Headgear_Bream-Brim_Cap.png",
+        "name": "bream-brim cap",
+        "brand": " grizzco",
+        "cost": " salmon run next wave",
+        "ability": "",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/39/S3_Gear_Headgear_Bucket_Hat.png/120px-S3_Gear_Headgear_Bucket_Hat.png",
+        "name": "bucket hat",
+        "brand": " squidforce",
+        "cost": " 400",
+        "ability": " special saver",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/09/S3_Gear_Headgear_Camo_Mesh.png/120px-S3_Gear_Headgear_Camo_Mesh.png",
+        "name": "camo mesh",
+        "brand": " firefin",
+        "cost": " 1,400",
+        "ability": " swim speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/68/S3_Gear_Headgear_Camping_Hat.png/120px-S3_Gear_Headgear_Camping_Hat.png",
+        "name": "camping hat",
+        "brand": " inkline",
+        "cost": " 800",
+        "ability": " special power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/ff/S3_Gear_Headgear_Cap_of_Legend.png/120px-S3_Gear_Headgear_Cap_of_Legend.png",
+        "name": "cap of legend",
+        "brand": " grizzco",
+        "cost": " 30",
+        "ability": " last-ditch effort",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/57/S3_Gear_Headgear_Cap%27n_Cap.png/120px-S3_Gear_Headgear_Cap%27n_Cap.png",
+        "name": "capn cap",
+        "brand": " splash mob",
+        "cost": " 10,500",
+        "ability": " quick respawn",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/d3/S3_Gear_Headgear_Captain%27s_Cap_Replica.png/120px-S3_Gear_Headgear_Captain%27s_Cap_Replica.png",
+        "name": "captains cap replica",
+        "brand": " cuttlegear",
+        "cost": "  marie (alterna)",
+        "ability": " ink resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/06/S3_Gear_Headgear_Cartoony_Funface.png/120px-S3_Gear_Headgear_Cartoony_Funface.png",
+        "name": "cartoony funface",
+        "brand": " squidforce",
+        "cost": " switch news channel",
+        "ability": " last-ditch effort",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/f9/S3_Gear_Headgear_Cephalo_Pods.png/120px-S3_Gear_Headgear_Cephalo_Pods.png",
+        "name": "cephalo pods",
+        "brand": " forge",
+        "cost": " 1,980",
+        "ability": " ink recovery up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/7/7f/S3_Gear_Headgear_Chaos_Helm.png/120px-S3_Gear_Headgear_Chaos_Helm.png",
+        "name": "chaos helm",
+        "brand": " amiibo",
+        "cost": "  smallfry",
+        "ability": " special power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/9/98/S3_Gear_Headgear_Classic_Bowler.png/120px-S3_Gear_Headgear_Classic_Bowler.png",
+        "name": "classic bowler",
+        "brand": " splash mob",
+        "cost": " 3,000",
+        "ability": " run speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/1/10/S3_Gear_Headgear_Classic_Straw_Boater.png/120px-S3_Gear_Headgear_Classic_Straw_Boater.png",
+        "name": "classic straw boater",
+        "brand": " skalop",
+        "cost": " 1,500",
+        "ability": " special power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/a9/S3_Gear_Headgear_Clue-Detecting_Cap.png/120px-S3_Gear_Headgear_Clue-Detecting_Cap.png",
+        "name": "clue-detecting cap",
+        "brand": " rockenberg",
+        "cost": " 5,000",
+        "ability": " ink saver (sub)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/b/bb/S3_Gear_Headgear_Commander_Cap.png/120px-S3_Gear_Headgear_Commander_Cap.png",
+        "name": "commander cap",
+        "brand": " grizzco",
+        "cost": " salmon run next wave",
+        "ability": "",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/c7/S3_Gear_Headgear_Controller_VM.png/120px-S3_Gear_Headgear_Controller_VM.png",
+        "name": "controller vm",
+        "brand": " cuttlegear",
+        "cost": " 333",
+        "ability": " ink resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/9/98/S3_Gear_Headgear_Coral_Cap.png/120px-S3_Gear_Headgear_Coral_Cap.png",
+        "name": "coral cap",
+        "brand": " skalop",
+        "cost": " 1,000",
+        "ability": " ink saver (main)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/d9/S3_Gear_Headgear_Coral_Wreath.png/120px-S3_Gear_Headgear_Coral_Wreath.png",
+        "name": "coral wreath",
+        "brand": " squidforce",
+        "cost": " switch news channel",
+        "ability": " sub resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/48/S3_Gear_Headgear_Cowfish_Funface.png/120px-S3_Gear_Headgear_Cowfish_Funface.png",
+        "name": "cowfish funface",
+        "brand": " squidforce",
+        "cost": " switch news channel",
+        "ability": " ink saver (sub)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/c5/S3_Gear_Headgear_Crust_Bucket_Visor.png/120px-S3_Gear_Headgear_Crust_Bucket_Visor.png",
+        "name": "crust bucket visor",
+        "brand": " squidforce",
+        "cost": " 1,200",
+        "ability": " quick super jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/06/S3_Gear_Headgear_Cycle_King_Cap.png/120px-S3_Gear_Headgear_Cycle_King_Cap.png",
+        "name": "cycle king cap",
+        "brand": " tentatek",
+        "cost": " 2,400",
+        "ability": " sub resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/a1/S3_Gear_Headgear_Cycling_Cap.png/120px-S3_Gear_Headgear_Cycling_Cap.png",
+        "name": "cycling cap",
+        "brand": " zink",
+        "cost": " 800",
+        "ability": " sub power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/7/78/S3_Gear_Headgear_Dapperdasher_Hat.png/120px-S3_Gear_Headgear_Dapperdasher_Hat.png",
+        "name": "dapperdasher hat",
+        "brand": " squidforce",
+        "cost": " switch news channel",
+        "ability": " sub power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/eb/S3_Gear_Headgear_Deca_Tackle_Visor_Helmet.png/120px-S3_Gear_Headgear_Deca_Tackle_Visor_Helmet.png",
+        "name": "deca tackle visor helmet",
+        "brand": " forge",
+        "cost": " 10,100",
+        "ability": " sub power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/0c/S3_Gear_Headgear_Deep_Sinker_Helm.png/120px-S3_Gear_Headgear_Deep_Sinker_Helm.png",
+        "name": "deep sinker helm",
+        "brand": " grizzco",
+        "cost": " salmon run next wave",
+        "ability": "",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/d7/S3_Gear_Headgear_Deluxury_Sleep_Mask.png/120px-S3_Gear_Headgear_Deluxury_Sleep_Mask.png",
+        "name": "deluxury sleep mask",
+        "brand": " emberz",
+        "cost": " 1,200",
+        "ability": " quick respawn",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/d8/S3_Gear_Headgear_Designer_Headphones.png/120px-S3_Gear_Headgear_Designer_Headphones.png",
+        "name": "designer headphones",
+        "brand": " forge",
+        "cost": " 2,500",
+        "ability": " ink saver (sub)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/26/S3_Gear_Headgear_Digi-Camo_Forge_Mask.png/120px-S3_Gear_Headgear_Digi-Camo_Forge_Mask.png",
+        "name": "digi-camo forge mask",
+        "brand": " forge",
+        "cost": " 1,800",
+        "ability": " swim speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/9/99/S3_Gear_Headgear_Do-Rag%2C_Cap_%26_Glasses.png/120px-S3_Gear_Headgear_Do-Rag%2C_Cap_%26_Glasses.png",
+        "name": "do-rag, cap & glasses",
+        "brand": " skalop",
+        "cost": " 9,500",
+        "ability": " intensify action",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/3d/S3_Gear_Headgear_Double_Egg_Shades.png/120px-S3_Gear_Headgear_Double_Egg_Shades.png",
+        "name": "double egg shades",
+        "brand": " zekko",
+        "cost": " 2,200",
+        "ability": " run speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/06/S3_Gear_Headgear_Dust_Blocker_2000.png/120px-S3_Gear_Headgear_Dust_Blocker_2000.png",
+        "name": "dust blocker 2000",
+        "brand": " grizzco",
+        "cost": " 800",
+        "ability": " sub resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/07/S3_Gear_Headgear_Dustcloud_%27Phones.png/120px-S3_Gear_Headgear_Dustcloud_%27Phones.png",
+        "name": "dustcloud phones",
+        "brand": " z+f",
+        "cost": " 2,500",
+        "ability": " ink recovery up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/33/S3_Gear_Headgear_Dustcloud_Cap.png/120px-S3_Gear_Headgear_Dustcloud_Cap.png",
+        "name": "dustcloud cap",
+        "brand": " z+f",
+        "cost": " 7,800",
+        "ability": " run speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/a4/S3_Gear_Headgear_Eel-Cake_Hat.png/120px-S3_Gear_Headgear_Eel-Cake_Hat.png",
+        "name": "eel-cake hat",
+        "brand": " squidforce",
+        "cost": " switch news channel",
+        "ability": " quick respawn",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/80/S3_Gear_Headgear_El_Rey_Calamar.png/120px-S3_Gear_Headgear_El_Rey_Calamar.png",
+        "name": "el rey calamar",
+        "brand": " grizzco",
+        "cost": " salmon run next wave",
+        "ability": "",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/4e/S3_Gear_Headgear_Enchanted_Hat.png/120px-S3_Gear_Headgear_Enchanted_Hat.png",
+        "name": "enchanted hat",
+        "brand": " amiibo",
+        "cost": "  octoling girl",
+        "ability": " ink saver (main)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/59/S3_Gear_Headgear_Face_Visor.png/120px-S3_Gear_Headgear_Face_Visor.png",
+        "name": "face visor",
+        "brand": " toni kensa",
+        "cost": " 10,300",
+        "ability": " sub resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/4b/S3_Gear_Headgear_Fake_Contacts.png/120px-S3_Gear_Headgear_Fake_Contacts.png",
+        "name": "fake contacts",
+        "brand": " tentatek",
+        "cost": " 2,000",
+        "ability": " special charge up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/51/S3_Gear_Headgear_Festive_Party_Cone.png/120px-S3_Gear_Headgear_Festive_Party_Cone.png",
+        "name": "festive party cone",
+        "brand": " squidforce",
+        "cost": " switch news channel",
+        "ability": " intensify action",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/89/S3_Gear_Headgear_Firefin_Facemask.png/120px-S3_Gear_Headgear_Firefin_Facemask.png",
+        "name": "firefin facemask",
+        "brand": " firefin",
+        "cost": " 650",
+        "ability": " run speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/f3/S3_Gear_Headgear_FishFry_Biscuit_Bandana.png/120px-S3_Gear_Headgear_FishFry_Biscuit_Bandana.png",
+        "name": "fishfry biscuit bandana",
+        "brand": " firefin",
+        "cost": " 1,250",
+        "ability": " special power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/51/S3_Gear_Headgear_FishFry_Visor.png/120px-S3_Gear_Headgear_FishFry_Visor.png",
+        "name": "fishfry visor",
+        "brand": " firefin",
+        "cost": " 500",
+        "ability": " special charge up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/b/b5/S3_Gear_Headgear_Five-Alarm_Helmet.png/120px-S3_Gear_Headgear_Five-Alarm_Helmet.png",
+        "name": "five-alarm helmet",
+        "brand": " grizzco",
+        "cost": " salmon run next wave",
+        "ability": "",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/43/S3_Gear_Headgear_Five-Panel_Cap.png/120px-S3_Gear_Headgear_Five-Panel_Cap.png",
+        "name": "five-panel cap",
+        "brand": " zekko",
+        "cost": " 1,800",
+        "ability": " comeback",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/24/S3_Gear_Headgear_Flounder_Flap_Cap.png/120px-S3_Gear_Headgear_Flounder_Flap_Cap.png",
+        "name": "flounder flap cap",
+        "brand": " rockenberg",
+        "cost": " 9,000",
+        "ability": " ink saver (main)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/7/75/S3_Gear_Headgear_Forge_Mask.png/120px-S3_Gear_Headgear_Forge_Mask.png",
+        "name": "forge mask",
+        "brand": " forge",
+        "cost": " 1,400",
+        "ability": " intensify action",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/c8/S3_Gear_Headgear_Fox_Funface.png/120px-S3_Gear_Headgear_Fox_Funface.png",
+        "name": "fox funface",
+        "brand": " squidforce",
+        "cost": " switch news channel",
+        "ability": " swim speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/32/S3_Gear_Headgear_Fresh_Fish_Head.png/120px-S3_Gear_Headgear_Fresh_Fish_Head.png",
+        "name": "fresh fish head",
+        "brand": " amiibo",
+        "cost": "  octoling octopus",
+        "ability": " comeback",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/ef/S3_Gear_Headgear_Fugu_Bell_Hat.png/120px-S3_Gear_Headgear_Fugu_Bell_Hat.png",
+        "name": "fugu bell hat",
+        "brand": " firefin",
+        "cost": " 1,700",
+        "ability": " quick respawn",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/37/S3_Gear_Headgear_Full-Moon_Glasses.png/120px-S3_Gear_Headgear_Full-Moon_Glasses.png",
+        "name": "full-moon glasses",
+        "brand": " krak-on",
+        "cost": " 600",
+        "ability": " quick super jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/a7/S3_Gear_Headgear_Gas_Mask.png/120px-S3_Gear_Headgear_Gas_Mask.png",
+        "name": "gas mask",
+        "brand": " forge",
+        "cost": " 11,000",
+        "ability": " tenacity",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/5a/S3_Gear_Headgear_Glam_Clam_Specs.png/120px-S3_Gear_Headgear_Glam_Clam_Specs.png",
+        "name": "glam clam specs",
+        "brand": " splash mob",
+        "cost": " 10,000",
+        "ability": " special saver",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/63/S3_Gear_Headgear_Glassless_Glasses.png/120px-S3_Gear_Headgear_Glassless_Glasses.png",
+        "name": "glassless glasses",
+        "brand": " toni kensa",
+        "cost": " 11,000",
+        "ability": " quick respawn",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/c8/S3_Gear_Headgear_Golden_Gala_Masque.png/120px-S3_Gear_Headgear_Golden_Gala_Masque.png",
+        "name": "golden gala masque",
+        "brand": " squidforce",
+        "cost": " switch news channel",
+        "ability": " tenacity",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/5b/S3_Gear_Headgear_Golf_Visor.png/120px-S3_Gear_Headgear_Golf_Visor.png",
+        "name": "golf visor",
+        "brand": " zink",
+        "cost": " 400",
+        "ability": " run speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/c7/S3_Gear_Headgear_Green_Pinhole_Shades.png/120px-S3_Gear_Headgear_Green_Pinhole_Shades.png",
+        "name": "green pinhole shades",
+        "brand": " squidforce",
+        "cost": " switch news channel",
+        "ability": " ink saver (sub)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/d8/S3_Gear_Headgear_Half-Rim_Glasses.png/120px-S3_Gear_Headgear_Half-Rim_Glasses.png",
+        "name": "half-rim glasses",
+        "brand": " splash mob",
+        "cost": " 4,100",
+        "ability": " special power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/3f/S3_Gear_Headgear_Hard_Hat_Replica.png/120px-S3_Gear_Headgear_Hard_Hat_Replica.png",
+        "name": "hard hat replica",
+        "brand": " grizzco",
+        "cost": " salmon run next wave",
+        "ability": "",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/46/S3_Gear_Headgear_Hat-Trick_Bell_Hat.png/120px-S3_Gear_Headgear_Hat-Trick_Bell_Hat.png",
+        "name": "hat-trick bell hat",
+        "brand": " z+f",
+        "cost": " 9,333",
+        "ability": " ink resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/01/S3_Gear_Headgear_Headlamp_Hat.png/120px-S3_Gear_Headgear_Headlamp_Hat.png",
+        "name": "headlamp hat",
+        "brand": " inkline",
+        "cost": " 5,000",
+        "ability": " ink saver (sub)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/64/S3_Gear_Headgear_Headlamp_Helmet.png/120px-S3_Gear_Headgear_Headlamp_Helmet.png",
+        "name": "headlamp helmet",
+        "brand": " grizzco",
+        "cost": " 300",
+        "ability": " special power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/2b/S3_Gear_Headgear_Hero_Grip_Replica.png/120px-S3_Gear_Headgear_Hero_Grip_Replica.png",
+        "name": "hero grip replica",
+        "brand": " cuttlegear",
+        "cost": "  callie (alterna)",
+        "ability": " last-ditch effort",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/c2/S3_Gear_Headgear_Hero_Headset_Replica.png/120px-S3_Gear_Headgear_Hero_Headset_Replica.png",
+        "name": "hero headset replica",
+        "brand": " cuttlegear",
+        "cost": "  callie",
+        "ability": " run speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/1/10/S3_Gear_Headgear_Hero_Mindset_Replica.png/120px-S3_Gear_Headgear_Hero_Mindset_Replica.png",
+        "name": "hero mindset replica",
+        "brand": " cuttlegear",
+        "cost": " return of the mammalians",
+        "ability": " sub power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/c2/S3_Gear_Headgear_Hickory_Work_Cap.png/120px-S3_Gear_Headgear_Hickory_Work_Cap.png",
+        "name": "hickory work cap",
+        "brand": " krak-on",
+        "cost": " 8,700",
+        "ability": " special power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/7/75/S3_Gear_Headgear_Hipster_Horn-Rims.png/120px-S3_Gear_Headgear_Hipster_Horn-Rims.png",
+        "name": "hipster horn-rims",
+        "brand": " splash mob",
+        "cost": " 11,200",
+        "ability": " sub resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/b/b1/S3_Gear_Headgear_Hockey_Helmet.png/120px-S3_Gear_Headgear_Hockey_Helmet.png",
+        "name": "hockey helmet",
+        "brand": " forge",
+        "cost": " 9,900",
+        "ability": " intensify action",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/a0/S3_Gear_Headgear_Hockey_Mask.png/120px-S3_Gear_Headgear_Hockey_Mask.png",
+        "name": "hockey mask",
+        "brand": " squidforce",
+        "cost": " switch news channel",
+        "ability": " ink recovery up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/fc/S3_Gear_Headgear_Hohojiro_Mask.png/120px-S3_Gear_Headgear_Hohojiro_Mask.png",
+        "name": "hohojiro mask",
+        "brand": " amiibo",
+        "cost": "  shiver",
+        "ability": " sub power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/da/S3_Gear_Headgear_Home-Team_Catcher.png/120px-S3_Gear_Headgear_Home-Team_Catcher.png",
+        "name": "home-team catcher",
+        "brand": " forge",
+        "cost": " 1,960",
+        "ability": " ink resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/8a/S3_Gear_Headgear_Hothouse_Hat.png/120px-S3_Gear_Headgear_Hothouse_Hat.png",
+        "name": "hothouse hat",
+        "brand": " skalop",
+        "cost": " 3,680",
+        "ability": " ink resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/00/S3_Gear_Headgear_House-Tag_Denim_Cap.png/120px-S3_Gear_Headgear_House-Tag_Denim_Cap.png",
+        "name": "house-tag denim cap",
+        "brand": " splash mob",
+        "cost": " 5,200",
+        "ability": " special charge up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/5a/S3_Gear_Headgear_Howdy_Hat.png/120px-S3_Gear_Headgear_Howdy_Hat.png",
+        "name": "howdy hat",
+        "brand": " rockenberg",
+        "cost": " 13,000",
+        "ability": " sub resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/9/9d/S3_Gear_Headgear_Ink-Black_Flap_Cap.png/120px-S3_Gear_Headgear_Ink-Black_Flap_Cap.png",
+        "name": "ink-black flap cap",
+        "brand": " barazushi",
+        "cost": " 11,200",
+        "ability": " special power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/b/b8/S3_Gear_Headgear_Ink-Guard_Goggles.png/120px-S3_Gear_Headgear_Ink-Guard_Goggles.png",
+        "name": "ink-guard goggles",
+        "brand": " toni kensa",
+        "cost": " 9,600",
+        "ability": " run speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/6f/S3_Gear_Headgear_Ink-Tinted_Goggles.png/120px-S3_Gear_Headgear_Ink-Tinted_Goggles.png",
+        "name": "ink-tinted goggles",
+        "brand": " emberz",
+        "cost": " 10,500",
+        "ability": " swim speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/b/ba/S3_Gear_Headgear_Invisifloats.png/120px-S3_Gear_Headgear_Invisifloats.png",
+        "name": "invisifloats",
+        "brand": " inkline",
+        "cost": " 2,780",
+        "ability": " comeback",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/5e/S3_Gear_Headgear_Jean_Dream_Bucket.png/120px-S3_Gear_Headgear_Jean_Dream_Bucket.png",
+        "name": "jean dream bucket",
+        "brand": " splash mob",
+        "cost": " 2,100",
+        "ability": " ink recovery up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/2a/S3_Gear_Headgear_Jellyvader_Cap.png/120px-S3_Gear_Headgear_Jellyvader_Cap.png",
+        "name": "jellyvader cap",
+        "brand": " skalop",
+        "cost": " 10,000",
+        "ability": " ink saver (sub)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/4e/S3_Gear_Headgear_Jet_Cap.png/120px-S3_Gear_Headgear_Jet_Cap.png",
+        "name": "jet cap",
+        "brand": " firefin",
+        "cost": " 700",
+        "ability": " special saver",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/02/S3_Gear_Headgear_Jogging_Headband.png/120px-S3_Gear_Headgear_Jogging_Headband.png",
+        "name": "jogging headband",
+        "brand": " zekko",
+        "cost": " 400",
+        "ability": " ink saver (sub)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/6f/S3_Gear_Headgear_Judicial_Hearing.png/120px-S3_Gear_Headgear_Judicial_Hearing.png",
+        "name": "judicial hearing",
+        "brand": " squidforce",
+        "cost": " wandercrust",
+        "ability": " opening gambit",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/1/15/S3_Gear_Headgear_Jungle_Hat.png/120px-S3_Gear_Headgear_Jungle_Hat.png",
+        "name": "jungle hat",
+        "brand": " firefin",
+        "cost": " 9,000",
+        "ability": " ink saver (main)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/c1/S3_Gear_Headgear_King_Facemask.png/120px-S3_Gear_Headgear_King_Facemask.png",
+        "name": "king facemask",
+        "brand": " enperry",
+        "cost": " 500",
+        "ability": " ink saver (sub)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/b/b3/S3_Gear_Headgear_King_Flip_Mesh.png/120px-S3_Gear_Headgear_King_Flip_Mesh.png",
+        "name": "king flip mesh",
+        "brand": " enperry",
+        "cost": " 3,200",
+        "ability": " run speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/a2/S3_Gear_Headgear_Knitted_Hat.png/120px-S3_Gear_Headgear_Knitted_Hat.png",
+        "name": "knitted hat",
+        "brand": " firefin",
+        "cost": " 1,400",
+        "ability": " ink resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/25/S3_Gear_Headgear_Kyonshi_Hat.png/120px-S3_Gear_Headgear_Kyonshi_Hat.png",
+        "name": "kyonshi hat",
+        "brand": " squidforce",
+        "cost": " switch news channel",
+        "ability": " run speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/fa/S3_Gear_Headgear_Lightweight_Cap.png/120px-S3_Gear_Headgear_Lightweight_Cap.png",
+        "name": "lightweight cap",
+        "brand": " inkline",
+        "cost": " 800",
+        "ability": " swim speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/7/7e/S3_Gear_Headgear_Li%27l_Devil_Horns.png/120px-S3_Gear_Headgear_Li%27l_Devil_Horns.png",
+        "name": "lil devil horns",
+        "brand": " squidforce",
+        "cost": " switch news channel",
+        "ability": " ink saver (sub)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/cd/S3_Gear_Headgear_Lionfish_Funface.png/120px-S3_Gear_Headgear_Lionfish_Funface.png",
+        "name": "lionfish funface",
+        "brand": " squidforce",
+        "cost": " switch news channel",
+        "ability": " ink saver (main)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/43/S3_Gear_Headgear_Lo-Vis_Visor.png/120px-S3_Gear_Headgear_Lo-Vis_Visor.png",
+        "name": "lo-vis visor",
+        "brand": " grizzco",
+        "cost": " salmon run next wave",
+        "ability": "",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/e5/S3_Gear_Headgear_Long-Billed_Cap.png/120px-S3_Gear_Headgear_Long-Billed_Cap.png",
+        "name": "long-billed cap",
+        "brand": " krak-on",
+        "cost": " 9,800",
+        "ability": " ink recovery up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/9/97/S3_Gear_Headgear_Manta_Mask.png/120px-S3_Gear_Headgear_Manta_Mask.png",
+        "name": "manta mask",
+        "brand": " amiibo",
+        "cost": "  big man",
+        "ability": " last-ditch effort",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/5d/S3_Gear_Headgear_Marinated_Headphones.png/120px-S3_Gear_Headgear_Marinated_Headphones.png",
+        "name": "marinated headphones",
+        "brand": " amiibo",
+        "cost": "  marina",
+        "ability": " special saver",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/c8/S3_Gear_Headgear_Matte_Bike_Helmet.png/120px-S3_Gear_Headgear_Matte_Bike_Helmet.png",
+        "name": "matte bike helmet",
+        "brand": " zekko",
+        "cost": " 10,000",
+        "ability": " sub power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/49/S3_Gear_Headgear_Meetcha_Mask.png/120px-S3_Gear_Headgear_Meetcha_Mask.png",
+        "name": "meetcha mask",
+        "brand": " emberz",
+        "cost": " 500",
+        "ability": " ink recovery up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/61/S3_Gear_Headgear_Monkey-Crab_Funface.png/120px-S3_Gear_Headgear_Monkey-Crab_Funface.png",
+        "name": "monkey-crab funface",
+        "brand": " squidforce",
+        "cost": " switch news channel",
+        "ability": " ink recovery up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/9/9b/S3_Gear_Headgear_Moto_Shades.png/120px-S3_Gear_Headgear_Moto_Shades.png",
+        "name": "moto shades",
+        "brand": " barazushi",
+        "cost": " 10,200",
+        "ability": " last-ditch effort",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/e6/S3_Gear_Headgear_Motocross_Nose_Guard.png/120px-S3_Gear_Headgear_Motocross_Nose_Guard.png",
+        "name": "motocross nose guard",
+        "brand": " forge",
+        "cost": " 7,600",
+        "ability": " special charge up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/b/b4/S3_Gear_Headgear_Mountie_Hat.png/120px-S3_Gear_Headgear_Mountie_Hat.png",
+        "name": "mountie hat",
+        "brand": " inkline",
+        "cost": " 13,000",
+        "ability": " special charge up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/8f/S3_Gear_Headgear_MTB_Helmet.png/120px-S3_Gear_Headgear_MTB_Helmet.png",
+        "name": "mtb helmet",
+        "brand": " zekko",
+        "cost": " 10,500",
+        "ability": " tenacity",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/7/7b/S3_Gear_Headgear_New_Year%27s_Glasses_DX.png/120px-S3_Gear_Headgear_New_Year%27s_Glasses_DX.png",
+        "name": "new years glasses dx",
+        "brand": " squidforce",
+        "cost": " switch news channel",
+        "ability": " special charge up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/31/S3_Gear_Headgear_Noise_Cancelers.png/120px-S3_Gear_Headgear_Noise_Cancelers.png",
+        "name": "noise cancelers",
+        "brand": " forge",
+        "cost": " 9,200",
+        "ability": " quick respawn",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/3e/S3_Gear_Headgear_Now_or_Never_Barrette.png/120px-S3_Gear_Headgear_Now_or_Never_Barrette.png",
+        "name": "now or never barrette",
+        "brand": " squidforce",
+        "cost": " switch news channel",
+        "ability": " opening gambit",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/dd/S3_Gear_Headgear_Now_or_Never_Cap.png/120px-S3_Gear_Headgear_Now_or_Never_Cap.png",
+        "name": "now or never cap",
+        "brand": " squidforce",
+        "cost": " switch news channel",
+        "ability": " quick super jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/a6/S3_Gear_Headgear_Now_or_Never_Crown.png/120px-S3_Gear_Headgear_Now_or_Never_Crown.png",
+        "name": "now or never crown",
+        "brand": " squidforce",
+        "cost": " switch news channel",
+        "ability": " special power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/1/16/S3_Gear_Headgear_Now_or_Never_Earrings.png/120px-S3_Gear_Headgear_Now_or_Never_Earrings.png",
+        "name": "now or never earrings",
+        "brand": " squidforce",
+        "cost": " switch news channel",
+        "ability": " comeback",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/d0/S3_Gear_Headgear_Now_or_Never_Headdress.png/120px-S3_Gear_Headgear_Now_or_Never_Headdress.png",
+        "name": "now or never headdress",
+        "brand": " squidforce",
+        "cost": " switch news channel",
+        "ability": " intensify action",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/e8/S3_Gear_Headgear_Now_or_Never_Horns.png/120px-S3_Gear_Headgear_Now_or_Never_Horns.png",
+        "name": "now or never horns",
+        "brand": " squidforce",
+        "cost": " switch news channel",
+        "ability": " tenacity",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/37/S3_Gear_Headgear_Now_or_Never_Spikes.png/120px-S3_Gear_Headgear_Now_or_Never_Spikes.png",
+        "name": "now or never spikes",
+        "brand": " squidforce",
+        "cost": " switch news channel",
+        "ability": " sub power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/b/b6/S3_Gear_Headgear_Ocho_OctoPhones.png/120px-S3_Gear_Headgear_Ocho_OctoPhones.png",
+        "name": "ocho octophones",
+        "brand": " forge",
+        "cost": " 3,000",
+        "ability": " opening gambit",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/1/1d/S3_Gear_Headgear_Ocho_OctoPhones_Blancos.png/120px-S3_Gear_Headgear_Ocho_OctoPhones_Blancos.png",
+        "name": "ocho octophones blancos",
+        "brand": " forge",
+        "cost": " 3,000",
+        "ability": " ink saver (main)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/53/S3_Gear_Headgear_Octavio_Dome.png/120px-S3_Gear_Headgear_Octavio_Dome.png",
+        "name": "octavio dome",
+        "brand": " grizzco",
+        "cost": " salmon run next wave",
+        "ability": "",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/1/12/S3_Gear_Headgear_Octo_Tackle_Helmet_Deco.png/120px-S3_Gear_Headgear_Octo_Tackle_Helmet_Deco.png",
+        "name": "octo tackle helmet deco",
+        "brand": " forge",
+        "cost": " 8,888",
+        "ability": " sub resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/86/S3_Gear_Headgear_Octoglasses.png/120px-S3_Gear_Headgear_Octoglasses.png",
+        "name": "octoglasses",
+        "brand": " firefin",
+        "cost": " 8,800",
+        "ability": " last-ditch effort",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/06/S3_Gear_Headgear_Octoking_Facemask.png/120px-S3_Gear_Headgear_Octoking_Facemask.png",
+        "name": "octoking facemask",
+        "brand": " enperry",
+        "cost": " 1,450",
+        "ability": " tenacity",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/07/S3_Gear_Headgear_Octoleet_Goggles.png/120px-S3_Gear_Headgear_Octoleet_Goggles.png",
+        "name": "octoleet goggles",
+        "brand": " grizzco",
+        "cost": " 800",
+        "ability": " opening gambit",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/b/bf/S3_Gear_Headgear_Octopearl_Crown.png/120px-S3_Gear_Headgear_Octopearl_Crown.png",
+        "name": "octopearl crown",
+        "brand": " squidforce",
+        "cost": " switch news channel",
+        "ability": " opening gambit",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/0d/S3_Gear_Headgear_Onaga_Mask.png/120px-S3_Gear_Headgear_Onaga_Mask.png",
+        "name": "onaga mask",
+        "brand": " amiibo",
+        "cost": "  frye",
+        "ability": " run speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/f2/S3_Gear_Headgear_Order_Earring_Replica.png/120px-S3_Gear_Headgear_Order_Earring_Replica.png",
+        "name": "order earring replica",
+        "brand": " cuttlegear",
+        "cost": " side order",
+        "ability": " intensify action",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/3c/S3_Gear_Headgear_Order_Regulator_Replica.png/120px-S3_Gear_Headgear_Order_Regulator_Replica.png",
+        "name": "order regulator replica",
+        "brand": " cuttlegear",
+        "cost": " 333",
+        "ability": " special power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/4e/S3_Gear_Headgear_Paintball_Mask.png/120px-S3_Gear_Headgear_Paintball_Mask.png",
+        "name": "paintball mask",
+        "brand": " forge",
+        "cost": " 10,000",
+        "ability": " comeback",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/46/S3_Gear_Headgear_Painter%27s_Mask.png/120px-S3_Gear_Headgear_Painter%27s_Mask.png",
+        "name": "painters mask",
+        "brand": " squidforce",
+        "cost": " 4,500",
+        "ability": " intensify action",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/fc/S3_Gear_Headgear_Paisley_Bandana.png/120px-S3_Gear_Headgear_Paisley_Bandana.png",
+        "name": "paisley bandana",
+        "brand": " krak-on",
+        "cost": " 750",
+        "ability": " ink saver (sub)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/aa/S3_Gear_Headgear_Parallel_Mask.png/120px-S3_Gear_Headgear_Parallel_Mask.png",
+        "name": "parallel mask",
+        "brand": " cuttlegear",
+        "cost": " 333",
+        "ability": " special charge up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/03/S3_Gear_Headgear_Party_Hard_Hat.png/120px-S3_Gear_Headgear_Party_Hard_Hat.png",
+        "name": "party hard hat",
+        "brand": " forge",
+        "cost": " 12,000",
+        "ability": " quick super jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/a3/S3_Gear_Headgear_Patched_Hat.png/120px-S3_Gear_Headgear_Patched_Hat.png",
+        "name": "patched hat",
+        "brand": " skalop",
+        "cost": " 3,600",
+        "ability": " intensify action",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/a4/S3_Gear_Headgear_Pearl_Plushie.png/120px-S3_Gear_Headgear_Pearl_Plushie.png",
+        "name": "pearl plushie",
+        "brand": " cuttlegear",
+        "cost": " 888",
+        "ability": " swim speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/b/be/S3_Gear_Headgear_Pearlescent_Crown_L.png/120px-S3_Gear_Headgear_Pearlescent_Crown_L.png",
+        "name": "pearlescent crown l",
+        "brand": " amiibo",
+        "cost": "  pearl",
+        "ability": " sub resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/3c/S3_Gear_Headgear_Pearlescent_Crown_S.png/120px-S3_Gear_Headgear_Pearlescent_Crown_S.png",
+        "name": "pearlescent crown s",
+        "brand": " amiibo",
+        "cost": "  pearl",
+        "ability": " sub resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/f0/S3_Gear_Headgear_Pilot_Goggles.png/120px-S3_Gear_Headgear_Pilot_Goggles.png",
+        "name": "pilot goggles",
+        "brand": " forge",
+        "cost": " 5,500",
+        "ability": " sub power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/29/S3_Gear_Headgear_Pilot_Hat.png/120px-S3_Gear_Headgear_Pilot_Hat.png",
+        "name": "pilot hat",
+        "brand": " splash mob",
+        "cost": " 11,500",
+        "ability": " ink resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/e1/S3_Gear_Headgear_Pink_Pinhole_Shades.png/120px-S3_Gear_Headgear_Pink_Pinhole_Shades.png",
+        "name": "pink pinhole shades",
+        "brand": " squidforce",
+        "cost": " switch news channel",
+        "ability": " comeback",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/68/S3_Gear_Headgear_Power_Mask.png/120px-S3_Gear_Headgear_Power_Mask.png",
+        "name": "power mask",
+        "brand": " amiibo",
+        "cost": "  inkling squid (splatoon)",
+        "ability": " sub resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/09/S3_Gear_Headgear_Power_Mask_Mk_I.png/120px-S3_Gear_Headgear_Power_Mask_Mk_I.png",
+        "name": "power mask mk i",
+        "brand": " amiibo",
+        "cost": "  inkling squid (splatoon 2)",
+        "ability": " ink resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/9/90/S3_Gear_Headgear_Retro_BluFocals.png/120px-S3_Gear_Headgear_Retro_BluFocals.png",
+        "name": "retro blufocals",
+        "brand": " emberz",
+        "cost": " 11,700",
+        "ability": " intensify action",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/df/S3_Gear_Headgear_Retro_Framers.png/120px-S3_Gear_Headgear_Retro_Framers.png",
+        "name": "retro framers",
+        "brand": " enperry",
+        "cost": " 9,900",
+        "ability": " opening gambit",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/51/S3_Gear_Headgear_Retro_Future_Helmet.png/120px-S3_Gear_Headgear_Retro_Future_Helmet.png",
+        "name": "retro future helmet",
+        "brand": " grizzco",
+        "cost": " salmon run next wave",
+        "ability": "",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/22/S3_Gear_Headgear_Retro_Specs.png/120px-S3_Gear_Headgear_Retro_Specs.png",
+        "name": "retro specs",
+        "brand": " splash mob",
+        "cost": " 500",
+        "ability": " quick respawn",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/67/S3_Gear_Headgear_Safari_Hat.png/120px-S3_Gear_Headgear_Safari_Hat.png",
+        "name": "safari hat",
+        "brand": " forge",
+        "cost": " 2,300",
+        "ability": " last-ditch effort",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/ea/S3_Gear_Headgear_Sailor_Cap.png/120px-S3_Gear_Headgear_Sailor_Cap.png",
+        "name": "sailor cap",
+        "brand": " grizzco",
+        "cost": " 800",
+        "ability": " comeback",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/4a/S3_Gear_Headgear_Samurai_Helmet.png/120px-S3_Gear_Headgear_Samurai_Helmet.png",
+        "name": "samurai helmet",
+        "brand": " amiibo",
+        "cost": "  inkling boy (splatoon)",
+        "ability": " quick super jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/81/S3_Gear_Headgear_Sauna_Hat.png/120px-S3_Gear_Headgear_Sauna_Hat.png",
+        "name": "sauna hat",
+        "brand": " inkline",
+        "cost": " 4,000",
+        "ability": " quick super jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/54/S3_Gear_Headgear_Scrum_Cap.png/120px-S3_Gear_Headgear_Scrum_Cap.png",
+        "name": "scrum cap",
+        "brand": " forge",
+        "cost": " 8,500",
+        "ability": " special saver",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/e6/S3_Gear_Headgear_Sea-Lily_Hat.png/120px-S3_Gear_Headgear_Sea-Lily_Hat.png",
+        "name": "sea-lily hat",
+        "brand": " rockenberg",
+        "cost": " 4,500",
+        "ability": " special charge up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/65/S3_Gear_Headgear_Sea-Me-Nots.png/120px-S3_Gear_Headgear_Sea-Me-Nots.png",
+        "name": "sea-me-nots",
+        "brand": " z+f",
+        "cost": " 11,000",
+        "ability": " quick respawn",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/27/S3_Gear_Headgear_Seafoam_%27Phones.png/120px-S3_Gear_Headgear_Seafoam_%27Phones.png",
+        "name": "seafoam phones",
+        "brand": " z+f",
+        "cost": " 9,000",
+        "ability": " ink saver (main)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/ef/S3_Gear_Headgear_Seafoam_Cap.png/120px-S3_Gear_Headgear_Seafoam_Cap.png",
+        "name": "seafoam cap",
+        "brand": " z+f",
+        "cost": " 7,800",
+        "ability": " swim speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/9/99/S3_Gear_Headgear_Seashell_Bamboo_Hat.png/120px-S3_Gear_Headgear_Seashell_Bamboo_Hat.png",
+        "name": "seashell bamboo hat",
+        "brand": " inkline",
+        "cost": " 3,200",
+        "ability": " quick respawn",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/0b/S3_Gear_Headgear_See-an-Enemy_HUD.png/120px-S3_Gear_Headgear_See-an-Enemy_HUD.png",
+        "name": "see-an-enemy hud",
+        "brand": " grizzco",
+        "cost": " salmon run next wave",
+        "ability": "",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/57/S3_Gear_Headgear_Short_Beanie.png/120px-S3_Gear_Headgear_Short_Beanie.png",
+        "name": "short beanie",
+        "brand": " inkline",
+        "cost": " 600",
+        "ability": " ink saver (main)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/1/11/S3_Gear_Headgear_Skate_Helmet.png/120px-S3_Gear_Headgear_Skate_Helmet.png",
+        "name": "skate helmet",
+        "brand": " skalop",
+        "cost": " 2,500",
+        "ability": " special saver",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/cc/S3_Gear_Headgear_Skull_Bandana.png/120px-S3_Gear_Headgear_Skull_Bandana.png",
+        "name": "skull bandana",
+        "brand": " forge",
+        "cost": " 7,800",
+        "ability": " special saver",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/37/S3_Gear_Headgear_Slipstream_Helmet.png/120px-S3_Gear_Headgear_Slipstream_Helmet.png",
+        "name": "slipstream helmet",
+        "brand": " zink",
+        "cost": " 9,000",
+        "ability": " intensify action",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/aa/S3_Gear_Headgear_Slipstream_Helmet_Pro.png/120px-S3_Gear_Headgear_Slipstream_Helmet_Pro.png",
+        "name": "slipstream helmet pro",
+        "brand": " tentatek",
+        "cost": " 9,000",
+        "ability": " opening gambit",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/60/S3_Gear_Headgear_Snaxolotl_Hood.png/120px-S3_Gear_Headgear_Snaxolotl_Hood.png",
+        "name": "snaxolotl hood",
+        "brand": " z+f",
+        "cost": " 11,111",
+        "ability": " sub power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/0a/S3_Gear_Headgear_Sneaky_Beanie.png/120px-S3_Gear_Headgear_Sneaky_Beanie.png",
+        "name": "sneaky beanie",
+        "brand": " skalop",
+        "cost": " 3,000",
+        "ability": " swim speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/7/75/S3_Gear_Headgear_Snorkel_Mask.png/120px-S3_Gear_Headgear_Snorkel_Mask.png",
+        "name": "snorkel mask",
+        "brand": " forge",
+        "cost": " 3,000",
+        "ability": " ink saver (sub)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/4e/S3_Gear_Headgear_Soccer_Headband.png/120px-S3_Gear_Headgear_Soccer_Headband.png",
+        "name": "soccer headband",
+        "brand": " tentatek",
+        "cost": " 3,000",
+        "ability": " tenacity",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/7/7d/S3_Gear_Headgear_Special-Forces_Beret.png/120px-S3_Gear_Headgear_Special-Forces_Beret.png",
+        "name": "special-forces beret",
+        "brand": " forge",
+        "cost": " 9,700",
+        "ability": " opening gambit",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/b/b0/S3_Gear_Headgear_Splash_Goggles.png/120px-S3_Gear_Headgear_Splash_Goggles.png",
+        "name": "splash goggles",
+        "brand": " forge",
+        "cost": " 2,800",
+        "ability": " sub resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/0a/S3_Gear_Headgear_Sporty_Bobble_Hat.png/120px-S3_Gear_Headgear_Sporty_Bobble_Hat.png",
+        "name": "sporty bobble hat",
+        "brand": " skalop",
+        "cost": " 800",
+        "ability": " tenacity",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/6a/S3_Gear_Headgear_Squash_Headband.png/120px-S3_Gear_Headgear_Squash_Headband.png",
+        "name": "squash headband",
+        "brand": " zink",
+        "cost": " 400",
+        "ability": " special saver",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/42/S3_Gear_Headgear_Squid_Clip-Ons.png/120px-S3_Gear_Headgear_Squid_Clip-Ons.png",
+        "name": "squid clip-ons",
+        "brand": " amiibo",
+        "cost": "  inkling girl (splatoon 2)",
+        "ability": " opening gambit",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/7/7d/S3_Gear_Headgear_Squid_Facemask.png/120px-S3_Gear_Headgear_Squid_Facemask.png",
+        "name": "squid facemask",
+        "brand": " squidforce",
+        "cost": " 300",
+        "ability": " ink saver (main)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/9/95/S3_Gear_Headgear_Squid_Hairclip.png/120px-S3_Gear_Headgear_Squid_Hairclip.png",
+        "name": "squid hairclip",
+        "brand": " amiibo",
+        "cost": "  inkling girl (splatoon)",
+        "ability": " swim speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/6c/S3_Gear_Headgear_Squid_Nordic.png/120px-S3_Gear_Headgear_Squid_Nordic.png",
+        "name": "squid nordic",
+        "brand": " skalop",
+        "cost": " 9,500",
+        "ability": " comeback",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/b/b4/S3_Gear_Headgear_Squid-Stitch_Cap.png/120px-S3_Gear_Headgear_Squid-Stitch_Cap.png",
+        "name": "squid-stitch cap",
+        "brand": " skalop",
+        "cost": " 8,500",
+        "ability": " opening gambit",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/62/S3_Gear_Headgear_Squidband.png/120px-S3_Gear_Headgear_Squidband.png",
+        "name": "squidband",
+        "brand": " zink",
+        "cost": " 400",
+        "ability": " quick respawn",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/7/78/S3_Gear_Headgear_Squidbeak_Shield.png/120px-S3_Gear_Headgear_Squidbeak_Shield.png",
+        "name": "squidbeak shield",
+        "brand": " toni kensa",
+        "cost": " 4,000",
+        "ability": " sub power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/1/1c/S3_Gear_Headgear_Squidfin_Hook_Cans.png/120px-S3_Gear_Headgear_Squidfin_Hook_Cans.png",
+        "name": "squidfin hook cans",
+        "brand": " forge",
+        "cost": " 3,800",
+        "ability": " ink resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/01/S3_Gear_Headgear_Squidlife_Headphones.png/120px-S3_Gear_Headgear_Squidlife_Headphones.png",
+        "name": "squidlife headphones",
+        "brand": " forge",
+        "cost": " 7,070",
+        "ability": " ink recovery up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/c7/S3_Gear_Headgear_Squidvader_Cap.png/120px-S3_Gear_Headgear_Squidvader_Cap.png",
+        "name": "squidvader cap",
+        "brand": " skalop",
+        "cost": " 1,300",
+        "ability": " special charge up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/23/S3_Gear_Headgear_Squinja_Mask_Mk_I.png/120px-S3_Gear_Headgear_Squinja_Mask_Mk_I.png",
+        "name": "squinja mask mk i",
+        "brand": " amiibo",
+        "cost": "  inkling boy (splatoon 2)",
+        "ability": " quick respawn",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/e8/S3_Gear_Headgear_Squinja_Mask_Mk_II.png/120px-S3_Gear_Headgear_Squinja_Mask_Mk_II.png",
+        "name": "squinja mask mk ii",
+        "brand": " amiibo",
+        "cost": "  inkling boy (splatoon 2)",
+        "ability": " quick respawn",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/4d/S3_Gear_Headgear_Stay_Crusty_Cap.png/120px-S3_Gear_Headgear_Stay_Crusty_Cap.png",
+        "name": "stay crusty cap",
+        "brand": " squidforce",
+        "cost": " wandercrust",
+        "ability": " sub power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/b/ba/S3_Gear_Headgear_Stealth_Goggles.png/120px-S3_Gear_Headgear_Stealth_Goggles.png",
+        "name": "stealth goggles",
+        "brand": " forge",
+        "cost": " 9,800",
+        "ability": " swim speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/ca/S3_Gear_Headgear_Stealth_Squidbeak_Shield.png/120px-S3_Gear_Headgear_Stealth_Squidbeak_Shield.png",
+        "name": "stealth squidbeak shield",
+        "brand": " toni kensa",
+        "cost": " 4,400",
+        "ability": " ink saver (sub)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/f7/S3_Gear_Headgear_Steel_Helm.png/120px-S3_Gear_Headgear_Steel_Helm.png",
+        "name": "steel helm",
+        "brand": " amiibo",
+        "cost": "  octoling boy",
+        "ability": " special charge up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/2e/S3_Gear_Headgear_Straw_Boater.png/120px-S3_Gear_Headgear_Straw_Boater.png",
+        "name": "straw boater",
+        "brand": " skalop",
+        "cost": " 550",
+        "ability": " quick super jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/89/S3_Gear_Headgear_Streetstyle_Cap.png/120px-S3_Gear_Headgear_Streetstyle_Cap.png",
+        "name": "streetstyle cap",
+        "brand": " skalop",
+        "cost": " 600",
+        "ability": " ink saver (sub)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/b/bb/S3_Gear_Headgear_Striped_Beanie.png/120px-S3_Gear_Headgear_Striped_Beanie.png",
+        "name": "striped beanie",
+        "brand": " splash mob",
+        "cost": " 900",
+        "ability": " opening gambit",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/4b/S3_Gear_Headgear_Studio_Headphones.png/120px-S3_Gear_Headgear_Studio_Headphones.png",
+        "name": "studio headphones",
+        "brand": " forge",
+        "cost": " 2,800",
+        "ability": " ink saver (main)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/3c/S3_Gear_Headgear_Sun_Visor.png/120px-S3_Gear_Headgear_Sun_Visor.png",
+        "name": "sun visor",
+        "brand": " tentatek",
+        "cost": " 2,600",
+        "ability": " sub power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/9/90/S3_Gear_Headgear_Sushi_Sous-Chef_Band.png/120px-S3_Gear_Headgear_Sushi_Sous-Chef_Band.png",
+        "name": "sushi sous-chef band",
+        "brand": " amiibo",
+        "cost": "  octoling (splatoon 3)",
+        "ability": " ink saver (sub)",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/85/S3_Gear_Headgear_SV925_Circle_Shades.png/120px-S3_Gear_Headgear_SV925_Circle_Shades.png",
+        "name": "sv925 circle shades",
+        "brand": " rockenberg",
+        "cost": " 11,000",
+        "ability": " swim speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/9/9a/S3_Gear_Headgear_Swim_Cap.png/120px-S3_Gear_Headgear_Swim_Cap.png",
+        "name": "swim cap",
+        "brand": " emberz",
+        "cost": " 3,200",
+        "ability": " special power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/ec/S3_Gear_Headgear_Swim_Goggles.png/120px-S3_Gear_Headgear_Swim_Goggles.png",
+        "name": "swim goggles",
+        "brand": " zink",
+        "cost": " 100",
+        "ability": " last-ditch effort",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/c3/S3_Gear_Headgear_Swim_Reaper.png/120px-S3_Gear_Headgear_Swim_Reaper.png",
+        "name": "swim reaper",
+        "brand": " squidforce",
+        "cost": " switch news channel",
+        "ability": " special saver",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/f3/S3_Gear_Headgear_Takoroka_Mesh.png/120px-S3_Gear_Headgear_Takoroka_Mesh.png",
+        "name": "takoroka mesh",
+        "brand": " takoroka",
+        "cost": " 400",
+        "ability": " sub resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/c3/S3_Gear_Headgear_Takoroka_Visor.png/120px-S3_Gear_Headgear_Takoroka_Visor.png",
+        "name": "takoroka visor",
+        "brand": " takoroka",
+        "cost": " 7,500",
+        "ability": " quick super jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/7/71/S3_Gear_Headgear_Teal_Pinhole_Shades.png/120px-S3_Gear_Headgear_Teal_Pinhole_Shades.png",
+        "name": "teal pinhole shades",
+        "brand": " squidforce",
+        "cost": " switch news channel",
+        "ability": " sub resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/e/e0/S3_Gear_Headgear_Teddy_Band.png/120px-S3_Gear_Headgear_Teddy_Band.png",
+        "name": "teddy band",
+        "brand": " cuttlegear",
+        "cost": " return of the mammalians",
+        "ability": " comeback",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/59/S3_Gear_Headgear_Tee_Time_Visor.png/120px-S3_Gear_Headgear_Tee_Time_Visor.png",
+        "name": "tee time visor",
+        "brand": " skalop",
+        "cost": " 1,200",
+        "ability": " run speed up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/b/b8/S3_Gear_Headgear_Tennis_Headband.png/120px-S3_Gear_Headgear_Tennis_Headband.png",
+        "name": "tennis headband",
+        "brand": " tentatek",
+        "cost": " 300",
+        "ability": " comeback",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/2e/S3_Gear_Headgear_Tentaclinger_Earring.png/120px-S3_Gear_Headgear_Tentaclinger_Earring.png",
+        "name": "tentaclinger earring",
+        "brand": " toni kensa",
+        "cost": " 12,800",
+        "ability": " quick super jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/a0/S3_Gear_Headgear_The_Plankton_Walker.png/120px-S3_Gear_Headgear_The_Plankton_Walker.png",
+        "name": "the plankton walker",
+        "brand": " squidforce",
+        "cost": " switch news channel",
+        "ability": " last-ditch effort",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/7/75/S3_Gear_Headgear_Tinted_Shades.png/120px-S3_Gear_Headgear_Tinted_Shades.png",
+        "name": "tinted shades",
+        "brand": " zekko",
+        "cost": " 350",
+        "ability": " last-ditch effort",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/b/b6/S3_Gear_Headgear_Toni_Kensa_Goggles.png/120px-S3_Gear_Headgear_Toni_Kensa_Goggles.png",
+        "name": "toni kensa goggles",
+        "brand": " toni kensa",
+        "cost": " 200",
+        "ability": " comeback",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/1/1e/S3_Gear_Headgear_Treasure_Hunter.png/120px-S3_Gear_Headgear_Treasure_Hunter.png",
+        "name": "treasure hunter",
+        "brand": " forge",
+        "cost": " 3,000",
+        "ability": " ink recovery up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/1/1f/S3_Gear_Headgear_Triple-Deck_Specs.png/120px-S3_Gear_Headgear_Triple-Deck_Specs.png",
+        "name": "triple-deck specs",
+        "brand": " enperry",
+        "cost": " 11,300",
+        "ability": " sub power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/c8/S3_Gear_Headgear_Tulip_Parasol.png/120px-S3_Gear_Headgear_Tulip_Parasol.png",
+        "name": "tulip parasol",
+        "brand": " inkline",
+        "cost": " 1,280",
+        "ability": " ink resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/1/16/S3_Gear_Headgear_Twisty_Headband.png/120px-S3_Gear_Headgear_Twisty_Headband.png",
+        "name": "twisty headband",
+        "brand": " squidforce",
+        "cost": " switch news channel",
+        "ability": " special power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/cc/S3_Gear_Headgear_Two-Stripe_Mesh.png/120px-S3_Gear_Headgear_Two-Stripe_Mesh.png",
+        "name": "two-stripe mesh",
+        "brand": " krak-on",
+        "cost": " 700",
+        "ability": " special saver",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/f0/S3_Gear_Headgear_Undead_Head.png/120px-S3_Gear_Headgear_Undead_Head.png",
+        "name": "undead head",
+        "brand": " squidforce",
+        "cost": " switch news channel",
+        "ability": " quick respawn",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/8f/S3_Gear_Headgear_Urchin_Understitch.png/120px-S3_Gear_Headgear_Urchin_Understitch.png",
+        "name": "urchin understitch",
+        "brand": " krak-on",
+        "cost": " 11,000",
+        "ability": " intensify action",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/d/d0/S3_Gear_Headgear_Urchins_Cap.png/120px-S3_Gear_Headgear_Urchins_Cap.png",
+        "name": "urchins cap",
+        "brand": " skalop",
+        "cost": " 600",
+        "ability": " sub power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/c0/S3_Gear_Headgear_Vintage_Biker_Cap.png/120px-S3_Gear_Headgear_Vintage_Biker_Cap.png",
+        "name": "vintage biker cap",
+        "brand": " barazushi",
+        "cost": " 11,500",
+        "ability": " ink resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/9/9e/S3_Gear_Headgear_Visor_Skate_Helmet.png/120px-S3_Gear_Headgear_Visor_Skate_Helmet.png",
+        "name": "visor skate helmet",
+        "brand": " skalop",
+        "cost": " 8,000",
+        "ability": " last-ditch effort",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/5a/S3_Gear_Headgear_Welding_Mask.png/120px-S3_Gear_Headgear_Welding_Mask.png",
+        "name": "welding mask",
+        "brand": " grizzco",
+        "cost": " 800",
+        "ability": " tenacity",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/af/S3_Gear_Headgear_Wharfside_Cap.png/120px-S3_Gear_Headgear_Wharfside_Cap.png",
+        "name": "wharfside cap",
+        "brand": " skalop",
+        "cost": " 5,000",
+        "ability": " tenacity",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/c3/S3_Gear_Headgear_White_Arrowbands.png/120px-S3_Gear_Headgear_White_Arrowbands.png",
+        "name": "white arrowbands",
+        "brand": " zekko",
+        "cost": " 8,000",
+        "ability": " special power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/00/S3_Gear_Headgear_White_Headband.png/120px-S3_Gear_Headgear_White_Headband.png",
+        "name": "white headband",
+        "brand": " squidforce",
+        "cost": " 300",
+        "ability": " ink recovery up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/2e/S3_Gear_Headgear_Winkle_Stripe_Helm.png/120px-S3_Gear_Headgear_Winkle_Stripe_Helm.png",
+        "name": "winkle stripe helm",
+        "brand": " skalop",
+        "cost": " 9,000",
+        "ability": " sub resistance up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/f3/S3_Gear_Headgear_Woolly_Urchins_Classic.png/120px-S3_Gear_Headgear_Woolly_Urchins_Classic.png",
+        "name": "woolly urchins classic",
+        "brand": " krak-on",
+        "cost": " 3,800",
+        "ability": " comeback",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/56/S3_Gear_Headgear_Worker%27s_Cap.png/120px-S3_Gear_Headgear_Worker%27s_Cap.png",
+        "name": "workers cap",
+        "brand": " grizzco",
+        "cost": " 30",
+        "ability": " special saver",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/c0/S3_Gear_Headgear_Worker%27s_Head_Towel.png/120px-S3_Gear_Headgear_Worker%27s_Head_Towel.png",
+        "name": "workers head towel",
+        "brand": " grizzco",
+        "cost": " 100",
+        "ability": " ink recovery up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/b/b6/S3_Gear_Headgear_World_Tour_Crown.png/120px-S3_Gear_Headgear_World_Tour_Crown.png",
+        "name": "world tour crown",
+        "brand": " amiibo",
+        "cost": "  pearl (side order)",
+        "ability": " ink recovery up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/3e/S3_Gear_Headgear_World_Tour_Headphones.png/120px-S3_Gear_Headgear_World_Tour_Headphones.png",
+        "name": "world tour headphones",
+        "brand": " amiibo",
+        "cost": "  marina (side order)",
+        "ability": " tenacity",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/a0/S3_Gear_Headgear_Yamagiri_Beanie.png/120px-S3_Gear_Headgear_Yamagiri_Beanie.png",
+        "name": "yamagiri beanie",
+        "brand": " inkline",
+        "cost": " 1,280",
+        "ability": " intensify action",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/33/S3_Gear_Headgear_Yellow_Pinhole_Shades.png/120px-S3_Gear_Headgear_Yellow_Pinhole_Shades.png",
+        "name": "yellow pinhole shades",
+        "brand": " squidforce",
+        "cost": " switch news channel",
+        "ability": " special power up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/a/a6/S3_Gear_Headgear_Z%2BF_Flair_Bowler.png/120px-S3_Gear_Headgear_Z%2BF_Flair_Bowler.png",
+        "name": "z+f flair bowler",
+        "brand": " z+f",
+        "cost": " 9,800",
+        "ability": " special charge up",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/0/07/S3_Gear_Headgear_ZedFry_Beanie.png/120px-S3_Gear_Headgear_ZedFry_Beanie.png",
+        "name": "zedfry beanie",
+        "brand": " z+f",
+        "cost": " 1,111",
+        "ability": " quick super jump",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/41/S3_Gear_Headgear_ZedFry_Funface.png/120px-S3_Gear_Headgear_ZedFry_Funface.png",
+        "name": "zedfry funface",
+        "brand": " squidforce",
+        "cost": " switch news channel",
+        "ability": " special saver",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/4/44/S3_Gear_Headgear_ZedFry_Helmet.png/120px-S3_Gear_Headgear_ZedFry_Helmet.png",
+        "name": "zedfry helmet",
+        "brand": " z+f",
+        "cost": " 8,000",
+        "ability": " last-ditch effort",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/3e/S3_Gear_Headgear_Zekko_Cap.png/120px-S3_Gear_Headgear_Zekko_Cap.png",
+        "name": "zekko cap",
+        "brand": " zekko",
+        "cost": " 2,700",
+        "ability": " opening gambit",
+        "rarity": "0"
+    },
+    {
+        "image": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/c/ce/S3_Gear_Headgear_Zekko_Mesh.png/120px-S3_Gear_Headgear_Zekko_Mesh.png",
+        "name": "zekko mesh",
+        "brand": " zekko",
+        "cost": " 500",
+        "ability": " quick super jump",
+        "rarity": "0"
+    }
+]

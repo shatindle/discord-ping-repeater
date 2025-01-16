@@ -41,16 +41,15 @@ function permutator(inputArr) {
 }
 
 async function refreshGear() {
-    if (!settings.gearSites) return;
-
     items.splatoon2 = [
-        ...(await headgear(3)),
-        ...(await clothing(3)),
-        ...(await shoes(3)),
+        ...(require("./dataFiles/List_of_headgear_in_Splatoon_3.json")),
+        ...(require("./dataFiles/List_of_clothing_in_Splatoon_3.json")),
+        ...(require("./dataFiles/List_of_shoes_in_Splatoon_3.json")),
         
-        ...(await headgear(2)),
-        ...(await clothing(2)),
-        ...(await shoes(2))
+        
+        ...(require("./dataFiles/List_of_headgear_in_Splatoon_2.json")),
+        ...(require("./dataFiles/List_of_clothing_in_Splatoon_2.json")),
+        ...(require("./dataFiles/List_of_shoes_in_Splatoon_2.json"))
     ];
 
     const y = items.splatoon2.map(t => t.name.split(" ").length).sort();
@@ -173,8 +172,9 @@ function attemptResult(words, length) {
 
 refreshGear();
 
+// this is no longer needed since we have a cached copy and game dev has ceased
 // refresh the gear once every 24 hours
-setInterval(refreshGear, 86400000);
+//setInterval(refreshGear, 86400000);
 
 module.exports = {
     searchGear
