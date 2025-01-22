@@ -55,17 +55,17 @@ async function removeMessage(discord, message, user, userId, channelId, content)
  * @param {Message} message
  */
 async function messageCreate(discord, message) {
-    // ignore messages from mods and bots
-    if (message.author.bot) return;
-    if (message.member.permissions.has(PermissionsBitField.Flags.ManageMessages)) return;
-
-    const user = `${message.member.user.username}#${message.member.user.discriminator}`;
-    const userId = message.member.id;
-    const channelId = message.channelId;
-    const content = message.content;
-    const guildId = message.guildId;
-
     try {
+        // ignore messages from mods and bots
+        if (message.author.bot) return;
+        if (message.member.permissions.has(PermissionsBitField.Flags.ManageMessages)) return;
+
+        const user = `${message.member.user.username}#${message.member.user.discriminator}`;
+        const userId = message.member.id;
+        const channelId = message.channelId;
+        const content = message.content;
+        const guildId = message.guildId;
+
         if (!await allowedLinks(content, guildId)) {
             await removeMessage(discord, message, user, userId, channelId, content);
             return true;
@@ -83,19 +83,19 @@ async function messageCreate(discord, message) {
  * @returns 
  */
 async function messageUpdate(discord, oldMessage, newMessage) {
-    const message = newMessage;
-
-    // ignore messages from mods and bots
-    if (message.author.bot) return;
-    if (message.member.permissions.has(PermissionsBitField.Flags.ManageMessages)) return;
-
-    const user = `${message.member.user.username}#${message.member.user.discriminator}`;
-    const userId = message.member.id;
-    const channelId = message.channelId;
-    const content = message.content;
-    const guildId = message.guildId;
-
     try {
+        const message = newMessage;
+
+        // ignore messages from mods and bots
+        if (message.author.bot) return;
+        if (message.member.permissions.has(PermissionsBitField.Flags.ManageMessages)) return;
+
+        const user = `${message.member.user.username}#${message.member.user.discriminator}`;
+        const userId = message.member.id;
+        const channelId = message.channelId;
+        const content = message.content;
+        const guildId = message.guildId;
+    
         if (!await allowedLinks(content, guildId)) {
             await removeMessage(discord, message, user, userId, channelId, content);
             return true;

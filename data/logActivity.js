@@ -6,7 +6,7 @@ async function logActivity(client, action, activity) {
         let channel = client.channels.cache.get(spamChannel);
 
         if (!channel || !channel.send)
-            channel = client.channels.fetch(spamChannel);
+            channel = await client.channels.fetch(spamChannel);
 
         const message = new EmbedBuilder()
             .setColor("#d3c3df")

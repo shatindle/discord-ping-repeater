@@ -20,18 +20,8 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v2
-      
       # Runs a set of commands using the runners shell
       - name: Build and deploy the application
         run: |
-          cd $GITHUB_WORKSPACE
-          npm install
-          npm audit fix || true
-          pm2 stop judd-echo-ping
-          #pm2 stop kobe-judd-bot
-          cp -r $GITHUB_WORKSPACE/* /home/sha_tindle/repos/discord-ping-repeater
-          #cp -r $GITHUB_WORKSPACE/* /home/sha_tindle/repos/kobe-judd-bot
-          pm2 start judd-echo-ping
-          #pm2 start kobe-judd-bot
+          git -C /var/repos/discord-ping-repeater pull
+          bash /var/dockerstart/discord-ping-repeater.sh
